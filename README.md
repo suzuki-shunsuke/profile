@@ -6,11 +6,11 @@
 
 ## リポジトリのおおまかな分類
 
-* [設定ファイル](config)
-* [Wiki](wiki)
-* [サンプルコード](sample-code)
-* [Ansible Playbook 及び Vagrantfile](ansible-playbook)
+* [設定ファイル](https://github.com/suzuki-shunsuke/profile/wiki/config)
+* [Wiki](https://github.com/suzuki-shunsuke/profile/wiki/wiki)
+* [サンプルコード](https://github.com/suzuki-shunsuke/profile/wiki/sample-code)
+* [Ansible Playbook 及び Vagrantfile](https://github.com/suzuki-shunsuke/profile/wiki/ansible-playbook)
 * OSS
-  * [Ansibleのロール・モジュール](ansible)
-  * [Dockerfile](docker)
-  * [ライブラリ・フレームワーク(作りかけのものもあり)](library)
+  * [Ansibleのロール・モジュール](https://github.com/suzuki-shunsuke/profile/wiki/ansible)
+  * [Dockerfile](https://github.com/suzuki-shunsuke/profile/wiki/docker)
+  * [ライブラリ・フレームワーク(作りかけのものもあり)](https://github.com/suzuki-shunsuke/profile/wiki/library)
