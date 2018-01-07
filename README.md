@@ -49,6 +49,5 @@ Backend and DevOps engineer
 * [Ansible playbooks](https://github.com/suzuki-shunsuke/profile/wiki/ansible-playbook)
   * [ansible-playbook-mac](https://github.com/suzuki-shunsuke/ansible-playbook-mac)
   * [ansible-playbook-ubuntu-cli](https://github.com/suzuki-shunsuke/ansible-playbook-ubuntu-cli)
-  * [ansible.arch](https://github.com/suzuki-shunsuke/ansible.arch)
+  * [ansible.arch](https://github.com/suzuki-shunsuke/ansible.arch): Ansible Playbook for Arch Linux
 * [dotfiles](https://github.com/suzuki-shunsuke/dotfiles)
-* [sample codes](https://github.com/suzuki-shunsuke/profile/wiki/sample-code)
