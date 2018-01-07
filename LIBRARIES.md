@@ -2,7 +2,7 @@
 
 name | badges | lang | type | short description
 --- | --- | --- | --- | ---
-[ryml](https://github.com/suzuki-shunsuke/ryml) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/ryml.svg)]() | node | cli | HTTP Client
+[ryml](https://github.com/suzuki-shunsuke/ryml) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/ryml.svg)]() [![Build Status](https://travis-ci.org/suzuki-shunsuke/ryml.svg?branch=master)](https://travis-ci.org/suzuki-shunsuke/ryml) [![npm version](https://badge.fury.io/js/ryml.svg)](https://badge.fury.io/js/ryml) | node | cli | HTTP Client
 [git-rm-branch](https://github.com/suzuki-shunsuke/git-rm-branch) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/git-rm-branch.svg)]() | go | cli | Remove git branches
 [rterror](https://github.com/suzuki-shunsuke/rterror) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/rterror.svg)]() | go | library | Handle runtime error
 [japanese-holiday-api](https://github.com/suzuki-shunsuke/japanese-holiday-api) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/japanese-holiday-api.svg)]() | go | api server | Get japanese holidays
