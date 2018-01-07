@@ -30,9 +30,9 @@ Backend and DevOps engineer
 ## Development Environment
 
 * Mac
-* zsh
-* tmux
-* neovim
+* [Zsh](https://github.com/suzuki-shunsuke/zsh.conf)
+* [tmux](https://github.com/suzuki-shunsuke/tmux.conf)
+* [Neovim](https://github.com/suzuki-shunsuke/neovim.conf)
 
 ## Repository Classification
 
@@ -46,7 +46,7 @@ Backend and DevOps engineer
   * [generator-ss-validate-commit-msg](https://github.com/suzuki-shunsuke/generator-ss-validate-commit-msg)
   * [generator-ss-flask](https://github.com/suzuki-shunsuke/generator-ss-flask)
 * [libraries](LIBRARIES.md)
-* [Ansible playbooks](https://github.com/suzuki-shunsuke/profile/wiki/ansible-playbook)
+* Ansible playbooks
   * [ansible-playbook-mac](https://github.com/suzuki-shunsuke/ansible-playbook-mac)
   * [ansible-playbook-ubuntu-cli](https://github.com/suzuki-shunsuke/ansible-playbook-ubuntu-cli)
   * [ansible.arch](https://github.com/suzuki-shunsuke/ansible.arch): Ansible Playbook for Arch Linux
