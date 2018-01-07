@@ -1,15 +1,44 @@
-# ユーザ suzuki-shunsuke のリポジトリのまとめ
+# Self introduction
 
-リポジトリが100個以上乱立しているので、 他の人にユーザー名だけ共有してもよく分からないと思います。
+Self introduction of [suzuki-shunsuke](https://github.com/suzuki-shunsuke)
 
-そこでどんなリポジトリがあるのかを [Wiki](https://github.com/suzuki-shunsuke/profile/wiki) にまとめます。
+Backend and DevOps engineer
 
-## リポジトリのおおまかな分類
+## Programing Languages
 
-* [設定ファイル](https://github.com/suzuki-shunsuke/profile/wiki/config)
-* [サンプルコード](https://github.com/suzuki-shunsuke/profile/wiki/sample-code)
-* [Ansible Playbook 及び Vagrantfile](https://github.com/suzuki-shunsuke/profile/wiki/ansible-playbook)
-* OSS
-  * [Ansibleのロール・モジュール](https://github.com/suzuki-shunsuke/profile/wiki/ansible)
-  * [yeoman generator](yeoman-generator): もっと作りたい
-  * [ライブラリ・フレームワーク(作りかけのものもあり)](https://github.com/suzuki-shunsuke/profile/wiki/library)
+* [Golang](https://golang.org/doc/) ([Echo](https://echo.labstack.com/))
+* [Python](https://www.python.org/) ([Flask](http://flask.pocoo.org/), [Tornado](http://www.tornadoweb.org/en/stable/))
+* [Node.js](https://nodejs.org/en/)
+
+## Skills
+
+* [Ansible](http://docs.ansible.com/ansible/latest/index.html)
+* [Yeoman](http://yeoman.io/)
+* [Docker](https://docs.docker.com/)
+* [Drone CI](http://docs.drone.io/)
+* etc
+
+## Interested in
+
+* [Consul](https://www.consul.io/)
+* [Kubernetes](https://kubernetes.io/)
+* [Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
+* [Grafana](http://docs.grafana.org/)
+* [Graylog](http://docs.graylog.org/en/latest/index.html)
+* [Prometheus](https://prometheus.io/docs/introduction/overview/)
+
+## Development Environment
+
+* Mac
+* zsh
+* tmux
+* neovim
+
+## Repository Classification
+
+* [Ansible roles and modules](https://github.com/suzuki-shunsuke/profile/wiki/ansible)
+* [yeoman generators](https://github.com/suzuki-shunsuke/profile/wiki/yeoman-generator)
+* [libraries](https://github.com/suzuki-shunsuke/profile/wiki/library)
+* [Ansible playbooks](https://github.com/suzuki-shunsuke/profile/wiki/ansible-playbook)
+* [dotfiles](https://github.com/suzuki-shunsuke/profile/wiki/config)
+* [sample codes](https://github.com/suzuki-shunsuke/profile/wiki/sample-code)
