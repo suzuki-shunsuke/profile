@@ -39,8 +39,16 @@ Backend and DevOps engineer
 * Ansible roles and modules
   * https://galaxy.ansible.com/suzuki-shunsuke/
   * https://galaxy.ansible.com/list#/roles?page=1&page_size=20&users=suzuki-shunsuke&order=-download_count,name
-* [yeoman generators](https://github.com/suzuki-shunsuke/profile/wiki/yeoman-generator)
+* yeoman generators and adapters
+  * [generator-ss-ansible-playbook](https://github.com/suzuki-shunsuke/generator-ss-ansible-playbook)
+  * [yeoman-merge-ui](https://github.com/suzuki-shunsuke/yeoman-merge-ui)
+  * [generator-ss-standard-version](https://github.com/suzuki-shunsuke/generator-ss-standard-version)
+  * [generator-ss-validate-commit-msg](https://github.com/suzuki-shunsuke/generator-ss-validate-commit-msg)
+  * [generator-ss-flask](https://github.com/suzuki-shunsuke/generator-ss-flask)
 * [libraries](https://github.com/suzuki-shunsuke/profile/wiki/library)
 * [Ansible playbooks](https://github.com/suzuki-shunsuke/profile/wiki/ansible-playbook)
-* [dotfiles](https://github.com/suzuki-shunsuke/profile/wiki/config)
+  * [ansible-playbook-mac](https://github.com/suzuki-shunsuke/ansible-playbook-mac)
+  * [ansible-playbook-ubuntu-cli](https://github.com/suzuki-shunsuke/ansible-playbook-ubuntu-cli)
+  * [ansible.arch](https://github.com/suzuki-shunsuke/ansible.arch)
+* [dotfiles](https://github.com/suzuki-shunsuke/dotfiles)
 * [sample codes](https://github.com/suzuki-shunsuke/profile/wiki/sample-code)
