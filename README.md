@@ -45,7 +45,7 @@ Backend and DevOps engineer
   * [generator-ss-standard-version](https://github.com/suzuki-shunsuke/generator-ss-standard-version)
   * [generator-ss-validate-commit-msg](https://github.com/suzuki-shunsuke/generator-ss-validate-commit-msg)
   * [generator-ss-flask](https://github.com/suzuki-shunsuke/generator-ss-flask)
-* [libraries](https://github.com/suzuki-shunsuke/profile/wiki/library)
+* [libraries](LIBRARIES.md)
 * [Ansible playbooks](https://github.com/suzuki-shunsuke/profile/wiki/ansible-playbook)
   * [ansible-playbook-mac](https://github.com/suzuki-shunsuke/ansible-playbook-mac)
   * [ansible-playbook-ubuntu-cli](https://github.com/suzuki-shunsuke/ansible-playbook-ubuntu-cli)
