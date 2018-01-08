@@ -1,5 +1,7 @@
 # Self introduction
 
+[![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/profile.svg)](https://github.com/suzuki-shunsuke/profile)
+
 Self introduction of [suzuki-shunsuke](https://github.com/suzuki-shunsuke)
 
 Backend and DevOps engineer
