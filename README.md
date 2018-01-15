@@ -36,6 +36,11 @@ Backend and DevOps engineer
 * [tmux](https://github.com/suzuki-shunsuke/tmux.conf)
 * [Neovim](https://github.com/suzuki-shunsuke/neovim.conf)
 
+## Accounts
+
+* [npm](https://www.npmjs.com/~suzuki-shunsuke)
+* [ansible](https://galaxy.ansible.com/suzuki-shunsuke/)
+
 ## Repository Classification
 
 * Ansible roles and modules
@@ -54,7 +59,9 @@ Backend and DevOps engineer
   * [ansible.arch](https://github.com/suzuki-shunsuke/ansible.arch): Ansible Playbook for Arch Linux
 * [dotfiles](https://github.com/suzuki-shunsuke/dotfiles)
 
-## Contribution
+## Contribution (Pull Request)
 
-* https://github.com/AlecAivazis/survey/pull/110
-* https://github.com/yeoman/environment/pull/93
+merge date | repository(link to PR) | lang | short description
+--- | --- | --- | ---
+2018/01/8 | [yeoman/environment](https://github.com/yeoman/environment/pull/93) | node | Allow to change the log's 'colors' parameter
+2017/11/12 | [AlecAivazis/survey](https://github.com/AlecAivazis/survey/pull/110) | go | Allow to change the editor behavior
