@@ -61,7 +61,7 @@ Backend and DevOps engineer
 
 ## Contribution (Pull Request)
 
-merge date | repository(link to PR) | lang | short description
+merge date | repository | lang | PR's short description
 --- | --- | --- | ---
-2018/01/8 | [yeoman/environment](https://github.com/yeoman/environment/pull/93) | node | Allow to change the log's 'colors' parameter
-2017/11/12 | [AlecAivazis/survey](https://github.com/AlecAivazis/survey/pull/110) | go | Allow to change the editor behavior
+2018/01/8 | [yeoman/environment](https://github.com/yeoman/environment) | node | [Allow to change the log's 'colors' parameter](https://github.com/yeoman/environment/pull/93)
+2017/11/12 | [AlecAivazis/survey](https://github.com/AlecAivazis/survey) | go | [Allow to change the editor behavior](https://github.com/AlecAivazis/survey/pull/110)
