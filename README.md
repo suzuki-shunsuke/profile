@@ -63,6 +63,7 @@ Backend and DevOps engineer
 
 merge date | repository | lang | PR's short description
 --- | --- | --- | ---
+2018/01/19 | [nlopes/slack](https://github.com/nlopes/slack) | go | [Support some conversation API](https://github.com/nlopes/slack/pull/249)
 2018/01/19 | [nlopes/slack](https://github.com/nlopes/slack) | go | [Support users.lookupByEmail API](https://github.com/nlopes/slack/pull/247)
 2018/01/08 | [yeoman/environment](https://github.com/yeoman/environment) | node | [Allow to change the log's 'colors' parameter](https://github.com/yeoman/environment/pull/93)
 2017/11/12 | [AlecAivazis/survey](https://github.com/AlecAivazis/survey) | go | [Allow to change the editor behavior](https://github.com/AlecAivazis/survey/pull/110)
