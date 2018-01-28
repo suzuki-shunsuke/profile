@@ -61,7 +61,7 @@ Backend and DevOps engineer
 
 ## Contribution (Pull Request)
 
-merge date | repository | lang | PR's short description
+merged date | repository | lang | PR's short description
 --- | --- | --- | ---
 2018/01/28 | [drone/docs](https://github.com/drone/docs) | document (go) | [Update User Update API documentation](https://github.com/drone/docs/pull/282)
 2018/01/28 | [drone/docs](https://github.com/drone/docs) | document (go) | [Copy the API Overview documentation from readme.drone.io](https://github.com/drone/docs/pull/280)
