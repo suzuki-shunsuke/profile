@@ -71,11 +71,7 @@ Backend and DevOps engineer
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
-2018/01/31 | [drone/docs](https://github.com/drone/docs) | document (go) | [Update User Create API documentation](https://github.com/drone/docs/pull/281)
-2018/01/31 | [drone/docs](https://github.com/drone/docs) | document (go) | [Update Secrets API Documentation](https://github.com/drone/docs/pull/292)
-2018/01/31 | [drone/docs](https://github.com/drone/docs) | document (go) | [Update Registry API Documentation](https://github.com/drone/docs/pull/294)
-2018/01/31 | [drone/docs](https://github.com/drone/docs) | document (go) | [Update Repository API](https://github.com/drone/docs/pull/293)
-2018/01/31 | [drone/docs](https://github.com/drone/docs) | document (go) | [Update Build API Documentation](https://github.com/drone/docs/pull/295)
+2018/01/31 | [drone/docs](https://github.com/drone/docs) | document (go) | <ul><li>[Update User Create API documentation](https://github.com/drone/docs/pull/281)</li><li>[Update Secrets API Documentation](https://github.com/drone/docs/pull/292)</li><li>[Update Registry API Documentation](https://github.com/drone/docs/pull/294)</li><li>[Update Repository API](https://github.com/drone/docs/pull/293)</li><li>[Update Build API Documentation](https://github.com/drone/docs/pull/295)</li></ul>
 2018/01/29 | [drone/docs](https://github.com/drone/docs) | document (go) | [Update Users documentation](https://github.com/drone/docs/pull/291)
 2018/01/28 | [drone/docs](https://github.com/drone/docs) | document (go) | [Update User Update API documentation](https://github.com/drone/docs/pull/282)
 2018/01/28 | [drone/docs](https://github.com/drone/docs) | document (go) | [Copy the API Overview documentation from readme.drone.io](https://github.com/drone/docs/pull/280)
