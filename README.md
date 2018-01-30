@@ -73,8 +73,7 @@ merged date | repository | lang | PR's short description
 --- | --- | --- | ---
 2018/01/31 | [drone/docs](https://github.com/drone/docs) | document (go) | <ul><li>[Update User Create API documentation](https://github.com/drone/docs/pull/281)</li><li>[Update Secrets API Documentation](https://github.com/drone/docs/pull/292)</li><li>[Update Registry API Documentation](https://github.com/drone/docs/pull/294)</li><li>[Update Repository API](https://github.com/drone/docs/pull/293)</li><li>[Update Build API Documentation](https://github.com/drone/docs/pull/295)</li></ul>
 2018/01/29 | [drone/docs](https://github.com/drone/docs) | document (go) | [Update Users documentation](https://github.com/drone/docs/pull/291)
-2018/01/28 | [drone/docs](https://github.com/drone/docs) | document (go) | [Update User Update API documentation](https://github.com/drone/docs/pull/282)
-2018/01/28 | [drone/docs](https://github.com/drone/docs) | document (go) | [Copy the API Overview documentation from readme.drone.io](https://github.com/drone/docs/pull/280)
+2018/01/28 | [drone/docs](https://github.com/drone/docs) | document (go) | <ul><li>[Update User Update API documentation](https://github.com/drone/docs/pull/282)</li><li>[Copy the API Overview documentation from readme.drone.io](https://github.com/drone/docs/pull/280)</li></ul>
 2018/01/19 | [nlopes/slack](https://github.com/nlopes/slack) | go | [Support some conversation API](https://github.com/nlopes/slack/pull/249)
 2018/01/19 | [nlopes/slack](https://github.com/nlopes/slack) | go | [Support users.lookupByEmail API](https://github.com/nlopes/slack/pull/247)
 2018/01/08 | [yeoman/environment](https://github.com/yeoman/environment) | node | [Allow to change the log's 'colors' parameter](https://github.com/yeoman/environment/pull/93)
