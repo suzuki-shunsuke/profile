@@ -71,6 +71,7 @@ Backend and DevOps engineer
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2018/02/21 | [nlopes/slack](https://github.com/nlopes/slack) | go | [Fix bug of UploadFile (duplicate SLACK_API)](https://github.com/nlopes/slack/pull/266)
 2018/02/21 | [nlopes/slack](https://github.com/nlopes/slack) | go | [Add fields EnterpriseID and EnterpriseName to SlashCommand](https://github.com/nlopes/slack/pull/265)
 2018/02/02 | [nlopes/slack](https://github.com/nlopes/slack) | go | [Support some conversation API (2)](https://github.com/nlopes/slack/pull/252)
 2018/01/31 | [drone/docs](https://github.com/drone/docs) | document (go) | <ul><li>[Update User Create API documentation](https://github.com/drone/docs/pull/281)</li><li>[Update Secrets API Documentation](https://github.com/drone/docs/pull/292)</li><li>[Update Registry API Documentation](https://github.com/drone/docs/pull/294)</li><li>[Update Repository API](https://github.com/drone/docs/pull/293)</li><li>[Update Build API Documentation](https://github.com/drone/docs/pull/295)</li></ul>
