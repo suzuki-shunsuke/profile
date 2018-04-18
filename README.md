@@ -26,6 +26,7 @@ Backend and DevOps engineer
 * [Yeoman](http://yeoman.io/)
 * [Docker](https://docs.docker.com/)
 * [Drone CI](http://docs.drone.io/)
+* [Graylog](http://docs.graylog.org/en/latest/index.html)
 * etc
 
 ## Interested in
@@ -34,7 +35,6 @@ Backend and DevOps engineer
 * [Kubernetes](https://kubernetes.io/)
 * [Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
 * [Grafana](http://docs.grafana.org/)
-* [Graylog](http://docs.graylog.org/en/latest/index.html)
 * [Prometheus](https://prometheus.io/docs/introduction/overview/)
 
 ## Development Environment
