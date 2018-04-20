@@ -71,6 +71,7 @@ Backend and DevOps engineer
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2018/04/20 | [nlopes/slack](https://github.com/nlopes/slack) | go | [Support users.profile.get API](https://github.com/nlopes/slack/pull/298)
 2018/02/21 | [nlopes/slack](https://github.com/nlopes/slack) | go | [Fix bug of UploadFile (duplicate SLACK_API)](https://github.com/nlopes/slack/pull/266)
 2018/02/21 | [nlopes/slack](https://github.com/nlopes/slack) | go | [Add fields EnterpriseID and EnterpriseName to SlashCommand](https://github.com/nlopes/slack/pull/265)
 2018/02/02 | [nlopes/slack](https://github.com/nlopes/slack) | go | [Support some conversation API (2)](https://github.com/nlopes/slack/pull/252)
