@@ -71,7 +71,7 @@ Backend and DevOps engineer
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
-2018/05/06 | [grpc/grpc.github.io](https://github.com/grpc/grpc.github.io) | document (go) | [docs: fix a broken link](https://github.com/grpc/grpc.github.io/pull/660)
+2018/05/06 | [grpc/grpc.github.io](https://github.com/grpc/grpc.github.io) | document | [docs: fix a broken link](https://github.com/grpc/grpc.github.io/pull/660)
 2018/05/05 | [nlopes/slack](https://github.com/nlopes/slack) | go | [feat: add user profile fields](https://github.com/nlopes/slack/pull/305)
 2018/05/02 | [nlopes/slack](https://github.com/nlopes/slack) | go | [Revert "Add custom user profile field to UserProfile"](https://github.com/nlopes/slack/pull/304)
 2018/04/20 | [nlopes/slack](https://github.com/nlopes/slack) | go | [Support users.profile.get API](https://github.com/nlopes/slack/pull/298)
