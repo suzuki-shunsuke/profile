@@ -71,6 +71,7 @@ Backend and DevOps engineer
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2018/05/25 | [ansible/ansible](https://github.com/ansible/ansible) | python | [Add 'init' option to docker_container module to support docker's `--init` option](https://github.com/ansible/ansible/pull/34547)
 2018/05/07 | [brianshumate/ansible-consul](https://github.com/brianshumate/ansible-consul) | ansible role (python) | [Assert if consul_group_name isn't included in groups](https://github.com/brianshumate/ansible-consul/pull/166)
 2018/05/07 | [nlopes/slack](https://github.com/nlopes/slack) | go | [Refactor with some tools](https://github.com/nlopes/slack/pull/306)
 2018/05/06 | [grpc/grpc.github.io](https://github.com/grpc/grpc.github.io) | document | [docs: fix a broken link](https://github.com/grpc/grpc.github.io/pull/660)
