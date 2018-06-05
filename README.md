@@ -71,6 +71,7 @@ Backend and DevOps engineer
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2018/06/06 | [brianshumate/ansible-consul](https://github.com/brianshumate/ansible-consul) | ansible role (python) | [Fix consul_configd_path's default value at README](https://github.com/brianshumate/ansible-consul/pull/168)
 2018/05/25 | [ansible/ansible](https://github.com/ansible/ansible) | python | [Add 'init' option to docker_container module to support docker's `--init` option](https://github.com/ansible/ansible/pull/34547)
 2018/05/07 | [brianshumate/ansible-consul](https://github.com/brianshumate/ansible-consul) | ansible role (python) | [Assert if consul_group_name isn't included in groups](https://github.com/brianshumate/ansible-consul/pull/166)
 2018/05/07 | [nlopes/slack](https://github.com/nlopes/slack) | go | [Refactor with some tools](https://github.com/nlopes/slack/pull/306)
