@@ -71,6 +71,7 @@ Backend and DevOps engineer
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2018/07/13 | [line/line-bot-sdk-go](https://github.com/line/line-bot-sdk-go) | go (document) | [Add status badges and a link to LICENSE.txt in README](https://github.com/line/line-bot-sdk-go/pull/92)
 2018/07/12 | [line/line-bot-sdk-go](https://github.com/line/line-bot-sdk-go) | go | [Add AccountLink event](https://github.com/line/line-bot-sdk-go/pull/91)
 2018/06/06 | [brianshumate/ansible-consul](https://github.com/brianshumate/ansible-consul) | ansible role (python) | [Fix consul_configd_path's default value at README](https://github.com/brianshumate/ansible-consul/pull/168)
 2018/05/25 | [ansible/ansible](https://github.com/ansible/ansible) | python | [Add 'init' option to docker_container module to support docker's `--init` option](https://github.com/ansible/ansible/pull/34547)
