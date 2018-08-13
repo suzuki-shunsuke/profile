@@ -71,7 +71,7 @@ Backend and DevOps engineer
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
-2018/08/12 | [gojuno/minimock](https://github.com/gojuno/minimock) | go | [Reset mockExpectations at Set method so that FormatFunc is called](https://github.com/gojuno/minimock/pull/12)
+2018/08/12 | [gojuno/minimock](https://github.com/gojuno/minimock) | go | <ul><li>[Reset mockExpectations at Set method so that FormatFunc is called](https://github.com/gojuno/minimock/pull/12)</li><li>[Fix mockExpectations undefined error when argument is nothing](https://github.com/gojuno/minimock/pull/13)</li></ul>
 2018/07/17 | [line/line-bot-sdk-go](https://github.com/line/line-bot-sdk-go) | go | [Support issue link token api](https://github.com/line/line-bot-sdk-go/pull/94)
 2018/07/13 | [line/line-bot-sdk-go](https://github.com/line/line-bot-sdk-go) | go (document) | [Add status badges and a link to LICENSE.txt in README](https://github.com/line/line-bot-sdk-go/pull/92)
 2018/07/12 | [line/line-bot-sdk-go](https://github.com/line/line-bot-sdk-go) | go | [Add AccountLink event](https://github.com/line/line-bot-sdk-go/pull/91)
