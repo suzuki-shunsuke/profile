@@ -6,43 +6,9 @@ Self introduction of [suzuki-shunsuke](https://github.com/suzuki-shunsuke)
 
 Backend and DevOps engineer
 
-* [Programing Languages](#programing-languages)
-* [Skills](#skills)
-* [Interested in](#interested-in)
-* [Development Environment](#development-environment)
 * [Accounts](#accounts)
 * [Repository Classification](#repository-classification)
 * [Contribution (Pull Request)](#contribution-pull-request)
-
-## Programing Languages
-
-* [Golang](https://golang.org/doc/) ([Echo](https://echo.labstack.com/))
-* [Python](https://www.python.org/) ([Flask](http://flask.pocoo.org/), [Tornado](http://www.tornadoweb.org/en/stable/))
-* [Node.js](https://nodejs.org/en/)
-
-## Skills
-
-* [Ansible](http://docs.ansible.com/ansible/latest/index.html)
-* [Yeoman](http://yeoman.io/)
-* [Docker](https://docs.docker.com/)
-* [Drone CI](http://docs.drone.io/)
-* [Graylog](http://docs.graylog.org/en/latest/index.html)
-* etc
-
-## Interested in
-
-* [Consul](https://www.consul.io/)
-* [Kubernetes](https://kubernetes.io/)
-* [Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
-* [Grafana](http://docs.grafana.org/)
-* [Prometheus](https://prometheus.io/docs/introduction/overview/)
-
-## Development Environment
-
-* Mac
-* [Zsh](https://github.com/suzuki-shunsuke/zsh.conf)
-* [tmux](https://github.com/suzuki-shunsuke/tmux.conf)
-* [Neovim](https://github.com/suzuki-shunsuke/neovim.conf)
 
 ## Accounts
 
