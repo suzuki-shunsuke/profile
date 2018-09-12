@@ -37,6 +37,7 @@ Backend and DevOps engineer
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2018/09/13 | [nlopes/slack](https://github.com/nlopes/slack) | go | [Support the thread_ts parameter of files.upload API](https://github.com/nlopes/slack/pull/398)
 2018/08/30 | [line/line-bot-sdk-go](https://github.com/line/line-bot-sdk-go) | go | [Lint](https://github.com/line/line-bot-sdk-go/pull/105)
 2018/08/29 | [line/line-bot-sdk-go](https://github.com/line/line-bot-sdk-go) | go | [Fix the version of linebot/version.go and add a shell script to prevent to forget update of linebot/version.go](https://github.com/line/line-bot-sdk-go/pull/103)
 2018/08/12 | [gojuno/minimock](https://github.com/gojuno/minimock) | go | <ul><li>[Reset mockExpectations at Set method so that FormatFunc is called](https://github.com/gojuno/minimock/pull/12)</li><li>[Fix mockExpectations undefined error when argument is nothing](https://github.com/gojuno/minimock/pull/13)</li></ul>
