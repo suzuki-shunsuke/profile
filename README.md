@@ -6,32 +6,12 @@ Self introduction of [suzuki-shunsuke](https://github.com/suzuki-shunsuke)
 
 Backend and DevOps engineer
 
-* [Accounts](#accounts)
-* [Repository Classification](#repository-classification)
 * [Contribution (Pull Request)](#contribution-pull-request)
-
-## Accounts
-
-* [npm](https://www.npmjs.com/~suzuki-shunsuke)
-* [ansible](https://galaxy.ansible.com/suzuki-shunsuke/)
-
-## Repository Classification
-
-* Ansible roles and modules
-  * https://galaxy.ansible.com/suzuki-shunsuke/
-  * https://galaxy.ansible.com/list#/roles?page=1&page_size=20&users=suzuki-shunsuke&order=-download_count,name
-* yeoman generators and adapters
-  * [generator-ss-ansible-playbook](https://github.com/suzuki-shunsuke/generator-ss-ansible-playbook)
-  * [yeoman-merge-ui](https://github.com/suzuki-shunsuke/yeoman-merge-ui)
-  * [generator-ss-standard-version](https://github.com/suzuki-shunsuke/generator-ss-standard-version)
-  * [generator-ss-validate-commit-msg](https://github.com/suzuki-shunsuke/generator-ss-validate-commit-msg)
-  * [generator-ss-flask](https://github.com/suzuki-shunsuke/generator-ss-flask)
-* [libraries](LIBRARIES.md)
-* Ansible playbooks
-  * [ansible-playbook-mac](https://github.com/suzuki-shunsuke/ansible-playbook-mac)
-  * [ansible-playbook-ubuntu-cli](https://github.com/suzuki-shunsuke/ansible-playbook-ubuntu-cli)
-  * [ansible.arch](https://github.com/suzuki-shunsuke/ansible.arch): Ansible Playbook for Arch Linux
-* [dotfiles](https://github.com/suzuki-shunsuke/dotfiles)
+* [Libraries](#libraries)
+* [Ansible Roles](#ansible-roles)
+* [Ansible Modules](#ansible-modules)
+* [Yeoman](#yeoman)
+* [Docker Images](#docker-images)
 
 ## Contribution (Pull Request)
 
@@ -62,3 +42,59 @@ merged date | repository | lang | PR's short description
 2018/01/19 | [nlopes/slack](https://github.com/nlopes/slack) | go | <ul><li>[Support some conversation API](https://github.com/nlopes/slack/pull/249)</li><li>[Support users.lookupByEmail API](https://github.com/nlopes/slack/pull/247)</li></ul>
 2018/01/08 | [yeoman/environment](https://github.com/yeoman/environment) | node | [Allow to change the log's 'colors' parameter](https://github.com/yeoman/environment/pull/93)
 2017/11/12 | [AlecAivazis/survey](https://github.com/AlecAivazis/survey) | go | [Allow to change the editor behavior](https://github.com/AlecAivazis/survey/pull/110)
+
+## Libraries
+
+name | badges | lang | type | short description
+--- | --- | --- | --- | ---
+[akoi](https://github.com/suzuki-shunsuke/akoi) | [![GitHub tag](https://img.shields.io/github/tag/suzuki-shunsuke/akoi.svg)](https://github.com/suzuki-shunsuke/akoi/releases) [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/akoi.svg)](https://github.com/suzuki-shunsuke/akoi) | go | cli | binary version control system
+[gria](https://github.com/suzuki-shunsuke/gria) | [![GitHub tag](https://img.shields.io/github/tag/suzuki-shunsuke/gria.svg)](https://github.com/suzuki-shunsuke/gria/releases) [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/gria.svg)](https://github.com/suzuki-shunsuke/gria) | go | cli | CLI tool for golang's test code scaffolding 
+[go-gencfg](https://github.com/suzuki-shunsuke/go-gencfg) | [![GitHub tag](https://img.shields.io/github/tag/suzuki-shunsuke/go-gencfg.svg)](https://github.com/suzuki-shunsuke/go-gencfg/releases) [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/go-gencfg.svg)](https://github.com/suzuki-shunsuke/go-gencfg) | go | cli | cli tool to generate code for the application specific configuration
+[go-graylog](https://github.com/suzuki-shunsuke/go-graylog) | [![GitHub tag](https://img.shields.io/github/tag/suzuki-shunsuke/go-graylog.svg)](https://github.com/suzuki-shunsuke/go-graylog/releases) [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/go-graylog.svg)](https://github.com/suzuki-shunsuke/go-graylog) [![GoDoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](http://godoc.org/github.com/suzuki-shunsuke/go-graylog) | go | library | Graylog API client and mock server for Golang and terraform provider for Graylog
+[go-ptr](https://github.com/suzuki-shunsuke/go-ptr) | [![GitHub tag](https://img.shields.io/github/tag/suzuki-shunsuke/go-ptr.svg)](https://github.com/suzuki-shunsuke/go-ptr/releases) [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/go-ptr.svg)](https://github.com/suzuki-shunsuke/go-ptr) [![GoDoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](http://godoc.org/github.com/suzuki-shunsuke/go-ptr) | go | library | golang library to convert a literal to pointer
+[go-set](https://github.com/suzuki-shunsuke/go-set) | [![GitHub tag](https://img.shields.io/github/tag/suzuki-shunsuke/go-set.svg)](https://github.com/suzuki-shunsuke/go-set/releases) [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/go-set.svg)](https://github.com/suzuki-shunsuke/go-set) [![GoDoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](http://godoc.org/github.com/suzuki-shunsuke/go-set) | go | library | set data structure
+[go-chatwords](https://github.com/suzuki-shunsuke/go-chatwords) | [![GitHub tag](https://img.shields.io/github/tag/suzuki-shunsuke/go-chatwords.svg)](https://github.com/suzuki-shunsuke/go-chatwords/releases) [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/go-chatwords.svg)](https://github.com/suzuki-shunsuke/go-chatwords) [![GoDoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](http://godoc.org/github.com/suzuki-shunsuke/go-chatwords) | go | library | Parse line as chat words
+[ryml](https://github.com/suzuki-shunsuke/ryml) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/ryml.svg)](https://github.com/suzuki-shunsuke/ryml) [![npm version](https://badge.fury.io/js/ryml.svg)](https://badge.fury.io/js/ryml) | node | cli | HTTP Client
+[git-rm-branch](https://github.com/suzuki-shunsuke/git-rm-branch) | [![GitHub tag](https://img.shields.io/github/tag/suzuki-shunsuke/git-rm-branch.svg)](https://github.com/suzuki-shunsuke/git-rm-branch/releases) [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/git-rm-branch.svg)](https://github.com/suzuki-shunsuke/git-rm-branch) | go | cli | Remove git branches
+[rterror](https://github.com/suzuki-shunsuke/rterror) | [![GitHub tag](https://img.shields.io/github/tag/suzuki-shunsuke/rterror.svg)](https://github.com/suzuki-shunsuke/rterror/releases) [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/rterror.svg)](https://github.com/suzuki-shunsuke/rterror) [![GoDoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](http://godoc.org/github.com/suzuki-shunsuke/rterror) | go | library | Handle runtime error
+[japanese-holiday-api](https://github.com/suzuki-shunsuke/japanese-holiday-api) | [![GitHub tag](https://img.shields.io/github/tag/suzuki-shunsuke/japanese-holiday-api.svg)](https://github.com/suzuki-shunsuke/japanese-holiday-api/releases) [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/japanese-holiday-api.svg)](https://github.com/suzuki-shunsuke/japanese-holiday-api) | go | api server | Get japanese holidays
+[exvar.py](https://github.com/suzuki-shunsuke/exvar.py) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/exvar.py.svg)](https://github.com/suzuki-shunsuke/exvar.py) [![PyPI version](https://badge.fury.io/py/exvar.svg)](https://badge.fury.io/py/exvar) | python | cli | Local repository specific application configuration management framework
+[cht](https://github.com/suzuki-shunsuke/cht) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/cht.svg)](https://github.com/suzuki-shunsuke/cht) [![PyPI version](https://badge.fury.io/py/cht.svg)](https://badge.fury.io/py/cht) | python | cli | Notify to slack using "incoming webhooks"
+[ghscr](https://github.com/suzuki-shunsuke/ghscr) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/ghscr.svg)](https://github.com/suzuki-shunsuke/ghscr) | go | cli | Get scripts hosted on GitHub
+[dirssh](https://github.com/suzuki-shunsuke/dirssh) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/dirssh.svg)](https://github.com/suzuki-shunsuke/dirssh) | shell | cli | per-project ssh config manager for zsh
+[ssh-seed](https://github.com/suzuki-shunsuke/ssh-seed) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/ssh-seed.svg)](https://github.com/suzuki-shunsuke/ssh-seed) [![npm version](https://badge.fury.io/js/ssh-seed.svg)](https://badge.fury.io/js/ssh-seed) | node | cli | Generate ssh keys and add them to the ssh agent 
+[dckrm](https://github.com/suzuki-shunsuke/dckrm) | [![GitHub tag](https://img.shields.io/github/tag/suzuki-shunsuke/dckrm.svg)](https://github.com/suzuki-shunsuke/dckrm/releases) [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/dckrm.svg)](https://github.com/suzuki-shunsuke/dckrm) | shell | cli | Remove docker containers and images
+[sqlalchemy-validation](https://github.com/suzuki-shunsuke/sqlalchemy-validation) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/sqlalchemy-validation.svg)](https://github.com/suzuki-shunsuke/sqlalchemy-validation) [![PyPI version](https://badge.fury.io/py/sqlalchemy_validation.svg)](https://badge.fury.io/py/sqlalchemy_validation) | python | library | SQLAlchemy Validation Extension
+[pysigma](https://github.com/pysigma) | [![PyPI version](https://badge.fury.io/py/sigma.svg)](https://badge.fury.io/py/sigma) | python | library | Python validation flamework (unfinished)
+
+## Ansible Roles
+
+* https://galaxy.ansible.com/suzuki-shunsuke/
+* https://galaxy.ansible.com/search?namespaces=suzuki-shunsuke&order_by=-repository__download_count&page_size=100
+
+* [docker_ce_centos](https://galaxy.ansible.com/suzuki-shunsuke/docker_ce_centos)
+* [docker-py-centos](https://galaxy.ansible.com/suzuki-shunsuke/docker-py-centos)
+* [pyenv](https://galaxy.ansible.com/suzuki-shunsuke/pyenv)
+* [pyenv-virtualenv](https://galaxy.ansible.com/suzuki-shunsuke/pyenv)
+* [rbenv](https://galaxy.ansible.com/suzuki-shunsuke/rbenv)
+* [gvm](https://galaxy.ansible.com/suzuki-shunsuke/gvm)
+* [nvm](https://galaxy.ansible.com/suzuki-shunsuke/nvm)
+* [akoi](https://galaxy.ansible.com/suzuki-shunsuke/akoi)
+* [consul_config](https://galaxy.ansible.com/suzuki-shunsuke/consul_config)
+* [prometheus_node_exporter_config](https://galaxy.ansible.com/suzuki-shunsuke/prometheus_node_exporter_config)
+
+## Ansible Modules
+
+* [pyenv-module](https://galaxy.ansible.com/suzuki-shunsuke/pyenv-module)
+* [ghq-module](https://galaxy.ansible.com/suzuki-shunsuke/ghq-module)
+
+## Yeoman
+
+* [generator-ss-ansible-playbook](https://github.com/suzuki-shunsuke/generator-ss-ansible-playbook)
+* [yeoman-merge-ui](https://github.com/suzuki-shunsuke/yeoman-merge-ui)
+
+## Docker Images
+
+* [suzukishunsuke/go-ci](https://hub.docker.com/r/suzukishunsuke/go-ci/)
+* [suzukishunsuke/hugo-ci](https://hub.docker.com/r/suzukishunsuke/hugo-ci/)
+* [suzukishunsuke/ansible-test-centos](https://hub.docker.com/r/suzukishunsuke/ansible-test-centos/)
