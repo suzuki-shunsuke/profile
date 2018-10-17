@@ -72,6 +72,8 @@ name | badges | lang | type | short description
 * https://galaxy.ansible.com/suzuki-shunsuke/
 * https://galaxy.ansible.com/search?namespaces=suzuki-shunsuke&order_by=-repository__download_count&page_size=100
 
+---
+
 * [docker_ce_centos](https://galaxy.ansible.com/suzuki-shunsuke/docker_ce_centos)
 * [docker-py-centos](https://galaxy.ansible.com/suzuki-shunsuke/docker-py-centos)
 * [pyenv](https://galaxy.ansible.com/suzuki-shunsuke/pyenv)
