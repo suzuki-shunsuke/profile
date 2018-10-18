@@ -87,16 +87,22 @@ name | badges | lang | type | short description
 
 ## Ansible Modules
 
-* [pyenv-module](https://galaxy.ansible.com/suzuki-shunsuke/pyenv-module)
-* [ghq-module](https://galaxy.ansible.com/suzuki-shunsuke/ghq-module)
+name | badges | short description
+--- | --- | ---
+[pyenv-module](https://galaxy.ansible.com/suzuki-shunsuke/pyenv-module) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/ansible-pyenv-module.svg)](https://github.com/suzuki-shunsuke/ansible-pyenv-module)  | ansible module to run pyenv command
+[ghq-module](https://galaxy.ansible.com/suzuki-shunsuke/ghq-module) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/ansible-ghq-module.svg)](https://github.com/suzuki-shunsuke/ansible-ghq-module)  | ansible module to clone git repositories with [motemen/ghq](https://github.com/motemen/ghq)
 
 ## Yeoman
 
-* [generator-ss-ansible-playbook](https://github.com/suzuki-shunsuke/generator-ss-ansible-playbook)
-* [yeoman-merge-ui](https://github.com/suzuki-shunsuke/yeoman-merge-ui)
+name | badges | lang | type | short description
+--- | --- | --- | --- | ---
+[generator-ss-ansible-playbook](https://www.npmjs.com/package/generator-ss-ansible-playbook) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/generator-ss-ansible-playbook.svg)](https://github.com/suzuki-shunsuke/generator-ss-ansible-playbook) | Node.js | yeoman generator | yeoman generator to make the ansible playbook
+[yeoman-merge-ui](https://www.npmjs.com/package/yeoman-merge-ui) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/yeoman-merge-ui.svg)](https://github.com/suzuki-shunsuke/yeoman-merge-ui) | Node.js | library | yeoman custom ui to resolve conflict
 
 ## Docker Images
 
-* [suzukishunsuke/go-ci](https://hub.docker.com/r/suzukishunsuke/go-ci/)
-* [suzukishunsuke/hugo-ci](https://hub.docker.com/r/suzukishunsuke/hugo-ci/)
-* [suzukishunsuke/ansible-test-centos](https://hub.docker.com/r/suzukishunsuke/ansible-test-centos/)
+name | badges | short description
+--- | --- | ---
+[suzukishunsuke/go-ci](https://hub.docker.com/r/suzukishunsuke/go-ci/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-go-ci.svg)](https://github.com/suzuki-shunsuke/docker-image-go-ci) | Docker Image for Golang Project's CI
+[suzukishunsuke/hugo-ci](https://hub.docker.com/r/suzukishunsuke/hugo-ci/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-hugo-ci.svg)](https://github.com/suzuki-shunsuke/docker-image-hugo-ci) | Docker image to build website created by hugo at ci
+[suzukishunsuke/ansible-test-centos](https://hub.docker.com/r/suzukishunsuke/ansible-test-centos/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-ansible-test-centos.svg)](https://github.com/suzuki-shunsuke/docker-image-ansible-test-centos) | docker image to test ansible playbook at CentOS
