@@ -47,6 +47,7 @@ merged date | repository | lang | PR's short description
 
 name | badges | lang | type | short description
 --- | --- | --- | --- | ---
+[gomic](https://github.com/suzuki-shunsuke/gomic) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/gomic.svg)](https://github.com/suzuki-shunsuke/gomic) | go | cli | generate golang's mock for test
 [akoi](https://github.com/suzuki-shunsuke/akoi) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/akoi.svg)](https://github.com/suzuki-shunsuke/akoi) | go | cli | binary version control system
 [gria](https://github.com/suzuki-shunsuke/gria) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/gria.svg)](https://github.com/suzuki-shunsuke/gria) | go | cli | CLI tool for golang's test code scaffolding 
 [go-gencfg](https://github.com/suzuki-shunsuke/go-gencfg) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/go-gencfg.svg)](https://github.com/suzuki-shunsuke/go-gencfg) | go | cli | cli tool to generate code for the application specific configuration
