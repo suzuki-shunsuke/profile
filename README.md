@@ -12,6 +12,7 @@ Backend and DevOps engineer
 * [Ansible Modules](#ansible-modules)
 * [Yeoman](#yeoman)
 * [Docker Images](#docker-images)
+* [Blog](#blog)
 
 ## Contribution (Pull Request)
 
@@ -107,3 +108,11 @@ name | badges | short description
 [suzukishunsuke/go-ci](https://hub.docker.com/r/suzukishunsuke/go-ci/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-go-ci.svg)](https://github.com/suzuki-shunsuke/docker-image-go-ci) | Docker Image for Golang Project's CI
 [suzukishunsuke/hugo-ci](https://hub.docker.com/r/suzukishunsuke/hugo-ci/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-hugo-ci.svg)](https://github.com/suzuki-shunsuke/docker-image-hugo-ci) | Docker image to build website created by hugo at ci
 [suzukishunsuke/ansible-test-centos](https://hub.docker.com/r/suzukishunsuke/ansible-test-centos/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-ansible-test-centos.svg)](https://github.com/suzuki-shunsuke/docker-image-ansible-test-centos) | docker image to test ansible playbook at CentOS
+
+## Blog
+
+Note that blog is mainly written in Japanese.
+
+* https://suzuki-shunsuke.github.io/
+* https://engineering.linecorp.com/ja/blog/detail/345
+* https://engineering.linecorp.com/ja/blog/detail/218
