@@ -106,6 +106,8 @@ name | badges | short description
 
 name | badges | short description
 --- | --- | ---
+[suzukishunsuke/graylog](https://hub.docker.com/r/suzukishunsuke/graylog/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-graylog.svg)](https://github.com/suzuki-shunsuke/docker-image-graylog) | docker image for graylog installed plugins
+[suzukishunsuke/fluentd-gelf](https://hub.docker.com/r/suzukishunsuke/fluentd-gelf/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-fluentd-gelf.svg)](https://github.com/suzuki-shunsuke/docker-image-fluentd-gelf) | docker image for fluentd with out_gelf plugin
 [suzukishunsuke/go-ci](https://hub.docker.com/r/suzukishunsuke/go-ci/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-go-ci.svg)](https://github.com/suzuki-shunsuke/docker-image-go-ci) | Docker Image for Golang Project's CI
 [suzukishunsuke/hugo-ci](https://hub.docker.com/r/suzukishunsuke/hugo-ci/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-hugo-ci.svg)](https://github.com/suzuki-shunsuke/docker-image-hugo-ci) | Docker image to build website created by hugo at ci
 [suzukishunsuke/ansible-test-centos](https://hub.docker.com/r/suzukishunsuke/ansible-test-centos/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-ansible-test-centos.svg)](https://github.com/suzuki-shunsuke/docker-image-ansible-test-centos) | docker image to test ansible playbook at CentOS
