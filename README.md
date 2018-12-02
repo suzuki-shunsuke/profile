@@ -106,6 +106,7 @@ name | badges | short description
 
 name | badges | short description
 --- | --- | ---
+[suzukishunsuke/terraform-graylog](https://hub.docker.com/r/suzukishunsuke/terraform-graylog/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-terraform-graylog.svg)](https://github.com/suzuki-shunsuke/docker-image-terraform-graylog) | docker image for terraform graylog provider
 [suzukishunsuke/graylog](https://hub.docker.com/r/suzukishunsuke/graylog/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-graylog.svg)](https://github.com/suzuki-shunsuke/docker-image-graylog) | docker image for graylog installed plugins
 [suzukishunsuke/fluentd-gelf](https://hub.docker.com/r/suzukishunsuke/fluentd-gelf/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-fluentd-gelf.svg)](https://github.com/suzuki-shunsuke/docker-image-fluentd-gelf) | docker image for fluentd with out_gelf plugin
 [suzukishunsuke/go-ci](https://hub.docker.com/r/suzukishunsuke/go-ci/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-go-ci.svg)](https://github.com/suzuki-shunsuke/docker-image-go-ci) | Docker Image for Golang Project's CI
