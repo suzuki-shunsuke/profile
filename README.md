@@ -18,6 +18,7 @@ Backend and DevOps engineer
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2018/12/06 | [drone/drone-jsonnet-config](https://github.com/drone/drone-jsonnet-config) | go | [use .drone.yml if repo.Config is not jsonnet file](https://github.com/drone/drone-jsonnet-config/pull/1)
 2018/11/13 | [line/line-bot-sdk-go](https://github.com/line/line-bot-sdk-go) | go | [ci: stop support of Go 1.7 and 1.8](https://github.com/line/line-bot-sdk-go/pull/111)
 2018/09/15 | [nlopes/slack](https://github.com/nlopes/slack) | go | [Build fails: conversation.go undefined: post](https://github.com/nlopes/slack/pull/401)
 2018/09/13 | [nlopes/slack](https://github.com/nlopes/slack) | go | [Support the thread_ts parameter of files.upload API](https://github.com/nlopes/slack/pull/398)
