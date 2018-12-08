@@ -120,5 +120,6 @@ name | badges | short description
 Note that blog is mainly written in Japanese.
 
 * https://suzuki-shunsuke.github.io/
+* https://engineering.linecorp.com/ja/blog/go-oss-ci-cd-platform-drone-1-0-0-rc-1/
 * https://engineering.linecorp.com/ja/blog/detail/345
 * https://engineering.linecorp.com/ja/blog/detail/218
