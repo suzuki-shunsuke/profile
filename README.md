@@ -50,6 +50,7 @@ merged date | repository | lang | PR's short description
 
 name | badges | lang | type | short description
 --- | --- | --- | --- | ---
+[durl](https://github.com/suzuki-shunsuke/durl) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/durl.svg)](https://github.com/suzuki-shunsuke/durl) | go | cli | check whether dead urls are included in files
 [gomic](https://github.com/suzuki-shunsuke/gomic) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/gomic.svg)](https://github.com/suzuki-shunsuke/gomic) | go | cli | generate golang's mock for test
 [akoi](https://github.com/suzuki-shunsuke/akoi) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/akoi.svg)](https://github.com/suzuki-shunsuke/akoi) | go | cli | binary version control system
 [gria](https://github.com/suzuki-shunsuke/gria) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/gria.svg)](https://github.com/suzuki-shunsuke/gria) | go | cli | CLI tool for golang's test code scaffolding 
