@@ -108,6 +108,7 @@ name | badges | short description
 
 name | badges | short description
 --- | --- | ---
+[suzukishunsuke/durl](https://quay.io/repository/suzuki_shunsuke/durl) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-durl.svg)](https://github.com/suzuki-shunsuke/docker-image-durl) | busybox based docker image installed durl
 [suzukishunsuke/alpine-envsubst](https://hub.docker.com/r/suzukishunsuke/alpine-envsubst/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-alpine-envsubst.svg)](https://github.com/suzuki-shunsuke/docker-image-alpine-envsubst) | docker image installed envsubst on alpine
 [suzukishunsuke/terraform-graylog](https://hub.docker.com/r/suzukishunsuke/terraform-graylog/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-terraform-graylog.svg)](https://github.com/suzuki-shunsuke/docker-image-terraform-graylog) | docker image for terraform graylog provider
 [suzukishunsuke/graylog](https://hub.docker.com/r/suzukishunsuke/graylog/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-graylog.svg)](https://github.com/suzuki-shunsuke/docker-image-graylog) | docker image for graylog installed plugins
