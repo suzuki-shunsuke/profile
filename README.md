@@ -50,6 +50,7 @@ merged date | repository | lang | PR's short description
 
 name | badges | lang | type | short description
 --- | --- | --- | --- | ---
+[go-errctx](https://github.com/suzuki-shunsuke/go-errctx) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/go-errctx.svg)](https://github.com/suzuki-shunsuke/go-errctx) [![GoDoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](http://godoc.org/github.com/suzuki-shunsuke/go-errctx) | go | library | structured error
 [durl](https://github.com/suzuki-shunsuke/durl) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/durl.svg)](https://github.com/suzuki-shunsuke/durl) | go | cli | check whether dead urls are included in files
 [gomic](https://github.com/suzuki-shunsuke/gomic) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/gomic.svg)](https://github.com/suzuki-shunsuke/gomic) | go | cli | generate golang's mock for test
 [akoi](https://github.com/suzuki-shunsuke/akoi) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/akoi.svg)](https://github.com/suzuki-shunsuke/akoi) | go | cli | binary version control system
