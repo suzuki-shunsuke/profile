@@ -113,6 +113,8 @@ name | badges | short description
 
 name | badges | short description
 --- | --- | ---
+[suzukishunsuke/gox](https://hub.docker.com/r/suzukishunsuke/gox/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-gox.svg)](https://github.com/suzuki-shunsuke/docker-image-gox) | alpine based docker image installed [gox](https://github.com/mitchellh/gox)
+[suzukishunsuke/ghr](https://hub.docker.com/r/suzukishunsuke/ghr/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-ghr.svg)](https://github.com/suzuki-shunsuke/docker-image-ghr) | alpine based docker image installed [ghr](https://github.com/tcnksm/ghr)
 [suzukishunsuke/dep-dl](https://hub.docker.com/r/suzukishunsuke/dep-dl/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-dep-dl.svg)](https://github.com/suzuki-shunsuke/docker-image-dep-dl) | alpine based docker image installed [dep-dl](https://github.com/take-cheeze/dep-dl)
 [suzukishunsuke/durl](https://quay.io/repository/suzuki_shunsuke/durl) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/durl.svg)](https://github.com/suzuki-shunsuke/durl) | busybox based docker image installed durl
 [suzukishunsuke/alpine-envsubst](https://hub.docker.com/r/suzukishunsuke/alpine-envsubst/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-alpine-envsubst.svg)](https://github.com/suzuki-shunsuke/docker-image-alpine-envsubst) | docker image installed envsubst on alpine
