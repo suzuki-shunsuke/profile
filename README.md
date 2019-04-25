@@ -95,6 +95,7 @@ name | badges | lang | type | short description
 * [akoi](https://galaxy.ansible.com/suzuki-shunsuke/akoi)
 * [consul_config](https://galaxy.ansible.com/suzuki-shunsuke/consul_config)
 * [prometheus_node_exporter_config](https://galaxy.ansible.com/suzuki-shunsuke/prometheus_node_exporter_config)
+* [nginx_centos](https://galaxy.ansible.com/suzuki-shunsuke/nginx_centos)
 
 ## Ansible Modules
 
