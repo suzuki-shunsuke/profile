@@ -117,6 +117,7 @@ name | badges | short description
 
 name | badges | short description
 --- | --- | ---
+[suzukishunsuke/jsonnet-check](https://hub.docker.com/r/suzukishunsuke/jsonnet-check/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/drone-plugin-jsonnet-check.svg)](https://github.com/suzuki-shunsuke/drone-plugin-jsonnet-check) | [Drone plugin](https://docs.drone.io/plugins/) to check whether .drone.yml is generated from .drone.jsonnet properly
 [suzukishunsuke/gox](https://hub.docker.com/r/suzukishunsuke/gox/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-gox.svg)](https://github.com/suzuki-shunsuke/docker-image-gox) | alpine based docker image installed [gox](https://github.com/mitchellh/gox)
 [suzukishunsuke/ghr](https://hub.docker.com/r/suzukishunsuke/ghr/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-ghr.svg)](https://github.com/suzuki-shunsuke/docker-image-ghr) | alpine based docker image installed [ghr](https://github.com/tcnksm/ghr)
 [suzukishunsuke/dep-dl](https://hub.docker.com/r/suzukishunsuke/dep-dl/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-dep-dl.svg)](https://github.com/suzuki-shunsuke/docker-image-dep-dl) | alpine based docker image installed [dep-dl](https://github.com/take-cheeze/dep-dl)
