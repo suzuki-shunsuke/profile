@@ -18,6 +18,7 @@ Backend and DevOps engineer
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2019-06-07 | [line/line-bot-sdk-go](https://github.com/line/line-bot-sdk-go) | go | [Fix a dead link to CONTRIBUTING.md in README](https://github.com/line/line-bot-sdk-go/pull/161)
 2019-04-08 | [line/line-bot-sdk-go](https://github.com/line/line-bot-sdk-go) | go | [Use Codecov](https://github.com/line/line-bot-sdk-go/pull/142)
 2019-01-07 | [nlopes/slack](https://github.com/nlopes/slack) | go | [Refactor with linters and use gometalinter at CI](https://github.com/nlopes/slack/pull/461)
 2018-12-06 | [drone/drone-jsonnet-config](https://github.com/drone/drone-jsonnet-config) | go | [use .drone.yml if repo.Config is not jsonnet file](https://github.com/drone/drone-jsonnet-config/pull/1)
