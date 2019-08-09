@@ -18,6 +18,7 @@ Backend and DevOps engineer
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2019-08-09 | [nlopes/slack](https://github.com/nlopes/slack) | go | [Add the field `Private` to Share](https://github.com/nlopes/slack/pull/561)
 2019-07-24 | [drone/drone-migrate](https://github.com/drone/drone-migrate) | go | [limit repoActivateQuery only to originally activa repositories](https://github.com/drone/drone-migrate/pull/16)
 2019-07-11 | [drone/drone-migrate](https://github.com/drone/drone-migrate) | go | [Fix API token from the GitHub access token to Drone API token](https://github.com/drone/drone-migrate/pull/15)
 2019-06-07 | [line/line-bot-sdk-go](https://github.com/line/line-bot-sdk-go) | go | [Fix a dead link to CONTRIBUTING.md in README](https://github.com/line/line-bot-sdk-go/pull/161)
