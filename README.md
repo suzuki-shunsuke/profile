@@ -18,6 +18,7 @@ Backend and DevOps engineer
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2019-08-19 | [dim0627/hugo_theme_beg](https://github.com/dim0627/hugo_theme_beg) | toml | [Fix min_version](https://github.com/dim0627/hugo_theme_beg/pull/23)
 2019-08-15 | [drone/drone-cli](https://github.com/drone/drone-cli) | go | [Fix typo](https://github.com/drone/drone-cli/pull/145)
 2019-08-09 | [nlopes/slack](https://github.com/nlopes/slack) | go | [Add the field `Private` to Share](https://github.com/nlopes/slack/pull/561)
 2019-07-24 | [drone/drone-migrate](https://github.com/drone/drone-migrate) | go | [limit repoActivateQuery only to originally activa repositories](https://github.com/drone/drone-migrate/pull/16)
