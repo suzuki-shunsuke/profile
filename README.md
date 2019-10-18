@@ -58,6 +58,7 @@ merged date | repository | lang | PR's short description
 
 name | badges | lang | type | short description
 --- | --- | --- | --- | ---
+[github-cli](https://github.com/suzuki-shunsuke/github-cli) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/github-cli.svg)](https://github.com/suzuki-shunsuke/github-cli) | go | cli | GitHub v3 API client
 [cmdx](https://github.com/suzuki-shunsuke/cmdx) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/cmdx.svg)](https://github.com/suzuki-shunsuke/cmdx) | go | cli | task runner
 [flute](https://github.com/suzuki-shunsuke/flute) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/flute.svg)](https://github.com/suzuki-shunsuke/flute) [![GoDoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](https://godoc.org/github.com/suzuki-shunsuke/flute/flute) | go | library | HTTP Client testing framework
 [drone-jsonnet-generator](https://github.com/suzuki-shunsuke/drone-jsonnet-generator) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/drone-jsonnet-generator.svg)](https://github.com/suzuki-shunsuke/drone-jsonnet-generator) | go | cli | convert Drone v0.8x format .drone.yml to v1 format .drone.jsonnet
