@@ -18,6 +18,8 @@ Backend and DevOps engineer
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2019-11-02 | [nlopes/slack](https://github.com/nlopes/slack) | go | [Fix typo](https://github.com/nlopes/slack/pull/590)
+2019-11-02 | [nlopes/slack](https://github.com/nlopes/slack) | go | [Add fields to CtxChannel to get search API's response](https://github.com/nlopes/slack/pull/589)
 2019-08-19 | [dim0627/hugo_theme_beg](https://github.com/dim0627/hugo_theme_beg) | toml | [Fix min_version](https://github.com/dim0627/hugo_theme_beg/pull/23)
 2019-08-15 | [drone/drone-cli](https://github.com/drone/drone-cli) | go | [Fix typo](https://github.com/drone/drone-cli/pull/145)
 2019-08-09 | [nlopes/slack](https://github.com/nlopes/slack) | go | [Add the field `Private` to Share](https://github.com/nlopes/slack/pull/561)
