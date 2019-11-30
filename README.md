@@ -61,6 +61,7 @@ merged date | repository | lang | PR's short description
 
 name | badges | lang | type | short description
 --- | --- | --- | --- | ---
+[dd-time](https://github.com/suzuki-shunsuke/dd-time) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/dd-time.svg)](https://github.com/suzuki-shunsuke/dd-time) | go | cli | post the command execution time as time-series data to DataDog
 [github-cli](https://github.com/suzuki-shunsuke/github-cli) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/github-cli.svg)](https://github.com/suzuki-shunsuke/github-cli) | go | cli | GitHub v3 API client
 [cmdx](https://github.com/suzuki-shunsuke/cmdx) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/cmdx.svg)](https://github.com/suzuki-shunsuke/cmdx) | go | cli | task runner
 [go-timeout](https://github.com/suzuki-shunsuke/go-timeout) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/go-timeout.svg)](https://github.com/suzuki-shunsuke/go-timeout) [![GoDoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](https://godoc.org/github.com/suzuki-shunsuke/go-timeout/timeout) | go | library | treat the timeout of the external command
