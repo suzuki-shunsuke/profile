@@ -16,6 +16,8 @@ Backend and DevOps engineer
 
 ## Contribution (Pull Request)
 
+https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Asuzuki-shunsuke+-user%3Asuzuki-shunsuke
+
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
 2019-11-27 | [yuya-takeyama/circle-dd-bench](https://github.com/yuya-takeyama/circle-dd-bench) | go | [Use Go module and upgrade Alpine and Golang and remove the vendor directory](https://github.com/yuya-takeyama/circle-dd-bench/pull/4)
