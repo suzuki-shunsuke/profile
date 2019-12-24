@@ -100,7 +100,7 @@ first release date | name | badges | lang | type | short description
 ## Ansible Roles
 
 * https://galaxy.ansible.com/suzuki-shunsuke/
-* https://galaxy.ansible.com/search?namespaces=suzuki-shunsuke&order_by=-repository__download_count&page_size=100
+* https://galaxy.ansible.com/search?keywords=suzuki-shunsuke&order_by=-download_count&page=1&page_size=100
 
 ---
 
