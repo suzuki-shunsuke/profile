@@ -20,6 +20,9 @@ https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Asuzuki-shunsuke+-user
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2020-02-02 | [terraform-providers/terraform-provider-docker](https://github.com/terraform-providers/terraform-provider-docker) | go | [support to import some docker_container's attributes
+](https://github.com/terraform-providers/terraform-provider-docker/pull/234)
+2020-02-01 | [terraform-providers/terraform-provider-docker](https://github.com/terraform-providers/terraform-provider-docker) | go | [Fix a flaky test](https://github.com/terraform-providers/terraform-provider-docker/pull/238)
 2020-01-03 | [docker-slim/docker-slim](https://github.com/docker-slim/docker-slim) | go | [Fix a compile error: Sprintf format %s has arg pnum of wrong type uint16](https://github.com/docker-slim/docker-slim/pull/122)
 2019-11-27 | [yuya-takeyama/circle-dd-bench](https://github.com/yuya-takeyama/circle-dd-bench) | go | [Use Go module and upgrade Alpine and Golang and remove the vendor directory](https://github.com/yuya-takeyama/circle-dd-bench/pull/4)
 2019-11-02 | [nlopes/slack](https://github.com/nlopes/slack) | go | [Fix typo](https://github.com/nlopes/slack/pull/590)
