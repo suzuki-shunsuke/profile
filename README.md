@@ -20,6 +20,7 @@ https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Asuzuki-shunsuke+-user
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2020-02-04 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | go (document) | [Remove tools which are not found](https://github.com/avelino/awesome-go/pull/2938)
 2020-02-02 | [terraform-providers/terraform-provider-docker](https://github.com/terraform-providers/terraform-provider-docker) | go | [Support to update docker_container](https://github.com/terraform-providers/terraform-provider-docker/pull/236)
 2020-02-02 | [terraform-providers/terraform-provider-docker](https://github.com/terraform-providers/terraform-provider-docker) | go | [support to import some docker_container's attributes](https://github.com/terraform-providers/terraform-provider-docker/pull/234)
 2020-02-01 | [terraform-providers/terraform-provider-docker](https://github.com/terraform-providers/terraform-provider-docker) | go | [Fix a flaky test](https://github.com/terraform-providers/terraform-provider-docker/pull/238)
