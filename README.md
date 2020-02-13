@@ -16,7 +16,9 @@ DevOps engineer.
 
 ## Contribution (Pull Request)
 
-https://github.com/pulls?utf8=%E2%9C%93&q=is%3Apr+author%3Asuzuki-shunsuke+-user%3Asuzuki-shunsuke
+[merged](https://github.com/pulls?q=is%3Apr+author%3Asuzuki-shunsuke+-user%3Asuzuki-shunsuke+is%3Apublic+is%3Amerged)
+[open](https://github.com/pulls?q=is%3Apr+author%3Asuzuki-shunsuke+-user%3Asuzuki-shunsuke+is%3Apublic+is%3Aopen)
+[rejected](https://github.com/pulls?q=is%3Apr+author%3Asuzuki-shunsuke+-user%3Asuzuki-shunsuke+is%3Apublic+is%3Aunmerged+is%3Aclosed)
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
