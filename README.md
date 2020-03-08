@@ -22,6 +22,7 @@ DevOps engineer.
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2020-03-08 | [guitarrapc/git-shallow-clone-orb](https://github.com/guitarrapc/git-shallow-clone-orb) | CircleCI Orb | [feat: Add an option "path" same as the built in step "checkout"](https://github.com/guitarrapc/git-shallow-clone-orb/pull/6)
 2020-02-13 | [argoproj/argo-site](https://github.com/argoproj/argo-site) | document | [fix: Fix the path to Getting started](https://github.com/argoproj/argo-site/pull/18)
 2020-02-04 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | go (document) | [Remove tools which are not found](https://github.com/avelino/awesome-go/pull/2938)
 2020-02-02 | [terraform-providers/terraform-provider-docker](https://github.com/terraform-providers/terraform-provider-docker) | go | [Support to update docker_container](https://github.com/terraform-providers/terraform-provider-docker/pull/236)
