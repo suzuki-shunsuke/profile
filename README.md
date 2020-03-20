@@ -72,6 +72,7 @@ merged date | repository | lang | PR's short description
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2019-03-20 | [circleci-orb-forbid-rerun](https://github.com/suzuki-shunsuke/circleci-orb-forbid-rerun) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/circleci-orb-forbid-rerun.svg)](https://github.com/suzuki-shunsuke/circleci-orb-forbid-rerun) | CircleCI Orb | CircleCI Orb | forbid rerun builds whose revision isn't latest for the branch
 2019-03-18 | [circleci-orb-orb](https://github.com/suzuki-shunsuke/circleci-orb-orb) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/circleci-orb-orb.svg)](https://github.com/suzuki-shunsuke/circleci-orb-orb) | CircleCI Orb | CircleCI Orb | test and publish CircleCI Orb
 2019-03-14 | [circleci-orb-terraform](https://github.com/suzuki-shunsuke/circleci-orb-terraform) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/circleci-orb-terraform.svg)](https://github.com/suzuki-shunsuke/circleci-orb-terraform) | CircleCI Orb | CircleCI Orb | lint and test and apply Terraform configuration
 2019-03-10 | [circleci-orb-tfenv](https://github.com/suzuki-shunsuke/circleci-orb-tfenv) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/circleci-orb-tfenv.svg)](https://github.com/suzuki-shunsuke/circleci-orb-tfenv) | CircleCI Orb | CircleCI Orb | lint and test and apply Terraform configuration
