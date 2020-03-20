@@ -8,6 +8,7 @@ DevOps engineer.
 
 * [Contribution (Pull Request)](#contribution-pull-request)
 * [Libraries](#libraries)
+* [CircleCI Orbs](#circleci-orbs)
 * [Ansible Roles](#ansible-roles)
 * [Ansible Modules](#ansible-modules)
 * [Yeoman](#yeoman)
@@ -115,6 +116,13 @@ first release date | name | badges | lang | type | short description
 2016-04-16 | [dckrm](https://github.com/suzuki-shunsuke/dckrm) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/dckrm.svg)](https://github.com/suzuki-shunsuke/dckrm) | shell | cli | Remove docker containers and images
 2016-01-23 | [pysigma](https://github.com/pysigma) | [![PyPI version](https://badge.fury.io/py/sigma.svg)](https://badge.fury.io/py/sigma) | python | library | Python validation flamework (unfinished)
 2015-10-15 | [sqlalchemy-validation](https://github.com/suzuki-shunsuke/sqlalchemy-validation) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/sqlalchemy-validation.svg)](https://github.com/suzuki-shunsuke/sqlalchemy-validation) [![PyPI version](https://badge.fury.io/py/sqlalchemy_validation.svg)](https://badge.fury.io/py/sqlalchemy_validation) | python | library | SQLAlchemy Validation Extension
+
+## CircleCI Orbs
+
+* https://circleci.com/orbs/registry/?query=suzuki-shunsuke%2F&filterBy=all
+* [suzuki-shunsuke/terraform](https://circleci.com/orbs/registry/orb/suzuki-shunsuke/terraform)
+* [suzuki-shunsuke/orb](https://circleci.com/orbs/registry/orb/suzuki-shunsuke/orb)
+* [suzuki-shunsuke/forbid-rerun](https://circleci.com/orbs/registry/orb/suzuki-shunsuke/forbid-rerun)
 
 ## Ansible Roles
 
