@@ -23,6 +23,8 @@ DevOps engineer.
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2020-03-22 | [guitarrapc/git-shallow-clone-orb](https://github.com/guitarrapc/git-shallow-clone-orb) | CircleCI Orb | [fix: Fix the example of the parameter `clone_options`](https://github.com/guitarrapc/git-shallow-clone-orb/pull/11)
+2020-03-21 | [guitarrapc/git-shallow-clone-orb](https://github.com/guitarrapc/git-shallow-clone-orb) | CircleCI Orb | [feat: add a parameter "clone_options"](https://github.com/guitarrapc/git-shallow-clone-orb/pull/10)
 2020-03-08 | [guitarrapc/git-shallow-clone-orb](https://github.com/guitarrapc/git-shallow-clone-orb) | CircleCI Orb | [feat: Add an option "path" same as the built in step "checkout"](https://github.com/guitarrapc/git-shallow-clone-orb/pull/6)
 2020-02-13 | [argoproj/argo-site](https://github.com/argoproj/argo-site) | document | [fix: Fix the path to Getting started](https://github.com/argoproj/argo-site/pull/18)
 2020-02-04 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | go (document) | [Remove tools which are not found](https://github.com/avelino/awesome-go/pull/2938)
