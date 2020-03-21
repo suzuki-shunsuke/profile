@@ -4,7 +4,7 @@
 
 Self introduction of [suzuki-shunsuke](https://github.com/suzuki-shunsuke)
 
-DevOps engineer.
+DevOps Engineer / Gopher / Tool maker / OSS contributor
 
 * [Contribution (Pull Request)](#contribution-pull-request)
 * [Libraries](#libraries)
