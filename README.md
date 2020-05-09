@@ -185,6 +185,7 @@ name | badges | short description
 Note that blog is mainly written in Japanese.
 
 * https://techblog.szksh.cloud
+* https://quipper.hatenablog.com/entry/2020/04/06/080000
 * https://engineering.linecorp.com/ja/blog/go-oss-ci-cd-platform-drone-1-0-0-rc-1/
 * https://engineering.linecorp.com/ja/blog/detail/345
 * https://engineering.linecorp.com/ja/blog/detail/218
