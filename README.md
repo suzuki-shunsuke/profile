@@ -23,6 +23,7 @@ DevOps Engineer / Gopher / Tool maker / OSS contributor
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2020-05-27 | [mongodb/go-client-mongodb-atlas](https://github.com/mongodb/go-client-mongodb-atlas) | go | [feat: support the pagination of WhitelistAPIKeysService.List](https://github.com/mongodb/go-client-mongodb-atlas/pull/98)
 2020-03-22 | [guitarrapc/git-shallow-clone-orb](https://github.com/guitarrapc/git-shallow-clone-orb) | CircleCI Orb | [fix: Fix the example of the parameter `clone_options`](https://github.com/guitarrapc/git-shallow-clone-orb/pull/11)
 2020-03-21 | [guitarrapc/git-shallow-clone-orb](https://github.com/guitarrapc/git-shallow-clone-orb) | CircleCI Orb | [feat: add a parameter "clone_options"](https://github.com/guitarrapc/git-shallow-clone-orb/pull/10)
 2020-03-08 | [guitarrapc/git-shallow-clone-orb](https://github.com/guitarrapc/git-shallow-clone-orb) | CircleCI Orb | [feat: Add an option "path" same as the built in step "checkout"](https://github.com/guitarrapc/git-shallow-clone-orb/pull/6)
