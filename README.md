@@ -82,6 +82,7 @@ merged date | repository | lang | PR's short description
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2020-07-04 | [clap](https://github.com/suzuki-shunsuke/clap) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/clap.svg)](https://github.com/suzuki-shunsuke/clap) | go | cli | simple installer
 2020-06-04 | [go-thread-safe](https://github.com/suzuki-shunsuke/go-thread-safe) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/go-thread-safe.svg)](https://github.com/suzuki-shunsuke/go-thread-safe) | go | library | thread safe data types
 2020-04-29 | [terraform-provider-graylog](https://github.com/terraform-provider-graylog/terraform-provider-graylog) | [![GitHub last commit](https://img.shields.io/github/last-commit/terraform-provider-graylog/terraform-provider-graylog.svg)](https://github.com/terraform-provider-graylog/terraform-provider-graylog) | go | Terraform Provider | Terraform Provider for Graylog
 2020-04-13 | [go-httpclient](https://github.com/suzuki-shunsuke/go-httpclient) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/go-httpclient.svg)](https://github.com/suzuki-shunsuke/go-httpclient) | go | library | simple HTTP client
