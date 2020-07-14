@@ -14,7 +14,7 @@ DevOps / Go / Tool maker / OSS contributor
 * [Yeoman](#yeoman)
 * [Docker Images](#docker-images)
 * [Blog](#blog)
-* [Job Career](CAREER)
+* [Job Career](CAREER.md)
 
 ## Contribution (Pull Request)
 
@@ -202,4 +202,4 @@ Note that blog is mainly written in Japanese.
 
 ## Job Career
 
-[CAREER](CAREER)
+[CAREER](CAREER.md)
