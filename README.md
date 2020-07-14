@@ -14,6 +14,7 @@ DevOps / Go / Tool maker / OSS contributor
 * [Yeoman](#yeoman)
 * [Docker Images](#docker-images)
 * [Blog](#blog)
+* [Job Career](CAREER)
 
 ## Contribution (Pull Request)
 
@@ -198,3 +199,7 @@ Note that blog is mainly written in Japanese.
 * https://engineering.linecorp.com/ja/blog/go-oss-ci-cd-platform-drone-1-0-0-rc-1/
 * https://engineering.linecorp.com/ja/blog/detail/345
 * https://engineering.linecorp.com/ja/blog/detail/218
+
+## Job Career
+
+[CAREER](CAREER)
