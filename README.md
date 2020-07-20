@@ -24,6 +24,7 @@ DevOps / Go / Tool maker / OSS contributor
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2020-07-21 | [hashicorp/terraform](https://github.com/hashicorp/terraform) | go (document) | [docs: fix the output format of state show command](https://github.com/hashicorp/terraform/pull/25615)
 2020-06-14 | [jmoiron/sqlx](https://github.com/jmoiron/sqlx) | go | [Replace bindArgs to bindAnyArgs to support map](https://github.com/jmoiron/sqlx/pull/616)
 2020-06-12 | [avelino/awesome-go](https://github.com/avelino/awesome-go) | go (document) | [Remove not found tools and fix a link](https://github.com/avelino/awesome-go/pull/3112)
 2020-06-06 | [argoproj/gitops-engine](https://github.com/argoproj/gitops-engine) | go | [fix: Lock to write MockKubectlCmd.LastValidate to fix the race condition](https://github.com/argoproj/gitops-engine/pull/52)
