@@ -8,22 +8,25 @@ date | company | role
 
 ## Quipper
 
+- Operate the infrastructure
 - Replace shell script to Go
 - Improve CI/CD pipeline
   - Speed up
   - Add lint and test
   - Refactor CI configuration
+  - Make CI/CD user friendly
   - etc
 
 ### Technical stacks
 
-- Shell script / Go
+- Shell script, Go
 - AWS
 - k8s
-- DataDog / Sentry
-- CircleCI
+- DataDog, Sentry
+- Jenkins, CircleCI
 - MongoDB (MCM, Atlas)
-- Terraform / Ansible
+- Terraform, Ansible
+- Renovate, Conftest
 
 ## LINE
 
@@ -39,13 +42,13 @@ date | company | role
 
 ### Technical stacks
 
-- Go / Python
+- Go, Python
 - On premise
-- k8s / Rancher
-- Zabbix / Prometheus / Consul
-- Fluend / Graylog
+- k8s, Rancher
+- Zabbix, Prometheus, Consul
+- Fluend, Graylog
 - Drone CI
-- Terraform / Ansible
+- Terraform, Ansible
 
 ## Donuts
 
@@ -53,8 +56,9 @@ date | company | role
 
 ### Technical stacks
 
-- Python / JavaScript
-- AWS / GCP
+- Python, JavaScript
+- MySQL
+- AWS, GCP
 - Docker
 - Jenkins
-- Terraform / Ansible / Packer
+- Terraform, Ansible, Packer
