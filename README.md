@@ -87,6 +87,8 @@ merged date | repository | lang | PR's short description
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2020-10-02 | [buildflow](https://github.com/suzuki-shunsuke/buildflow) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/buildflow.svg)](https://github.com/suzuki-shunsuke/buildflow) | go | cli | powerful build pipeline
+2020-09-19 | [go-findconfig](https://github.com/suzuki-shunsuke/go-findconfig) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/go-findconfig.svg)](https://github.com/suzuki-shunsuke/go-findconfig) | go | library | find configuration file
 2020-08-29 | [go-ci-env](https://github.com/suzuki-shunsuke/go-ci-env) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/go-ci-env.svg)](https://github.com/suzuki-shunsuke/go-ci-env) | go | library | get CI meta data from the environment variables
 2020-07-04 | [clap](https://github.com/suzuki-shunsuke/clap) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/clap.svg)](https://github.com/suzuki-shunsuke/clap) | go | cli | simple installer
 2020-06-04 | [go-thread-safe](https://github.com/suzuki-shunsuke/go-thread-safe) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/go-thread-safe.svg)](https://github.com/suzuki-shunsuke/go-thread-safe) | go | library | thread safe data types
