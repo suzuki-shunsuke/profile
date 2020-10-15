@@ -87,6 +87,7 @@ merged date | repository | lang | PR's short description
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2020-10-15 | [go-convmap](https://github.com/suzuki-shunsuke/go-convmap) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/go-convmap.svg)](https://github.com/suzuki-shunsuke/go-convmap) | go | library | convert map[interface{}]interface{} to map[string]interface{}
 2020-10-12 | [tengo-tester](https://github.com/suzuki-shunsuke/tengo-tester) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/tengo-tester.svg)](https://github.com/suzuki-shunsuke/tengo-tester) | go | cli | test tengo scripts
 2020-10-02 | [buildflow](https://github.com/suzuki-shunsuke/buildflow) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/buildflow.svg)](https://github.com/suzuki-shunsuke/buildflow) | go | cli | powerful build pipeline
 2020-09-19 | [go-findconfig](https://github.com/suzuki-shunsuke/go-findconfig) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/go-findconfig.svg)](https://github.com/suzuki-shunsuke/go-findconfig) | go | library | find configuration file
