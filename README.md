@@ -87,6 +87,7 @@ merged date | repository | lang | PR's short description
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2020-11-01 | [github-ci-monitor](https://github.com/suzuki-shunsuke/github-ci-monitor) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/github-ci-monitor.svg)](https://github.com/suzuki-shunsuke/github-ci-monitor) | go | cli, lambda function | Monitor GitHub repositories CI statues by DataDog
 2020-10-26 | [matchfile](https://github.com/suzuki-shunsuke/matchfile) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/matchfile.svg)](https://github.com/suzuki-shunsuke/matchfile) | go | cli | check file paths are matched to the condition
 2020-10-25 | [ci-info](https://github.com/suzuki-shunsuke/ci-info) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/ci-info.svg)](https://github.com/suzuki-shunsuke/ci-info) | go | cli | get CI related information
 2020-10-15 | [go-convmap](https://github.com/suzuki-shunsuke/go-convmap) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/go-convmap.svg)](https://github.com/suzuki-shunsuke/go-convmap) | go | library | convert map[interface{}]interface{} to map[string]interface{}
