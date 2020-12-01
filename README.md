@@ -209,6 +209,7 @@ Note that blog is mainly written in Japanese.
 
 * https://techblog.szksh.cloud
 * https://dev.to/suzukishunsuke
+* [巨大な .circleci/config.yml を分割した話](https://quipper.hatenablog.com/entry/2020/12/01/080000)
 * [Docker Hub の Rate Limit 問題に対応した話](https://quipper.hatenablog.com/entry/2020/11/02/080000)
 * [CI の修正をリリース前に本番と同じ条件下で検証出来る仕組みを構築した話](https://quipper.hatenablog.com/entry/2020/04/06/080000)
 * [Go製OSS CI/CDプラットフォーム drone 1.0.0-rc.1 の新機能・変更点](https://engineering.linecorp.com/ja/blog/go-oss-ci-cd-platform-drone-1-0-0-rc-1/)
