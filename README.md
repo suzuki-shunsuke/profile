@@ -209,6 +209,7 @@ Note that blog is mainly written in Japanese.
 
 * https://techblog.szksh.cloud
 * https://dev.to/suzukishunsuke
+* [Terraform の CI/CD を CodeBuild に移行した話](https://quipper.hatenablog.com/entry/2020/12/03/080000)
 * [巨大な .circleci/config.yml を分割した話](https://quipper.hatenablog.com/entry/2020/12/01/080000)
 * [Docker Hub の Rate Limit 問題に対応した話](https://quipper.hatenablog.com/entry/2020/11/02/080000)
 * [CI の修正をリリース前に本番と同じ条件下で検証出来る仕組みを構築した話](https://quipper.hatenablog.com/entry/2020/04/06/080000)
