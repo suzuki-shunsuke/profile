@@ -24,6 +24,7 @@ DevOps / Go / Tool maker / OSS contributor
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2020-12-12 | [slack-go/slack](https://github.com/slack-go/slack) | go | [remove .gometalinter.json](https://github.com/slack-go/slack/pull/869)
 2020-09-03 | [terraform-providers/terraform-provider-aws](https://github.com/terraform-providers/terraform-provider-aws) | go | [Add GuardDuty filter resource](https://github.com/terraform-providers/terraform-provider-aws/pull/14876)
 2020-08-03 | [terraform-providers/terraform-provider-docker](https://github.com/terraform-providers/terraform-provider-docker) | go | [Set `Computed: true` and separate files of resourceDockerContainerV1](https://github.com/terraform-providers/terraform-provider-docker/pull/272)
 2020-08-03 | [terraform-providers/terraform-provider-docker](https://github.com/terraform-providers/terraform-provider-docker) | go | [Fix panic to migrate schema of docker_container from v1 to v2](https://github.com/terraform-providers/terraform-provider-docker/pull/271)
