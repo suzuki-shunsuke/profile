@@ -24,6 +24,7 @@ DevOps / Go / Tool maker / OSS contributor
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2020-12-20 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [introduce golangci-lint](https://github.com/kreuzwerker/terraform-provider-docker/pull/32)
 2020-12-12 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [style: format with gofumpt](https://github.com/kreuzwerker/terraform-provider-docker/pull/11)
 2020-12-12 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [ci: fix website ci](https://github.com/kreuzwerker/terraform-provider-docker/pull/26)
 2020-12-12 | [slack-go/slack](https://github.com/slack-go/slack) | go | [remove .gometalinter.json](https://github.com/slack-go/slack/pull/869)
