@@ -21,7 +21,8 @@ DevOps / Go / Tool maker / OSS contributor
 
 date | repository
 --- | ---
-2020-11-29 ~ now | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker)
+2020-11-29 / now | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker)
+2018-07-12 / 2019-06-25 | [line/line-bot-sdk-go](https://github.com/line/line-bot-sdk-go)
 
 ## Contribution (Pull Request)
 
