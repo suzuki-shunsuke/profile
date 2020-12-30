@@ -32,6 +32,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2020-12-30 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [docs: add labels to arguments of docker_service](https://github.com/kreuzwerker/terraform-provider-docker/pull/105)
 2020-12-29 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [feat: add force_remove option to r/image](https://github.com/kreuzwerker/terraform-provider-docker/pull/104)
 2020-12-20 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [introduce golangci-lint](https://github.com/kreuzwerker/terraform-provider-docker/pull/32)
 2020-12-12 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [style: format with gofumpt](https://github.com/kreuzwerker/terraform-provider-docker/pull/11)
