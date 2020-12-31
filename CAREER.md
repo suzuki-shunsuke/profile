@@ -6,6 +6,10 @@ date | company | role
 2017-04 / 2019-09 | [LINE Corporation](https://linecorp.com/en/) | Inhouse system engineer
 2015-04 / 2017-03 | [Donuts Co. Ltd.](https://www.donuts.ne.jp/) | Web application enginner
 
+## For Japanese
+
+- https://techblog.szksh.cloud/tags/job/
+
 ## Quipper
 
 - Operate the infrastructure
