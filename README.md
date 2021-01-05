@@ -103,6 +103,7 @@ merged date | repository | lang | PR's short description
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2021-01-05 | [tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/tfcmt.svg)](https://github.com/suzuki-shunsuke/tfcmt) | go | cli | Fork of [mercari/tfnotify](https://github.com/mercari/tfnotify)
 2021-01-01 | [tfnotify](https://github.com/suzuki-shunsuke/tfnotify) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/tfnotify.svg)](https://github.com/suzuki-shunsuke/tfnotify) | go | cli | Fork of [mercari/tfnotify](https://github.com/mercari/tfnotify)
 2020-11-03 | [circleci-config-merge](https://github.com/suzuki-shunsuke/circleci-config-merge) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/circleci-config-merge.svg)](https://github.com/suzuki-shunsuke/circleci-config-merge) | go | cli | Generate .circleci/config.yml by merging multiple files
 2020-11-01 | [github-ci-monitor](https://github.com/suzuki-shunsuke/github-ci-monitor) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/github-ci-monitor.svg)](https://github.com/suzuki-shunsuke/github-ci-monitor) | go | cli, lambda function | Monitor GitHub repositories CI statues by DataDog
