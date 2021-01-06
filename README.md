@@ -32,6 +32,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2021-01-07 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [fix: set "latest" tag when tag isn't specified](https://github.com/kreuzwerker/terraform-provider-docker/pull/117)
 2021-01-03 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [feat: support max replicas of Docker Service Task Spec](https://github.com/kreuzwerker/terraform-provider-docker/pull/112)
 2020-12-30 | [renovatebot/renovate](https://github.com/renovatebot/renovate) | typescript | [feat: support template in labels](https://github.com/renovatebot/renovate/pull/8138)
 2020-12-30 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [docs: add labels to arguments of docker_service](https://github.com/kreuzwerker/terraform-provider-docker/pull/105)
