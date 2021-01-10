@@ -6,6 +6,7 @@ Self introduction of [suzuki-shunsuke](https://github.com/suzuki-shunsuke)
 
 DevOps / Go / Tool maker / OSS contributor
 
+* [How to create README](#how-to-create-readme)
 * [Collaboration](#collaboration)
 * [Contribution (Pull Request)](#contribution-pull-request)
 * [Libraries](#libraries)
