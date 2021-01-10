@@ -17,6 +17,10 @@ DevOps / Go / Tool maker / OSS contributor
 * [Blog](#blog)
 * [Job Career](CAREER.md)
 
+## How to create README
+
+I create and update README manually without any tools.
+
 ## Collaboration
 
 date | repository
