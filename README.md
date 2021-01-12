@@ -7,20 +7,42 @@ Self introduction of [suzuki-shunsuke](https://github.com/suzuki-shunsuke)
 DevOps / Go / Tool maker / OSS contributor
 
 * [How to create README](#how-to-create-readme)
-* [Collaboration](#collaboration)
-* [Contribution (Pull Request)](#contribution-pull-request)
-* [Libraries](#libraries)
-* [CircleCI Orbs](#circleci-orbs)
-* [Ansible Roles](#ansible-roles)
-* [Ansible Modules](#ansible-modules)
-* [Yeoman](#yeoman)
-* [Docker Images](#docker-images)
 * [Blog](#blog)
 * [Job Career](CAREER.md)
+* [Collaboration](#collaboration)
+* [Contribution (Pull Request)](#contribution-pull-request)
+* [My tools](#my-tools)
+  * [CircleCI Orbs](#circleci-orbs)
+  * [Ansible Roles](#ansible-roles)
+  * [Ansible Modules](#ansible-modules)
+  * [Yeoman](#yeoman)
+  * [Docker Images](#docker-images)
 
 ## How to create README
 
 I create and update README manually without any tools.
+
+## Blog
+
+Note that blog is mainly written in Japanese.
+
+* https://techblog.szksh.cloud
+* https://dev.to/suzukishunsuke
+
+date | title
+--- | ---
+2020-12-10 | [Renovate の Tips](https://quipper.hatenablog.com/entry/2020/12/10/080000)
+2020-12-03 | [Terraform の CI/CD を CodeBuild に移行した話](https://quipper.hatenablog.com/entry/2020/12/03/080000)
+2020-12-01 | [巨大な .circleci/config.yml を分割した話](https://quipper.hatenablog.com/entry/2020/12/01/080000)
+2020-11-02 | [Docker Hub の Rate Limit 問題に対応した話](https://quipper.hatenablog.com/entry/2020/11/02/080000)
+2020-04-06 | [CI の修正をリリース前に本番と同じ条件下で検証出来る仕組みを構築した話](https://quipper.hatenablog.com/entry/2020/04/06/080000)
+2018-12-08 | [Go製OSS CI/CDプラットフォーム drone 1.0.0-rc.1 の新機能・変更点](https://engineering.linecorp.com/ja/blog/go-oss-ci-cd-platform-drone-1-0-0-rc-1/)
+2018-08-10 | [grpcでバラバラなslack botが1つになる](https://engineering.linecorp.com/ja/blog/detail/345)
+2017-12-05 | [Jenkinsに代わるGo製OSS CIツールDrone](https://engineering.linecorp.com/ja/blog/detail/218)
+
+## Job Career
+
+[CAREER](CAREER.md)
 
 ## Collaboration
 
@@ -106,7 +128,7 @@ merged date | repository | lang | PR's short description
 2018-01-08 | [yeoman/environment](https://github.com/yeoman/environment) | node | [Allow to change the log's 'colors' parameter](https://github.com/yeoman/environment/pull/93)
 2017-11-12 | [AlecAivazis/survey](https://github.com/AlecAivazis/survey) | go | [Allow to change the editor behavior](https://github.com/AlecAivazis/survey/pull/110)
 
-## Libraries
+## My tools
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
@@ -170,14 +192,14 @@ first release date | name | badges | lang | type | short description
 2016-01-23 | [pysigma](https://github.com/pysigma) | [![PyPI version](https://badge.fury.io/py/sigma.svg)](https://badge.fury.io/py/sigma) | python | library | Python validation flamework (unfinished)
 2015-10-15 | [sqlalchemy-validation](https://github.com/suzuki-shunsuke/sqlalchemy-validation) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/sqlalchemy-validation.svg)](https://github.com/suzuki-shunsuke/sqlalchemy-validation) [![PyPI version](https://badge.fury.io/py/sqlalchemy_validation.svg)](https://badge.fury.io/py/sqlalchemy_validation) | python | library | SQLAlchemy Validation Extension
 
-## CircleCI Orbs
+### CircleCI Orbs
 
 * https://circleci.com/orbs/registry/?query=suzuki-shunsuke%2F&filterBy=all
 * [suzuki-shunsuke/terraform](https://circleci.com/orbs/registry/orb/suzuki-shunsuke/terraform)
 * [suzuki-shunsuke/orb](https://circleci.com/orbs/registry/orb/suzuki-shunsuke/orb)
 * [suzuki-shunsuke/forbid-rerun](https://circleci.com/orbs/registry/orb/suzuki-shunsuke/forbid-rerun)
 
-## Ansible Roles
+### Ansible Roles
 
 * https://galaxy.ansible.com/suzuki-shunsuke/
 * https://galaxy.ansible.com/search?keywords=suzuki-shunsuke&order_by=-download_count&page=1&page_size=100
@@ -196,21 +218,21 @@ first release date | name | badges | lang | type | short description
 * [prometheus_node_exporter_config](https://galaxy.ansible.com/suzuki-shunsuke/prometheus_node_exporter_config)
 * [nginx_centos](https://galaxy.ansible.com/suzuki-shunsuke/nginx_centos)
 
-## Ansible Modules
+### Ansible Modules
 
 name | badges | short description
 --- | --- | ---
 [pyenv-module](https://galaxy.ansible.com/suzuki-shunsuke/pyenv-module) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/ansible-pyenv-module.svg)](https://github.com/suzuki-shunsuke/ansible-pyenv-module)  | ansible module to run pyenv command
 [ghq-module](https://galaxy.ansible.com/suzuki-shunsuke/ghq-module) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/ansible-ghq-module.svg)](https://github.com/suzuki-shunsuke/ansible-ghq-module)  | ansible module to clone git repositories with [motemen/ghq](https://github.com/motemen/ghq)
 
-## Yeoman
+### Yeoman
 
 name | badges | short description
 --- | --- | ---
 [generator-ss-ansible-playbook](https://www.npmjs.com/package/generator-ss-ansible-playbook) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/generator-ss-ansible-playbook.svg)](https://github.com/suzuki-shunsuke/generator-ss-ansible-playbook) | yeoman generator to make the ansible playbook
 [yeoman-merge-ui](https://www.npmjs.com/package/yeoman-merge-ui) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/yeoman-merge-ui.svg)](https://github.com/suzuki-shunsuke/yeoman-merge-ui) | yeoman custom ui to resolve conflict
 
-## Docker Images
+### Docker Images
 
 name | badges | short description
 --- | --- | ---
@@ -227,25 +249,3 @@ name | badges | short description
 [suzukishunsuke/go-ci](https://hub.docker.com/r/suzukishunsuke/go-ci/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-go-ci.svg)](https://github.com/suzuki-shunsuke/docker-image-go-ci) | Docker Image for Golang Project's CI
 [suzukishunsuke/hugo-ci](https://hub.docker.com/r/suzukishunsuke/hugo-ci/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-hugo-ci.svg)](https://github.com/suzuki-shunsuke/docker-image-hugo-ci) | Docker image to build website created by hugo at ci
 [suzukishunsuke/ansible-test-centos](https://hub.docker.com/r/suzukishunsuke/ansible-test-centos/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-ansible-test-centos.svg)](https://github.com/suzuki-shunsuke/docker-image-ansible-test-centos) | docker image to test ansible playbook at CentOS
-
-## Blog
-
-Note that blog is mainly written in Japanese.
-
-* https://techblog.szksh.cloud
-* https://dev.to/suzukishunsuke
-
-date | title
---- | ---
-2020-12-10 | [Renovate の Tips](https://quipper.hatenablog.com/entry/2020/12/10/080000)
-2020-12-03 | [Terraform の CI/CD を CodeBuild に移行した話](https://quipper.hatenablog.com/entry/2020/12/03/080000)
-2020-12-01 | [巨大な .circleci/config.yml を分割した話](https://quipper.hatenablog.com/entry/2020/12/01/080000)
-2020-11-02 | [Docker Hub の Rate Limit 問題に対応した話](https://quipper.hatenablog.com/entry/2020/11/02/080000)
-2020-04-06 | [CI の修正をリリース前に本番と同じ条件下で検証出来る仕組みを構築した話](https://quipper.hatenablog.com/entry/2020/04/06/080000)
-2018-12-08 | [Go製OSS CI/CDプラットフォーム drone 1.0.0-rc.1 の新機能・変更点](https://engineering.linecorp.com/ja/blog/go-oss-ci-cd-platform-drone-1-0-0-rc-1/)
-2018-08-10 | [grpcでバラバラなslack botが1つになる](https://engineering.linecorp.com/ja/blog/detail/345)
-2017-12-05 | [Jenkinsに代わるGo製OSS CIツールDrone](https://engineering.linecorp.com/ja/blog/detail/218)
-
-## Job Career
-
-[CAREER](CAREER.md)
