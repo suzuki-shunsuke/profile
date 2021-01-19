@@ -59,6 +59,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2021-01-20 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [docs: fix legacy configuration style](https://github.com/kreuzwerker/terraform-provider-docker/pull/126)
 2021-01-12 | [roboll/helmfile](https://github.com/roboll/helmfile) | go (document) | [docs: fix typo](https://github.com/roboll/helmfile/pull/1645)
 2021-01-09 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [feat: support Docker plugin](https://github.com/kreuzwerker/terraform-provider-docker/pull/35)
 2021-01-07 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [fix: set "latest" tag when tag isn't specified](https://github.com/kreuzwerker/terraform-provider-docker/pull/117)
