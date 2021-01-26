@@ -59,6 +59,8 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2021-01-27 | [chaspy/github-pr-prometheus-exporter](https://github.com/chaspy/github-pr-prometheus-exporter) | go | [perf: specify the size of slice when the slice is created](https://github.com/chaspy/github-pr-prometheus-exporter/pull/6)
+2021-01-27 | [chaspy/github-pr-prometheus-exporter](https://github.com/chaspy/github-pr-prometheus-exporter) | go (Dockerfile) | [Run Docker container as non root user for security](https://github.com/chaspy/github-pr-prometheus-exporter/pull/5)
 2021-01-20 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [docs: fix legacy configuration style](https://github.com/kreuzwerker/terraform-provider-docker/pull/126)
 2021-01-12 | [roboll/helmfile](https://github.com/roboll/helmfile) | go (document) | [docs: fix typo](https://github.com/roboll/helmfile/pull/1645)
 2021-01-09 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [feat: support Docker plugin](https://github.com/kreuzwerker/terraform-provider-docker/pull/35)
