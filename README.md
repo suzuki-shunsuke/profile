@@ -59,6 +59,8 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2021-01-31 | [chaspy/github-pr-prometheus-exporter](https://github.com/chaspy/github-pr-prometheus-exporter) | go | [docs: fix typo](https://github.com/chaspy/github-pr-prometheus-exporter/pull/11)
+2021-01-31 | [chaspy/github-pr-prometheus-exporter](https://github.com/chaspy/github-pr-prometheus-exporter) | go | [chore(go-github): use go-github v33](https://github.com/chaspy/github-pr-prometheus-exporter/pull/10)
 2021-01-30 | [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) | go | [style: fix typo](https://github.com/GoogleCloudPlatform/terraformer/pull/770)
 2021-01-28 | [chaspy/github-pr-prometheus-exporter](https://github.com/chaspy/github-pr-prometheus-exporter) | go | [refactor: use go-github getter methods](https://github.com/chaspy/github-pr-prometheus-exporter/pull/9)
 2021-01-27 | [chaspy/github-pr-prometheus-exporter](https://github.com/chaspy/github-pr-prometheus-exporter) | go | [perf: specify the size of slice when the slice is created](https://github.com/chaspy/github-pr-prometheus-exporter/pull/6)
