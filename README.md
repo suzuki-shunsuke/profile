@@ -59,6 +59,8 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2021-02-01 | [chaspy/github-issue-prometheus-exporter](https://github.com/chaspy/github-issue-prometheus-exporter) | go | [feat: validate parameters before loop](https://github.com/chaspy/github-issue-prometheus-exporter/pull/8)
+2021-01-31 | [chaspy/github-issue-prometheus-exporter](https://github.com/chaspy/github-issue-prometheus-exporter) | go | [chore(go-github): update go-github to v33](https://github.com/chaspy/github-issue-prometheus-exporter/pull/6)
 2021-01-31 | [chaspy/github-pr-prometheus-exporter](https://github.com/chaspy/github-pr-prometheus-exporter) | go | [docs: fix typo](https://github.com/chaspy/github-pr-prometheus-exporter/pull/11)
 2021-01-31 | [chaspy/github-pr-prometheus-exporter](https://github.com/chaspy/github-pr-prometheus-exporter) | go | [chore(go-github): use go-github v33](https://github.com/chaspy/github-pr-prometheus-exporter/pull/10)
 2021-01-30 | [GoogleCloudPlatform/terraformer](https://github.com/GoogleCloudPlatform/terraformer) | go | [style: fix typo](https://github.com/GoogleCloudPlatform/terraformer/pull/770)
