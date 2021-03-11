@@ -60,6 +60,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2021-03-11 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go (document) | [chore: add the guide about Terraform Configuration in Bug Report](https://github.com/kreuzwerker/terraform-provider-docker/pull/139)
 2021-02-26 | [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | go (document) | [docs: add description `Forces new resource` to rds_cluster_instance](https://github.com/hashicorp/terraform-provider-aws/pull/17059)
 2021-02-01 | [chaspy/github-issue-prometheus-exporter](https://github.com/chaspy/github-issue-prometheus-exporter) | go | [feat: validate parameters before loop](https://github.com/chaspy/github-issue-prometheus-exporter/pull/8)
 2021-01-31 | [chaspy/github-issue-prometheus-exporter](https://github.com/chaspy/github-issue-prometheus-exporter) | go | [chore(go-github): update go-github to v33](https://github.com/chaspy/github-issue-prometheus-exporter/pull/6)
