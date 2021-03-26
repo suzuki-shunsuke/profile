@@ -61,6 +61,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2021-03-25 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go (document) | [docs: add a guide about writing issues to CONTRIBUTING.md](https://github.com/kreuzwerker/terraform-provider-docker/pull/149)
 2021-03-18 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [ci: run acceptance tests with multiple Terraform versions](https://github.com/kreuzwerker/terraform-provider-docker/pull/129)
 2021-03-12 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go (document) | [chore: add the guide about Terraform Configuration in Bug Report](https://github.com/kreuzwerker/terraform-provider-docker/pull/139)
 2021-02-26 | [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | go (document) | [docs: add description `Forces new resource` to rds_cluster_instance](https://github.com/hashicorp/terraform-provider-aws/pull/17059)
