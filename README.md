@@ -62,6 +62,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2021-04-21 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [fix: assign map to rawState when it is nil to prevent panic](https://github.com/kreuzwerker/terraform-provider-docker/pull/180)
 2021-04-07 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go (Renovate) | [chore(renovate): update dependencies automatically by Renovate](https://github.com/kreuzwerker/terraform-provider-docker/pull/162)
 2021-04-01 | [tfsec/tfsec](https://github.com/tfsec/tfsec) | go (shell script) | [Fix publish-docs to update document](https://github.com/tfsec/tfsec/pull/675)
 2021-03-29 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [fix: search local images with Docker image ID](https://github.com/kreuzwerker/terraform-provider-docker/pull/151)
