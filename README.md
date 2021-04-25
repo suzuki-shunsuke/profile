@@ -157,6 +157,7 @@ merged date | repository | lang | PR's short description
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2021-04-25 | [akoi-installer](https://github.com/suzuki-shunsuke/akoi-installer) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/akoi-installer.svg)](https://github.com/suzuki-shunsuke/akoi-installer) | TypeScript | GitHub Actions | GitHub Actions and Shell Script to install [akoi](https://github.com/suzuki-shunsuke/akoi)
 2021-04-21 | [aws-iam-cred-sender](https://github.com/suzuki-shunsuke/aws-iam-cred-sender) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/aws-iam-cred-sender.svg)](https://github.com/suzuki-shunsuke/aws-iam-cred-sender) | go | Lambda | AWS Lambda Function to send an initial password to a new user via Slack DM
 2021-01-31 | [tfmigrator](https://github.com/suzuki-shunsuke/tfmigrator) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/tfmigrator.svg)](https://github.com/suzuki-shunsuke/tfmigrator) | go | cli | migrate Terraform configuration and State
 2021-01-05 | [tfcmt](https://github.com/suzuki-shunsuke/tfcmt) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/tfcmt.svg)](https://github.com/suzuki-shunsuke/tfcmt) | go | cli | Fork of [mercari/tfnotify](https://github.com/mercari/tfnotify)
