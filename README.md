@@ -157,6 +157,7 @@ merged date | repository | lang | PR's short description
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2021-05-09 | [lambuild](https://github.com/suzuki-shunsuke/lambuild) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/lambuild.svg)](https://github.com/suzuki-shunsuke/lambuild) | go | Lambda | Trigger AWS CodeBuild's build with dynamic configuration based on the content of event and associated pull request with GitHub Webhook and Lambda Function
 2021-04-25 | [akoi-installer](https://github.com/suzuki-shunsuke/akoi-installer) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/akoi-installer.svg)](https://github.com/suzuki-shunsuke/akoi-installer) | TypeScript | GitHub Actions | GitHub Actions and Shell Script to install [akoi](https://github.com/suzuki-shunsuke/akoi)
 2021-04-21 | [aws-iam-cred-sender](https://github.com/suzuki-shunsuke/aws-iam-cred-sender) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/aws-iam-cred-sender.svg)](https://github.com/suzuki-shunsuke/aws-iam-cred-sender) | go | Lambda | AWS Lambda Function to send an initial password to a new user via Slack DM
 2021-01-31 | [tfmigrator](https://github.com/suzuki-shunsuke/tfmigrator) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/tfmigrator.svg)](https://github.com/suzuki-shunsuke/tfmigrator) | go | cli | migrate Terraform configuration and State
