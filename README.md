@@ -31,6 +31,7 @@ Note that blog is mainly written in Japanese.
 
 date | title
 --- | ---
+2021-06-08 | [AWS - GCP の ID 連携を使い、 AWS CodeBuild で Terraform を使って GCP を管理](https://quipper.hatenablog.com/entry/2021/06/08/080000)
 2021-05-25 | [AWS IAM User の初期パスワード通知を自動化](https://quipper.hatenablog.com/entry/2021/05/25/080000)
 2021-04-01 | [Terraform リポジトリをマージして CI/CD を改善した話](https://quipper.hatenablog.com/entry/2021/04/01/080000)
 2021-03-12 | [100 以上の Terraform 環境をいい感じに v0.14 に upgrade した方法](https://quipper.hatenablog.com/entry/2021/03/12/080000)
