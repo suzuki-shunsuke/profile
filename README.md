@@ -64,6 +64,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2021-07-12 | [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | go | [feat: support AppConfig Hosted Configuration Version](https://github.com/hashicorp/terraform-provider-aws/pull/19324)
 2021-07-12 | [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | go | [feat: add appconfig_configuration_profile](https://github.com/hashicorp/terraform-provider-aws/pull/19320)
 2021-07-12 | [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | go | [feat: add aws_appconfig_application and aws_appconfig_environment](https://github.com/hashicorp/terraform-provider-aws/pull/19307)
 2021-04-21 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [fix: assign map to rawState when it is nil to prevent panic](https://github.com/kreuzwerker/terraform-provider-docker/pull/180)
