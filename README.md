@@ -164,6 +164,8 @@ merged date | repository | lang | PR's short description
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2021-07-18 | [tfmigrator/cli](https://github.com/tfmigrator/cli) | [![GitHub last commit](https://img.shields.io/github/last-commit/tfmigrator/cli.svg)](https://github.com/tfmigrator/cli) | go | cli | CLI to Migrate Terraform Configuration and State with terraform state command and hcledit
+2021-07-18 | [expr-unmarshaler](https://github.com/suzuki-shunsuke/expr-unmarshaler) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/expr-unmarshaler.svg)](https://github.com/suzuki-shunsuke/expr-unmarshaler) | go | library |
 2021-06-06 | [tfmigrator/tfmigrator](https://github.com/tfmigrator/tfmigrator) | [![GitHub last commit](https://img.shields.io/github/last-commit/tfmigrator/tfmigrator.svg)](https://github.com/tfmigrator/tfmigrator) | go | library | Migrate Terraform Configuration and State with terraform state command and hcledit
 2021-05-27 | [go-template-unmarshaler](https://github.com/suzuki-shunsuke/go-template-unmarshaler) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/go-template-unmarshaler.svg)](https://github.com/suzuki-shunsuke/go-template-unmarshaler) | go | library |
 2021-05-09 | [lambuild](https://github.com/suzuki-shunsuke/lambuild) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/lambuild.svg)](https://github.com/suzuki-shunsuke/lambuild) | go | Lambda | Empower AWS CodeBuild whose source provider is GITHUB. Provide great features like multiple buildspec supports, conditional builds and commands, etc
