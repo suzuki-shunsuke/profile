@@ -64,6 +64,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2021-07-23 | [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | go | [feat: add aws_appconfig_deployment](https://github.com/hashicorp/terraform-provider-aws/pull/20172)
 2021-07-14 | [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | go | [fix: add the attribute "environment_id" to aws_appconfig_environment](https://github.com/hashicorp/terraform-provider-aws/pull/20176)
 2021-07-13 | [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | go | [feat: support AppConfig Deployment Strategy](https://github.com/hashicorp/terraform-provider-aws/pull/19359)
 2021-07-12 | [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | go | [feat: support AppConfig Hosted Configuration Version](https://github.com/hashicorp/terraform-provider-aws/pull/19324)
