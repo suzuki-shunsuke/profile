@@ -169,6 +169,9 @@ merged date | repository | lang | PR's short description
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2021-08-29 | [aqua](https://github.com/suzuki-shunsuke/aqua) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/aqua.svg)](https://github.com/suzuki-shunsuke/aqua) | go | cli | Version manager of CLI
+2021-08-29 | [aqua-proxy](https://github.com/suzuki-shunsuke/aqua-proxy) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/aqua-proxy.svg)](https://github.com/suzuki-shunsuke/aqua-proxy) | go | cli | The internal CLI tool of [aqua](https://github.com/suzuki-shunsuke/aqua)
+2021-08-29 | [aqua-installer](https://github.com/suzuki-shunsuke/aqua-installer) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/aqua-installer.svg)](https://github.com/suzuki-shunsuke/aqua-installer) | shell script | script, GitHub Actions | Install [aqua](https://github.com/suzuki-shunsuke/aqua) quickly
 2021-07-31 | [renovate-github-tags-datasource-repositories](https://github.com/suzuki-shunsuke/renovate-github-tags-datasource-repositories) |  | | | Renovate github-tags Datasource Repositories
 2021-07-18 | [tfmigrator/cli](https://github.com/tfmigrator/cli) | [![GitHub last commit](https://img.shields.io/github/last-commit/tfmigrator/cli.svg)](https://github.com/tfmigrator/cli) | go | cli | CLI to Migrate Terraform Configuration and State with terraform state command and hcledit
 2021-07-18 | [expr-unmarshaler](https://github.com/suzuki-shunsuke/expr-unmarshaler) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/expr-unmarshaler.svg)](https://github.com/suzuki-shunsuke/expr-unmarshaler) | go | library |
