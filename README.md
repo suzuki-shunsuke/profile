@@ -22,6 +22,12 @@ DevOps / Go / Tool maker / OSS contributor
 
 I create and update README manually without any tools.
 
+## Presentation
+
+date | event | style | presentation title
+--- | --- | --- | ---
+2021-07-07 | [Open Policy Agent Rego Knowledge Sharing Meetup](https://mercari.connpass.com/event/211073/) | LT (5min) | [Quipper における Rego の活用事例](https://gist.github.com/suzuki-shunsuke/9372337aa62a6f8394bb136582ec068e)
+
 ## Blog
 
 Note that blog is mainly written in Japanese.
