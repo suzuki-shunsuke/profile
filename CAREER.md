@@ -12,6 +12,9 @@ date | company | role
 
 ## Quipper
 
+* [Job Description](https://career.quipper.com/jp/jobs/sre/)
+* [What I did in Quipper](CAREER_IN_QUIPPER.md)
+
 - Operate the infrastructure
 - Replace shell script to Go
 - Improve CI/CD pipeline
