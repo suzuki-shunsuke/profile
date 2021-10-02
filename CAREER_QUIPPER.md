@@ -5,6 +5,12 @@
 * https://techblog.szksh.cloud/tags/job/
 * https://github.com/suzuki-shunsuke/profile#blog
 
+## 2021-09
+
+* Investigate AWS SSO, AWS Organizations, and AWS Control Tower
+* Spoke about Terraform for 30 minutes on [HashiTalks Japan 2021](https://events.hashicorp.com/hashitalksjapan)
+  * slide: [Terraform Platform in Quipper](https://speakerdeck.com/szksh/terraform-platform-in-quipper)
+
 ## 2021-08
 
 * Replace git-secrets to secretlint
