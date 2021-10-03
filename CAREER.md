@@ -2,13 +2,19 @@
 
 date | company | role
 --- | --- | ---
-2019-10 / today | [Quipper Limited Japan Branch](https://www.quipper.com/) | SRE
-2017-04 / 2019-09 | [LINE Corporation](https://linecorp.com/en/) | Inhouse system engineer
-2015-04 / 2017-03 | [Donuts Co. Ltd.](https://www.donuts.ne.jp/) | Web application enginner
+2021-10 / today | [Recruit](https://www.recruit.co.jp/) | SRE
+2019-10 / 2021-09 | [Quipper Limited Japan Branch](https://www.quipper.com/) | SRE
+2017-04 / 2019-09 | [LINE Corporation](https://linecorp.com/en/) | Inhouse System Engineer
+2015-04 / 2017-03 | [Donuts Co. Ltd.](https://www.donuts.ne.jp/) | Web Application Enginner
 
 ## For Japanese
 
 - https://techblog.szksh.cloud/tags/job/
+
+## Recruit
+
+Quipper Japan branch was unified into the parent company Recruit.
+So my belong was changed, but basically what I do wasn't changed.
 
 ## Quipper
 
