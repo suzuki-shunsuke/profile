@@ -5,7 +5,7 @@ date | company | role
 2021-10 / today | [Recruit](https://www.recruit.co.jp/) | SRE
 2019-10 / 2021-09 | [Quipper Limited Japan Branch](https://www.quipper.com/) | SRE
 2017-04 / 2019-09 | [LINE Corporation](https://linecorp.com/en/) | Inhouse System Engineer
-2015-04 / 2017-03 | [Donuts Co. Ltd.](https://www.donuts.ne.jp/) | Web Application Enginner
+2015-04 / 2017-03 | [Donuts Co. Ltd.](https://www.donuts.ne.jp/) | Web Application Engineer
 
 ## For Japanese
 
