@@ -8,15 +8,13 @@ DevOps / Go / Tool maker / OSS contributor
 
 * [How to create README](#how-to-create-readme)
 * [Blog](#blog)
-* [Job Career](CAREER.md)
+* [Job Career](career)
 * [Collaboration](#collaboration)
 * [Contribution (Pull Request)](#contribution-pull-request)
 * [My tools](#my-tools)
   * [CircleCI Orbs](#circleci-orbs)
   * [Ansible Roles](#ansible-roles)
   * [Ansible Modules](#ansible-modules)
-  * [Yeoman](#yeoman)
-  * [Docker Images](#docker-images)
 
 ## How to create README
 
@@ -54,10 +52,6 @@ date | title
 2018-12-08 | [Go製OSS CI/CDプラットフォーム drone 1.0.0-rc.1 の新機能・変更点](https://engineering.linecorp.com/ja/blog/go-oss-ci-cd-platform-drone-1-0-0-rc-1/)
 2018-08-10 | [grpcでバラバラなslack botが1つになる](https://engineering.linecorp.com/ja/blog/detail/345)
 2017-12-05 | [Jenkinsに代わるGo製OSS CIツールDrone](https://engineering.linecorp.com/ja/blog/detail/218)
-
-## Job Career
-
-[CAREER](CAREER.md)
 
 ## Collaboration
 
@@ -287,28 +281,3 @@ name | badges | short description
 --- | --- | ---
 [pyenv-module](https://galaxy.ansible.com/suzuki-shunsuke/pyenv-module) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/ansible-pyenv-module.svg)](https://github.com/suzuki-shunsuke/ansible-pyenv-module)  | ansible module to run pyenv command
 [ghq-module](https://galaxy.ansible.com/suzuki-shunsuke/ghq-module) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/ansible-ghq-module.svg)](https://github.com/suzuki-shunsuke/ansible-ghq-module)  | ansible module to clone git repositories with [motemen/ghq](https://github.com/motemen/ghq)
-
-### Yeoman
-
-name | badges | short description
---- | --- | ---
-[generator-ss-ansible-playbook](https://www.npmjs.com/package/generator-ss-ansible-playbook) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/generator-ss-ansible-playbook.svg)](https://github.com/suzuki-shunsuke/generator-ss-ansible-playbook) | yeoman generator to make the ansible playbook
-[yeoman-merge-ui](https://www.npmjs.com/package/yeoman-merge-ui) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/yeoman-merge-ui.svg)](https://github.com/suzuki-shunsuke/yeoman-merge-ui) | yeoman custom ui to resolve conflict
-
-### Docker Images
-
-name | badges | short description
---- | --- | ---
-[quay.io/suzuki_shunsuke/yamllint](https://quay.io/repository/suzuki_shunsuke/yamllint) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-yamllint.svg)](https://github.com/suzuki-shunsuke/docker-image-yamllint) | [yamllint](https://github.com/adrienverge/yamllint)
-[suzukishunsuke/jsonnet-check](https://hub.docker.com/r/suzukishunsuke/jsonnet-check/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/drone-plugin-jsonnet-check.svg)](https://github.com/suzuki-shunsuke/drone-plugin-jsonnet-check) | [Drone plugin](https://docs.drone.io/plugins/) to check whether .drone.yml is generated from .drone.jsonnet properly
-[suzukishunsuke/gox](https://hub.docker.com/r/suzukishunsuke/gox/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-gox.svg)](https://github.com/suzuki-shunsuke/docker-image-gox) | alpine based docker image installed [gox](https://github.com/mitchellh/gox)
-[suzukishunsuke/ghr](https://hub.docker.com/r/suzukishunsuke/ghr/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-ghr.svg)](https://github.com/suzuki-shunsuke/docker-image-ghr) | alpine based docker image installed [ghr](https://github.com/tcnksm/ghr)
-[suzukishunsuke/dep-dl](https://hub.docker.com/r/suzukishunsuke/dep-dl/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-dep-dl.svg)](https://github.com/suzuki-shunsuke/docker-image-dep-dl) | alpine based docker image installed [dep-dl](https://github.com/take-cheeze/dep-dl)
-[suzukishunsuke/durl](https://quay.io/repository/suzuki_shunsuke/durl) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/durl.svg)](https://github.com/suzuki-shunsuke/durl) | busybox based docker image installed durl
-[suzukishunsuke/alpine-envsubst](https://hub.docker.com/r/suzukishunsuke/alpine-envsubst/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-alpine-envsubst.svg)](https://github.com/suzuki-shunsuke/docker-image-alpine-envsubst) | docker image installed envsubst on alpine
-[suzukishunsuke/terraform-graylog](https://hub.docker.com/r/suzukishunsuke/terraform-graylog/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-terraform-graylog.svg)](https://github.com/suzuki-shunsuke/docker-image-terraform-graylog) | docker image for terraform graylog provider
-[suzukishunsuke/graylog](https://hub.docker.com/r/suzukishunsuke/graylog/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-graylog.svg)](https://github.com/suzuki-shunsuke/docker-image-graylog) | docker image for graylog installed plugins
-[suzukishunsuke/fluentd-gelf](https://hub.docker.com/r/suzukishunsuke/fluentd-gelf/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-fluentd-gelf.svg)](https://github.com/suzuki-shunsuke/docker-image-fluentd-gelf) | docker image for fluentd with out_gelf plugin
-[suzukishunsuke/go-ci](https://hub.docker.com/r/suzukishunsuke/go-ci/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-go-ci.svg)](https://github.com/suzuki-shunsuke/docker-image-go-ci) | Docker Image for Golang Project's CI
-[suzukishunsuke/hugo-ci](https://hub.docker.com/r/suzukishunsuke/hugo-ci/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-hugo-ci.svg)](https://github.com/suzuki-shunsuke/docker-image-hugo-ci) | Docker image to build website created by hugo at ci
-[suzukishunsuke/ansible-test-centos](https://hub.docker.com/r/suzukishunsuke/ansible-test-centos/) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/docker-image-ansible-test-centos.svg)](https://github.com/suzuki-shunsuke/docker-image-ansible-test-centos) | docker image to test ansible playbook at CentOS

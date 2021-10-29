@@ -19,7 +19,7 @@ So my belong was changed, but basically what I do wasn't changed.
 ## Quipper
 
 * [Job Description](https://career.quipper.com/jp/jobs/sre/)
-* [What I did in Quipper](CAREER_QUIPPER.md)
+* [What I did in Quipper](quipper.md)
 
 - Operate the infrastructure
 - Replace shell script to Go
