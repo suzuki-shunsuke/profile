@@ -1,4 +1,8 @@
-# What I did in Quipper
+# Quipper
+
+date | company | role
+--- | --- | ---
+2019-10 / 2021-09 | [Quipper Limited Japan Branch](https://www.quipper.com/) | SRE
 
 ## Reference
 

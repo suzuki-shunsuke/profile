@@ -13,6 +13,8 @@ date | company | role
 
 ## Recruit
 
+* [What I did in Recruit](recruit.md)
+
 Quipper Japan branch was unified into the parent company Recruit.
 So my belong was changed, but basically what I do wasn't changed.
 
