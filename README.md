@@ -68,6 +68,8 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2021-11-13 | [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) | document | [Add tfmigrator](https://github.com/shuaibiyy/awesome-terraform/pull/139)
+2021-11-13 | [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) | document | [Add tfcmt](https://github.com/shuaibiyy/awesome-terraform/pull/138)
 2021-10-20 | [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | Makefile | [fix: fix make testacc](https://github.com/hashicorp/terraform-provider-aws/pull/21385)
 2021-08-23 | [renovatebot/github-action](https://github.com/renovatebot/github-action) | document | [docs: fix broken links and update GitHub Actions](https://github.com/renovatebot/github-action/pull/556)
 2021-08-23 | [renovatebot/github-action](https://github.com/renovatebot/github-action) | json (Renovate Configuration) | [chore: update GitHub Actions in README by Renovate](https://github.com/renovatebot/github-action/pull/557)
