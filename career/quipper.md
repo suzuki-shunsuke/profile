@@ -80,7 +80,7 @@ date | company | role
 
 * Unify Terraform Repositories
 * Upgrade Terraform from v0.13 to v0.14
-  * https://quipper.hatenablog.com/entry/2021/03/12/080000
+  * https://blog.studysapuri.jp/entry/2021/03/12/080000
 * Application repository (Monorepo)
   * Split deploy jobs per service
 * Improve Renovate Configuration
@@ -119,7 +119,7 @@ date | company | role
 * Application repository (Monorepo)
   * Improve CI/CD
   * Split .circleci/config.yml
-    * https://quipper.hatenablog.com/entry/2020/12/01/080000
+    * https://blog.studysapuri.jp/entry/2020/12/01/080000
     * https://dev.to/suzukishunsuke/splitting-circleci-config-yml-10gk
 * Introduce kube-linter
 * Renovate
@@ -131,7 +131,7 @@ date | company | role
   * Migrate CI/CD from CircleCI to AWS CodeBuild
   * Test `aws_cloudwatch_log_group.retention_in_days` with Conftest
 * Authenticate Docker Hub to prevent Rate Limit exceeded
-  * https://quipper.hatenablog.com/entry/2020/11/02/080000
+  * https://blog.studysapuri.jp/entry/2020/11/02/080000
 * Make easy to understand the failure of `kustomize build` by Pull Request Comments
 * Run `kubectl apply --server-dry-run` in CI for test
 * Renovate
@@ -169,7 +169,7 @@ date | company | role
 
 * Application repository (Monorepo)
   * Rewrite shell scripts for CI/CD with Go
-    * https://quipper.hatenablog.com/entry/2020/04/06/080000
+    * https://blog.studysapuri.jp/entry/2020/04/06/080000
   * Reduce CI/CD time using CircleCI Cache
 * Upgrade Ubuntu from 14.04 to 18.04
 * Upgrade MongoDB
