@@ -9,6 +9,21 @@ date | company | role
 * https://techblog.szksh.cloud/tags/job/
 * https://github.com/suzuki-shunsuke/profile#blog
 
+## 2021-11
+
+* AWS Control Tower
+  * Enroll some AWS Accounts to AWS Control Tower
+* AWS SSO
+  * Encourage developers to migrate AWS IAM User to AWS SSO
+  * Fix the local development to work without AWS IAM User's Access Key
+  * Account Cleaning: Remove unneeded IAM Users
+  * Write document for developers and SRE
+* [Self Hosted Renovate in GitHub Actions](https://github.com/renovatebot/github-action)
+  * Set up Self Hosted Renovate
+* [Transferring a domain to a different AWS account](https://docs.aws.amazon.com/Route53/latest/DeveloperGuide/domain-transfer-between-aws-accounts.html)
+* CI/CD of AWS Lambda
+* Migrate [git-secrets](https://github.com/awslabs/git-secrets) to [secretlint](https://github.com/secretlint/secretlint)
+
 ## 2021-10
 
 * Introduce AWS SSO
