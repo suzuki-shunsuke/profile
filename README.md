@@ -68,6 +68,8 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2021-11-30 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [fix: add nil check of DriverConfig](https://github.com/kreuzwerker/terraform-provider-docker/pull/315)
+2021-11-30 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [fix(container): remove log_driver's default value and make log_driver `computed`](https://github.com/kreuzwerker/terraform-provider-docker/pull/270)
 2021-11-13 | [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) | document | [Add tfmigrator](https://github.com/shuaibiyy/awesome-terraform/pull/139)
 2021-11-13 | [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) | document | [Add tfcmt](https://github.com/shuaibiyy/awesome-terraform/pull/138)
 2021-10-20 | [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | Makefile | [fix: fix make testacc](https://github.com/hashicorp/terraform-provider-aws/pull/21385)
