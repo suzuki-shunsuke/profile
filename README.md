@@ -68,6 +68,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2021-12-23 | [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | go | [fix: change the type from array to slice to prevent a panic](https://github.com/hashicorp/terraform-provider-aws/pull/22315)
 2021-11-30 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [fix: add nil check of DriverConfig](https://github.com/kreuzwerker/terraform-provider-docker/pull/315)
 2021-11-30 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [fix(container): remove log_driver's default value and make log_driver `computed`](https://github.com/kreuzwerker/terraform-provider-docker/pull/270)
 2021-11-13 | [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) | document | [Add tfmigrator](https://github.com/shuaibiyy/awesome-terraform/pull/139)
@@ -176,6 +177,8 @@ merged date | repository | lang | PR's short description
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2021-12-18 | [asciinema-trim](https://github.com/suzuki-shunsuke/asciinema-trim) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/asciinema-trim.svg)](https://github.com/suzuki-shunsuke/asciinema-trim) | go | cli | Trim asciinema's record file
+2021-12-16 | [github-action-validate-envoy-proxy](https://github.com/suzuki-shunsuke/github-action-validate-envoy-proxy) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/github-action-validate-envoy-proxy.svg)](https://github.com/suzuki-shunsuke/github-action-validate-envoy-proxy) | shell script | GitHub Actions | GitHub Actions to validate Envoy Proxy Configuration File
 2021-09-05 | [aqua-renovate-config](https://github.com/suzuki-shunsuke/aqua-renovate-config) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/aqua-renovate-config.svg)](https://github.com/suzuki-shunsuke/aqua-renovate-config) | JSON | Renovate Preset | [Renovate Configuration](https://docs.renovatebot.com/config-presets/) to update packages and registries of [aqua](https://github.com/suzuki-shunsuke/aqua)
 2021-09-04 | [aqua-registry](https://github.com/suzuki-shunsuke/aqua-registry) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/aqua-registry.svg)](https://github.com/suzuki-shunsuke/aqua-registry) | yaml | configuration | [aqua](https://github.com/suzuki-shunsuke/aqua)'s Standard Registry
 2021-08-30 | [logrus-error](https://github.com/suzuki-shunsuke/logrus-error) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/logrus-error.svg)](https://github.com/suzuki-shunsuke/logrus-error) | go | library | Embed [logrus](https://github.com/sirupsen/logrus).Fields into error
