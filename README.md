@@ -31,8 +31,12 @@ date | event | style | presentation title
 
 Note that blog is mainly written in Japanese.
 
-* https://techblog.szksh.cloud
-* https://dev.to/suzukishunsuke
+* English
+  * [dev.to](https://dev.to/suzukishunsuke)
+  * [Medium](https://medium.com/@suzuki.shunsuke.1989)
+* Japanese
+  * https://techblog.szksh.cloud
+  * https://zenn.dev/shunsuke_suzuki
 
 date | title
 --- | ---
