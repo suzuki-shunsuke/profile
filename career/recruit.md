@@ -34,4 +34,4 @@ date | company | role
     * Fix the in-house wrapper tool of `aws eks update-kubeconfig`
   * Write the migration guide for developer and support the migration
 * Extract AWS WAF's COUNT and BLOCK log with Lambda and Kinesis Firehose
-* Replace [akoi](http://github.com/suzuki-shunsuke/akoi) to [aqua](https://github.com/suzuki-shunsuke/aqua)
+* Replace [akoi](http://github.com/suzuki-shunsuke/akoi) to [aqua](https://aquaproj.github.io/)
