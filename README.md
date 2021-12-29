@@ -72,9 +72,11 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2021-12-27 | [shmokmt/actions-setup-tfcmt](https://github.com/shmokmt/actions-setup-tfcmt) | shell script (GitHub Actions) | [Use github.action_path instead of donwloading the script from main branch](https://github.com/shmokmt/actions-setup-tfcmt/pull/15)
 2021-12-23 | [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | go | [fix: change the type from array to slice to prevent a panic](https://github.com/hashicorp/terraform-provider-aws/pull/22315)
 2021-11-30 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [fix: add nil check of DriverConfig](https://github.com/kreuzwerker/terraform-provider-docker/pull/315)
 2021-11-30 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [fix(container): remove log_driver's default value and make log_driver `computed`](https://github.com/kreuzwerker/terraform-provider-docker/pull/270)
+2021-11-28 | [int128/aqua-action](https://github.com/int128/aqua-action) | document | [fix: rename some repositories owner](https://github.com/int128/aqua-action/pull/124)
 2021-11-13 | [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) | document | [Add tfmigrator](https://github.com/shuaibiyy/awesome-terraform/pull/139)
 2021-11-13 | [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) | document | [Add tfcmt](https://github.com/shuaibiyy/awesome-terraform/pull/138)
 2021-10-20 | [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | Makefile | [fix: fix make testacc](https://github.com/hashicorp/terraform-provider-aws/pull/21385)
