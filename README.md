@@ -72,6 +72,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2021-12-31 | [renovatebot/renovate](https://github.com/renovatebot/renovate) | document | [docs: fix a broken link](https://github.com/renovatebot/renovate/pull/13312)
 2021-12-27 | [shmokmt/actions-setup-tfcmt](https://github.com/shmokmt/actions-setup-tfcmt) | shell script (GitHub Actions) | [Use github.action_path instead of donwloading the script from main branch](https://github.com/shmokmt/actions-setup-tfcmt/pull/15)
 2021-12-23 | [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | go | [fix: change the type from array to slice to prevent a panic](https://github.com/hashicorp/terraform-provider-aws/pull/22315)
 2021-11-30 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [fix: add nil check of DriverConfig](https://github.com/kreuzwerker/terraform-provider-docker/pull/315)
