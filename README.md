@@ -40,6 +40,7 @@ Note that blog is mainly written in Japanese.
 
 date | title
 --- | ---
+2022-02-04 | [Terraform の CI を AWS CodeBuild から GitHub Actions + tfaction に移行しました](https://blog.studysapuri.jp/entry/2022/02/04/080000)
 2022-01-12 | [AWS SSO を導入してセキュリティと利便性を改善した話](https://blog.studysapuri.jp/entry/2022/01/12/080000)
 2021-10-13 | [HashiTalks Japan 2021 で弊プロダクトの Terraform Platform について登壇しました](https://blog.studysapuri.jp/entry/2021/10/13/080000)
 2021-08-11 | [Terraform の CI に tfmigrate を導入した話](https://blog.studysapuri.jp/entry/2021/08/11/080000)
@@ -185,6 +186,7 @@ merged date | repository | lang | PR's short description
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2022-01-22 | [tfaction](https://github.com/suzuki-shunsuke/tfaction) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/tfaction.svg)](https://github.com/suzuki-shunsuke/tfaction) | typescript | GitHub Actions | GitHub Actions collection for Opinionated Terraform Workflow
 2021-12-18 | [asciinema-trim](https://github.com/suzuki-shunsuke/asciinema-trim) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/asciinema-trim.svg)](https://github.com/suzuki-shunsuke/asciinema-trim) | go | cli | Trim asciinema's record file
 2021-12-16 | [github-action-validate-envoy-proxy](https://github.com/suzuki-shunsuke/github-action-validate-envoy-proxy) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/github-action-validate-envoy-proxy.svg)](https://github.com/suzuki-shunsuke/github-action-validate-envoy-proxy) | shell script | GitHub Actions | GitHub Actions to validate Envoy Proxy Configuration File
 2021-09-05 | [aqua-renovate-config](https://github.com/aquaproj/aqua-renovate-config) | [![GitHub last commit](https://img.shields.io/github/last-commit/aquaproj/aqua-renovate-config.svg)](https://github.com/aquaproj/aqua-renovate-config) | JSON | Renovate Preset | [Renovate Configuration](https://docs.renovatebot.com/config-presets/) to update packages and registries of [aqua](https://github.com/aquaproj/aqua)
