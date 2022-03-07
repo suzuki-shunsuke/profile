@@ -8,7 +8,7 @@ DevOps / Go / Tool maker / OSS contributor
 
 * [How to create README](#how-to-create-readme)
 * [Blog](#blog)
-* [Job Career](career)
+* [Job Career](https://github.com/suzuki-shunsuke/resume)
 * [Collaboration](#collaboration)
 * [Contribution (Pull Request)](#contribution-pull-request)
 * [My tools](#my-tools)
