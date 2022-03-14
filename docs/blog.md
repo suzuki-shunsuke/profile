@@ -10,11 +10,12 @@ Note that blog is mainly written in Japanese.
   * [dev.to](https://dev.to/suzukishunsuke)
   * [Medium](https://medium.com/@suzuki.shunsuke.1989)
 * Japanese
-  * https://techblog.szksh.cloud
   * https://zenn.dev/shunsuke_suzuki
+  * https://techblog.szksh.cloud
 
 date | title
 --- | ---
+2022-02-25 | [Migrate Terraform CI from AWS CodeBuild to GitHub Actions](https://devs.quipper.com/2022/02/25/terraform-github-actions.html)
 2022-02-18 | [Renovate の大量の Pull Request を処理する技術](https://blog.studysapuri.jp/entry/2022/02/18/080000)
 2022-02-04 | [Terraform の CI を AWS CodeBuild から GitHub Actions + tfaction に移行しました](https://blog.studysapuri.jp/entry/2022/02/04/080000)
 2022-01-12 | [AWS SSO を導入してセキュリティと利便性を改善した話](https://blog.studysapuri.jp/entry/2022/01/12/080000)
