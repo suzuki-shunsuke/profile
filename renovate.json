@@ -1,0 +1,12 @@
+{
+  "extends": [
+    "config:base",
+    "github>suzuki-shunsuke/renovate-config"
+  ],
+  "packageRules": [
+    {
+      "matchUpdateTypes": ["digest"],
+      "enabled": false
+    }
+  ]
+}
