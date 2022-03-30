@@ -15,6 +15,8 @@ Note that blog is mainly written in Japanese.
 
 date | title
 --- | ---
+2022-03-30 | [Terraform Modules を Monorepo で versioning して管理](https://blog.studysapuri.jp/entry/2022/03/30/080000)
+2022-03-29 | [Automate handling a number of Pull Requests by Renovate in Terraform Monorepo](https://devs.quipper.com/2022/03/29/automate-handling-a-number-of-pull-requests-by-renovate-in-terraform-monorepo.html)
 2022-02-25 | [Migrate Terraform CI from AWS CodeBuild to GitHub Actions](https://devs.quipper.com/2022/02/25/terraform-github-actions.html)
 2022-02-18 | [Renovate の大量の Pull Request を処理する技術](https://blog.studysapuri.jp/entry/2022/02/18/080000)
 2022-02-04 | [Terraform の CI を AWS CodeBuild から GitHub Actions + tfaction に移行しました](https://blog.studysapuri.jp/entry/2022/02/04/080000)
