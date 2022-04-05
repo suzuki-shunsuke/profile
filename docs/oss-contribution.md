@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2022-04-06 | [terraform-linters/tflint-ruleset-aws](https://github.com/terraform-linters/tflint-ruleset-aws) | go | [style: format rules/api/rule.go.tmpl and run go generate ./...](https://github.com/terraform-linters/tflint-ruleset-aws/pull/333)
 2021-12-31 | [renovatebot/renovate](https://github.com/renovatebot/renovate) | document | [docs: fix a broken link](https://github.com/renovatebot/renovate/pull/13312)
 2021-12-27 | [shmokmt/actions-setup-tfcmt](https://github.com/shmokmt/actions-setup-tfcmt) | shell script (GitHub Actions) | [Use github.action_path instead of donwloading the script from main branch](https://github.com/shmokmt/actions-setup-tfcmt/pull/15)
 2021-12-23 | [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | go | [fix: change the type from array to slice to prevent a panic](https://github.com/hashicorp/terraform-provider-aws/pull/22315)
