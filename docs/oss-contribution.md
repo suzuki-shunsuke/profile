@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2022-04-21 | [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) | go | [fix: panic when Decode's input is array and output is a slice](https://github.com/mitchellh/mapstructure/pull/265)
 2022-04-12 | [rhysd/actionlint](https://github.com/rhysd/actionlint) | go | [fix: add permissions "pages" and "discussions" and remove invalid permission "metadata"](https://github.com/rhysd/actionlint/pull/131)
 2022-04-06 | [terraform-linters/tflint-ruleset-aws](https://github.com/terraform-linters/tflint-ruleset-aws) | go | [style: format rules/api/rule.go.tmpl and run go generate ./...](https://github.com/terraform-linters/tflint-ruleset-aws/pull/333)
 2021-12-31 | [renovatebot/renovate](https://github.com/renovatebot/renovate) | document | [docs: fix a broken link](https://github.com/renovatebot/renovate/pull/13312)
