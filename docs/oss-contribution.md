@@ -19,6 +19,8 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2022-04-29 | [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) | document | [tools: add tfaction](https://github.com/shuaibiyy/awesome-terraform/pull/164)
+2022-04-29 | [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) | document | [fix: update links to some tools](https://github.com/shuaibiyy/awesome-terraform/pull/165)
 2022-04-22 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [chore: remove the workflow to close stale issues and pull requests](https://github.com/kreuzwerker/terraform-provider-docker/pull/371)
 2022-04-21 | [mitchellh/mapstructure](https://github.com/mitchellh/mapstructure) | go | [fix: panic when Decode's input is array and output is a slice](https://github.com/mitchellh/mapstructure/pull/265)
 2022-04-12 | [rhysd/actionlint](https://github.com/rhysd/actionlint) | go | [fix: add permissions "pages" and "discussions" and remove invalid permission "metadata"](https://github.com/rhysd/actionlint/pull/131)
