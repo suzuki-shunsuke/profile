@@ -6,6 +6,7 @@ sidebar_position: 500
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2022-05-04 | [yaml2json](https://github.com/suzuki-shunsuke/yaml2json) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/yaml2json.svg)](https://github.com/suzuki-shunsuke/yaml2json) | go | cli | Convert YAML to JSON
 2022-04-23 | [renovate-issue-action](https://github.com/suzuki-shunsuke/renovate-issue-action) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/renovate-issue-action.svg)](https://github.com/suzuki-shunsuke/renovate-issue-action) | go | cli for GitHub Actions | Create, update, and close GitHub Issues with GitHub Actions according to Renovate Pull Requests
 2022-04-21 | [zap-error](https://github.com/suzuki-shunsuke/zap-error) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/zap-error.svg)](https://github.com/suzuki-shunsuke/zap-error) | go | library | Embed zap.Field into error
 2022-02-19 | [reenable-automerge-action](https://github.com/suzuki-shunsuke/reenable-automerge-action) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/reenable-automerge-action.svg)](https://github.com/suzuki-shunsuke/reenable-automerge-action) | shell script | GitHub Actions | GitHub Actions to re-enable disabled GitHub Automerge
