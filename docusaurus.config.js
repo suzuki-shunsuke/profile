@@ -56,11 +56,33 @@ const config = {
             label: 'Resume',
             position: 'right',
           },
+          {
+            href: 'http://github.com/suzuki-shunsuke/profile',
+            label: 'Source Repository',
+            position: 'right',
+          },
         ],
       },
       footer: {
         style: 'dark',
         links: [
+          {
+            title: 'More',
+            items: [
+              {
+                href: 'http://github.com/suzuki-shunsuke',
+                label: 'GitHub User Profile',
+              },
+              {
+                href: 'http://github.com/suzuki-shunsuke/resume',
+                label: 'Resume',
+              },
+              {
+                href: 'http://github.com/suzuki-shunsuke/profile',
+                label: 'Source Repository',
+              },
+            ],
+          },
         ],
         copyright: `Copyright © 2016 Shunsuke Suzuki. Built with Docusaurus.`,
       },
