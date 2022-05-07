@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2022-05-07 | [terraform-linters/tflint-ruleset-aws](https://github.com/terraform-linters/tflint-ruleset-aws) | go | [feat: support provider aliases](https://github.com/terraform-linters/tflint-ruleset-aws/pull/342)
 2022-04-29 | [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) | document | [tools: add tfaction](https://github.com/shuaibiyy/awesome-terraform/pull/164)
 2022-04-29 | [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) | document | [fix: update links to some tools](https://github.com/shuaibiyy/awesome-terraform/pull/165)
 2022-04-22 | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker) | go | [chore: remove the workflow to close stale issues and pull requests](https://github.com/kreuzwerker/terraform-provider-docker/pull/371)
