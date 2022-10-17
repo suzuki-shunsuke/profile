@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2022-10-17 | [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator) | go | [fix: use GITHUB_OUTPUT instead of deprecated set-output command](https://github.com/slsa-framework/slsa-github-generator/pull/1061)
 2022-10-04 | [shipyard-run/shipyard](https://github.com/shipyard-run/shipyard) | go (shell script) | [ci: fix checksums.txt](https://github.com/shipyard-run/shipyard/pull/182)
 2022-05-07 | [terraform-linters/tflint-ruleset-aws](https://github.com/terraform-linters/tflint-ruleset-aws) | go | [feat: support provider aliases](https://github.com/terraform-linters/tflint-ruleset-aws/pull/342)
 2022-04-29 | [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) | document | [tools: add tfaction](https://github.com/shuaibiyy/awesome-terraform/pull/164)
