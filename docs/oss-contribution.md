@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2022-11-12 | [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier) | go | [fix: fix error logs](https://github.com/slsa-framework/slsa-verifier/pull/356)
 2022-10-21 | [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator) | go | [fix: use GITHUB_OUTPUT instead of deprecated set-output command](https://github.com/slsa-framework/slsa-github-generator/pull/1066)
 2022-10-17 | [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator) | go | [fix: use GITHUB_OUTPUT instead of deprecated set-output command](https://github.com/slsa-framework/slsa-github-generator/pull/1061)
 2022-10-04 | [shipyard-run/shipyard](https://github.com/shipyard-run/shipyard) | go (shell script) | [ci: fix checksums.txt](https://github.com/shipyard-run/shipyard/pull/182)
