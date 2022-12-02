@@ -19,6 +19,9 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2022-12-02 | [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier) | go | [docs: refer v2.0.0 in README](https://github.com/slsa-framework/slsa-verifier/pull/375)
+2022-12-02 | [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier) | go | [fix: fix the Go package version to v2](https://github.com/slsa-framework/slsa-verifier/pull/373)
+2022-12-02 | [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier) | go | [docs: add the checksum of v2.0.0](https://github.com/slsa-framework/slsa-verifier/pull/374)
 2022-11-12 | [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier) | go | [fix: fix error logs](https://github.com/slsa-framework/slsa-verifier/pull/356)
 2022-10-21 | [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator) | go | [fix: use GITHUB_OUTPUT instead of deprecated set-output command](https://github.com/slsa-framework/slsa-github-generator/pull/1066)
 2022-10-17 | [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator) | go | [fix: use GITHUB_OUTPUT instead of deprecated set-output command](https://github.com/slsa-framework/slsa-github-generator/pull/1061)
