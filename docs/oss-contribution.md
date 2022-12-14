@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2022-12-03 | [mercari/github-app-token-generator](https://github.com/mercari/github-app-token-generator) | go | [fix: use GITHUB_OUTPUT instead of deprecated set-output command](https://github.com/mercari/github-app-token-generator/pull/5)
 2022-12-03 | [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier) | go | [docs: fix go install](https://github.com/slsa-framework/slsa-verifier/pull/376)
 2022-12-02 | [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier) | go | [docs: refer v2.0.0 in README](https://github.com/slsa-framework/slsa-verifier/pull/375)
 2022-12-02 | [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier) | go | [fix: fix the Go package version to v2](https://github.com/slsa-framework/slsa-verifier/pull/373)
