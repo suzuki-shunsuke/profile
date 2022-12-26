@@ -11,6 +11,35 @@ date | repository
 2020-11-29 / now | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker)
 2018-07-12 / 2019-06-25 | [line/line-bot-sdk-go](https://github.com/line/line-bot-sdk-go)
 
+## Issues
+
+https://github.com/search?q=is%3Aissue+author%3Asuzuki-shunsuke+-user%3Asuzuki-shunsuke+-org%3Aaquaproj
+
+created date | repository | short description
+--- | --- | ---
+2022-12-18 | [sigstore/cosign](https://github.com/sigstore/cosign) | [Improve the document for new users to understand quickly that Cosign supports blobs signing](https://github.com/sigstore/cosign/issues/2554)
+2022-12-01 | [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) | [cloudflared-darwin-amd64.tgz of the version 2022.11.1 is empty](https://github.com/cloudflare/cloudflared/issues/831)
+2022-11-18 | [antonmedv/llama](https://github.com/antonmedv/llama) | [Asset names are wrong in v1.1.1](https://github.com/antonmedv/llama/issues/28)
+2022-11-09 | [lotabout/skim](https://github.com/lotabout/skim) | [Since v0.10.0, no asset is released in GitHub Releases](https://github.com/lotabout/skim/issues/493)
+2022-11-08 | [Azure/aks-engine](https://github.com/Azure/aks-engine) | [Asset names for v0.73.0 are wrong (version is missing)](https://github.com/Azure/aks-engine/issues/5000)
+2022-11-06 | [hirosassa/ksnotify](https://github.com/hirosassa/ksnotify) | [Repository description is wrong (Not `kustomize build` but `kubectl diff`)](https://github.com/hirosassa/ksnotify/issues/28)
+2022-10-16 | [hktalent/scan4all](https://github.com/hktalent/scan4all) | [Checksum in scan4all-*-checksums.txt for 2.8.5 is incorrect ](https://github.com/hktalent/scan4all/issues/122)
+2022-10-13 | [Aloxaf/silicon](https://github.com/Aloxaf/silicon) | [Failed to release x86_64-pc-windows-msvc for v0.5.0](https://github.com/Aloxaf/silicon/issues/207)
+2022-10-12 | [bep/s3deploy](https://github.com/bep/s3deploy) | [s3deploy_2.9.0_windows-amd64.zip contains `hugo.exe`](https://github.com/bep/s3deploy/issues/313)
+2022-10-04 | [thought-machine/please](https://github.com/thought-machine/please) | [Filename in *.sha256 is different from the actual asset name](https://github.com/thought-machine/please/issues/2556)
+2022-10-04 | [kubevela/kubevela](https://github.com/kubevela/kubevela) | [Asset name in sha256sums.txt is wrong](https://github.com/kubevela/kubevela/issues/4822)
+2022-10-04 | [ipfs/kubo](https://github.com/ipfs/kubo) | [File path in *.sha512 should not be absolute path](https://github.com/ipfs/kubo/issues/9323)
+2022-10-03 | [junegunn/fzf](https://github.com/junegunn/fzf) | [Checksums of darwin aren't included in GitHub Releases' checksum file](https://github.com/junegunn/fzf/issues/2989)
+2022-09-14 | [pulumi/pulumi](https://github.com/pulumi/pulumi) | [Checksum file is missing in v3.39.4](https://github.com/pulumi/pulumi/issues/10707)
+2022-09-12 | [minamijoyo/tfmigrate](https://github.com/minamijoyo/tfmigrate) | [TF_CLI_ARGS_plan="-out=tfplan.out" doesn't work](https://github.com/minamijoyo/tfmigrate/issues/106)
+2022-08-03 | [ossf/scorecard](https://github.com/ossf/scorecard) | [scorecard_4.5.0_linux_amd64.tar.gz wasn't released](https://github.com/ossf/scorecard/issues/2118)
+2022-07-26 | [benbjohnson/litestream](https://github.com/benbjohnson/litestream) | [Asset for darwin isn't found at v0.3.9](https://github.com/benbjohnson/litestream/issues/405)
+2022-07-23 | [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu) | [Assets for Windows weren't released at v2.0.8](https://github.com/projectdiscovery/naabu/issues/399)
+2022-07-05 | [gsamokovarov/jump](https://github.com/gsamokovarov/jump) | [Release assets of jump v0.50.0 for Linux](https://github.com/gsamokovarov/jump/issues/74)
+2022-06-12 | [MusicDin/kubitect](https://github.com/MusicDin/kubitect) | [Asset for linux/arm64 isn't found in kubitect v2.0.7](https://github.com/MusicDin/kubitect/issues/22)
+
+And so on.
+
 ## Contribution (Pull Request)
 
 [merged](https://github.com/pulls?q=is%3Apr+author%3Asuzuki-shunsuke+-user%3Asuzuki-shunsuke+is%3Apublic+is%3Amerged)
