@@ -48,6 +48,7 @@ And so on.
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2022-12-27 | [crazy-max/diun](https://github.com/crazy-max/diun) | dockerfile | [chore: fix the file extension](https://github.com/crazy-max/diun/pull/743)
 2022-12-22 | [x-motemen/blogsync](https://github.com/x-motemen/blogsync) | go | [chore: build assets for Windows](https://github.com/x-motemen/blogsync/pull/56)
 2022-12-03 | [mercari/github-app-token-generator](https://github.com/mercari/github-app-token-generator) | go | [fix: use GITHUB_OUTPUT instead of deprecated set-output command](https://github.com/mercari/github-app-token-generator/pull/5)
 2022-12-03 | [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier) | go | [docs: fix go install](https://github.com/slsa-framework/slsa-verifier/pull/376)
