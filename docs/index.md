@@ -9,10 +9,10 @@ sidebar_position: 100
 
 * [Resume](https://github.com/suzuki-shunsuke/resume)
 * [GitHub Profile](https://github.com/suzuki-shunsuke)
-* [Speaking](speaking)
-* [Blog](blog)
-* [OSS Collaboration and Contribution](oss-contribution)
-* [OSS Development](oss-development)
+* [Speaking](speaking.md)
+* [Blog](blog.md)
+* [OSS Collaboration and Contribution](oss-contribution.md)
+* [OSS Development](oss-development.md)
 
 I'm SRE and tool maker and OSS contributor. I love Go.
 I am passionate about solving the problem of software development by software engineering.
