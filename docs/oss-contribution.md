@@ -48,6 +48,7 @@ And so on.
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2023-01-06 | [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier) | Github Actions | [ci: fix a deprecation warning](https://github.com/slsa-framework/slsa-verifier/pull/435)
 2022-12-29 | [bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) | document | [docs: fix installation](https://github.com/bufbuild/protoc-gen-validate/pull/765)
 2022-12-28 | [crazy-max/diun](https://github.com/crazy-max/diun) | dockerfile | [chore: fix the file extension](https://github.com/crazy-max/diun/pull/743)
 2022-12-22 | [x-motemen/blogsync](https://github.com/x-motemen/blogsync) | go | [chore: build assets for Windows](https://github.com/x-motemen/blogsync/pull/56)
