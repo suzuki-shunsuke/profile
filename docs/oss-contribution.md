@@ -154,6 +154,7 @@ https://github.com/search?q=is%3Aissue+author%3Asuzuki-shunsuke+-user%3Asuzuki-s
 
 created date | repository | short description
 --- | --- | ---
+2023-01-12 | [geofffranks/spruce](https://github.com/geofffranks/spruce) | [bug: Asset names in checksum files (*.sha1) of v1.30.0 are wrong](https://github.com/geofffranks/spruce/issues/367)
 2022-12-18 | [sigstore/cosign](https://github.com/sigstore/cosign) | [Improve the document for new users to understand quickly that Cosign supports blobs signing](https://github.com/sigstore/cosign/issues/2554)
 2022-12-01 | [cloudflare/cloudflared](https://github.com/cloudflare/cloudflared) | [cloudflared-darwin-amd64.tgz of the version 2022.11.1 is empty](https://github.com/cloudflare/cloudflared/issues/831)
 2022-11-18 | [antonmedv/llama](https://github.com/antonmedv/llama) | [Asset names are wrong in v1.1.1](https://github.com/antonmedv/llama/issues/28)
