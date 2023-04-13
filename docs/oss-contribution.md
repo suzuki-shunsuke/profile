@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2023-04-14 | [gotestyourself/gotestsum](https://github.com/gotestyourself/gotestsum) | CircleCI | [ci: update goreleaser 1.7.0 to 1.17.0 for windows/arm64](https://github.com/gotestyourself/gotestsum/pull/324)
 2023-03-11 | [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier) | Configuration file (YAML) | [chore: add a file extension ".exe" to Windows artifacts](https://github.com/slsa-framework/slsa-verifier/pull/527)
 2023-01-07 | [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier) | Github Actions | [chore: release assets for multiple platforms](https://github.com/slsa-framework/slsa-verifier/pull/434)
 2023-01-06 | [slsa-framework/slsa-verifier](https://github.com/slsa-framework/slsa-verifier) | Github Actions | [ci: fix a deprecation warning](https://github.com/slsa-framework/slsa-verifier/pull/435)
