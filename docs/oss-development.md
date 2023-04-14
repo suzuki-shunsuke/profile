@@ -6,6 +6,7 @@ sidebar_position: 500
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2023-04-14 | [pinact](https://github.com/suzuki-shunsuke/pinact) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/pinact.svg)](https://github.com/suzuki-shunsuke/pinact) | Go | CLI | Pin GitHub Actions versions
 2023-03-09 | [go-mod-tidy-workflow](https://github.com/suzuki-shunsuke/go-mod-tidy-workflow) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/go-mod-tidy-workflow.svg)](https://github.com/suzuki-shunsuke/go-mod-tidy-workflow) | YAML | GitHub Actions Workflow | GitHub Actions Reusable Workflow to run `go mod tidy` and push a commit
 2023-03-09 | [go-mod-tidy-action](https://github.com/suzuki-shunsuke/go-mod-tidy-action) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/go-mod-tidy-action.svg)](https://github.com/suzuki-shunsuke/go-mod-tidy-action) | shell script | GitHub Actions | GitHub Actions to run `go mod tidy` and push a commit to a pull request
 2023-02-03 | [go-test-full-workflow](https://github.com/suzuki-shunsuke/go-test-full-workflow) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/go-test-full-workflow.svg)](https://github.com/suzuki-shunsuke/go-test-full-workflow) | YAML | GitHub Actions Worfklow | GitHub Actions Reusable Workflow for testing Go application
