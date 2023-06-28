@@ -19,6 +19,8 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2023-06-28 | [tilt-dev/tilt](https://github.com/tilt-dev/tilt) | | [chore: replace GoReleaser's deprecated option `--rm-dist` to `--clean`](https://github.com/tilt-dev/tilt/pull/6153)
+2023-06-28 | [tilt-dev/tilt](https://github.com/tilt-dev/tilt) | | [chore: upgrade GoReleaser to v1.18.2](https://github.com/tilt-dev/tilt/pull/6152)
 2023-06-07 | [goreleaser/nfpm](https://github.com/goreleaser/nfpm) | | [chore: remove space from asset name](https://github.com/goreleaser/nfpm/pull/674)
 2023-05-22 | [honojs/hono](https://github.com/honojs/hono) | | [fix typo](https://github.com/honojs/hono/pull/1123)
 2023-04-14 | [gotestyourself/gotestsum](https://github.com/gotestyourself/gotestsum) | CircleCI | [ci: update goreleaser 1.7.0 to 1.17.0 for windows/arm64](https://github.com/gotestyourself/gotestsum/pull/324)
