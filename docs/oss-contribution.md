@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2023-07-01 | [tilt-dev/tilt](https://github.com/tilt-dev/tilt) | | [fix: fix typos using typos](https://github.com/tilt-dev/tilt/pull/6158)
 2023-06-28 | [tilt-dev/tilt](https://github.com/tilt-dev/tilt) | | [chore: replace GoReleaser's deprecated option `--rm-dist` to `--clean`](https://github.com/tilt-dev/tilt/pull/6153)
 2023-06-28 | [tilt-dev/tilt](https://github.com/tilt-dev/tilt) | | [chore: upgrade GoReleaser to v1.18.2](https://github.com/tilt-dev/tilt/pull/6152)
 2023-06-07 | [goreleaser/nfpm](https://github.com/goreleaser/nfpm) | | [chore: remove space from asset name](https://github.com/goreleaser/nfpm/pull/674)
