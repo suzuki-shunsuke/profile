@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2023-07-06 | [Shopify/ejson](https://github.com/Shopify/ejson) | GoReleaser | [ci: update goreleaser to v1.18.1 to release assets for darwin/arm64](https://github.com/Shopify/ejson/pull/130)
 2023-07-01 | [sunny0826/kubecm](https://github.com/sunny0826/kubecm) | GoReleaser | [chore: fix asset names](https://github.com/sunny0826/kubecm/pull/719)
 2023-07-01 | [tilt-dev/tilt](https://github.com/tilt-dev/tilt) | typos | [fix: fix typos using typos](https://github.com/tilt-dev/tilt/pull/6158)
 2023-06-28 | [tilt-dev/tilt](https://github.com/tilt-dev/tilt) | GoReleaser | [chore: replace GoReleaser's deprecated option `--rm-dist` to `--clean`](https://github.com/tilt-dev/tilt/pull/6153)
