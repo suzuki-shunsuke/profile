@@ -2,7 +2,7 @@
 
 [Resume (English)](https://github.com/suzuki-shunsuke/resume/blob/main/resume.md) | [Resume (Japanese)](https://github.com/suzuki-shunsuke/resume/blob/main/resume-ja.md)
 
-Requirements of offers are the following things.
+## Requirements of offers
 
 - Position: Platform Engineer / SRE
 - High Salary
@@ -13,7 +13,7 @@ Requirements of offers are the following things.
 - Modern tech stack
 - Exciting business and technical challenges
 
-And I want to know the following things.
+## What I want to know
 
 - Company name and URLs about the company
 - Location of the office
