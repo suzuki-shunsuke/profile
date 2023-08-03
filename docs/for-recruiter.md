@@ -11,7 +11,7 @@
 - Interesting Tech Blog
 - Public Cloud rather than Private Cloud
 - Modern tech stack
-- Exciting business and technical challenges
+- Exciting technical challenges
 
 ## What I want to know
 
