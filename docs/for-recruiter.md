@@ -2,7 +2,7 @@
 
 [Resume (English)](https://github.com/suzuki-shunsuke/resume/blob/main/resume.md) | [Resume (Japanese)](https://github.com/suzuki-shunsuke/resume/blob/main/resume-ja.md)
 
-## Requirements of offers
+## Requirements for offers
 
 - Position: Platform Engineer / SRE
 - High Salary
