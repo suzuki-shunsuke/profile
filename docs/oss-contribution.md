@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2023-08-25 | [renovatebot/renovate](https://github.com/renovatebot/renovate) | TypeScript | [fix(renovate-config-validator): support .renovaterc](https://github.com/renovatebot/renovate/pull/22991)
 2023-08-24 | [showwin/speedtest-go](https://github.com/showwin/speedtest-go) | GoReleaser | [chore: fix GoReleaser's deprecated config](https://github.com/showwin/speedtest-go/pull/144)
 2023-08-05 | [rhysd/actionlint](https://github.com/rhysd/actionlint) | Go | [fix: fix activity types of the event watch](https://github.com/rhysd/actionlint/pull/334)
 2023-07-31 | [github/docs](https://github.com/github/docs) | markdown | [fix wrong activity type starred](https://github.com/github/docs/pull/27127)
