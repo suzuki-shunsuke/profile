@@ -5,7 +5,6 @@
 ## Requirements for offers
 
 - Position: Platform Engineer / SRE
-- High Salary
 - Remote work (Full remote work is ideal)
 - The position uses Go
 - Interesting Tech Blog
