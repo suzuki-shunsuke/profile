@@ -6,11 +6,14 @@
 
 - Position: Platform Engineer / SRE
 - Remote work (Full remote work is ideal)
+- Modern tech stack
+- Exciting technical challenges
+
+## Nice to have
+
 - The position uses Go
 - Interesting Tech Blog
 - Public Cloud rather than Private Cloud
-- Modern tech stack
-- Exciting technical challenges
 
 ## What I want to know
 
