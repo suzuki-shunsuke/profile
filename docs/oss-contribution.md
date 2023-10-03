@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2023-10-03 | [k1LoW/stubin](https://github.com/k1LoW/stubin) | markdown | [docs: fix the wrong link to GitHub Releases](https://github.com/k1LoW/stubin/pull/7)
 2023-08-25 | [renovatebot/renovate](https://github.com/renovatebot/renovate) | TypeScript | [fix(renovate-config-validator): support .renovaterc](https://github.com/renovatebot/renovate/pull/22991)
 2023-08-24 | [showwin/speedtest-go](https://github.com/showwin/speedtest-go) | GoReleaser | [chore: fix GoReleaser's deprecated config](https://github.com/showwin/speedtest-go/pull/144)
 2023-08-05 | [rhysd/actionlint](https://github.com/rhysd/actionlint) | Go | [fix: fix activity types of the event watch](https://github.com/rhysd/actionlint/pull/334)
