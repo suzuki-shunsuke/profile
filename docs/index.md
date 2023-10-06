@@ -13,7 +13,6 @@ sidebar_position: 100
 - [Blog](blog.md)
 - [OSS Collaboration and Contribution](oss-contribution.md)
 - [OSS Development](oss-development.md)
-- [For Recruiters](for-recruiter.md)
 
 I'm a Platform Engineer, tool maker, and OSS contributor. I love Go.
 I am passionate about solving the problem of software development by software engineering.
