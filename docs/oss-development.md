@@ -6,6 +6,7 @@ sidebar_position: 500
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2023-10-08 | [mkghtag](https://github.com/suzuki-shunsuke/mkghtag) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/mkghtag.svg)](https://github.com/suzuki-shunsuke/mkghtag) | Go | CLI | Create GitHub Tags via API
 2023-07-12 | [zerolog-error](https://github.com/suzuki-shunsuke/zerolog-error) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/zerolog-error.svg)](https://github.com/suzuki-shunsuke/zerolog-error) | Go | library | Embed fields into error for zerolog
 2023-04-14 | [pinact](https://github.com/suzuki-shunsuke/pinact) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/pinact.svg)](https://github.com/suzuki-shunsuke/pinact) | Go | CLI | Pin GitHub Actions versions
 2023-03-09 | [go-mod-tidy-workflow](https://github.com/suzuki-shunsuke/go-mod-tidy-workflow) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/go-mod-tidy-workflow.svg)](https://github.com/suzuki-shunsuke/go-mod-tidy-workflow) | YAML | GitHub Actions Workflow | GitHub Actions Reusable Workflow to run `go mod tidy` and push a commit
