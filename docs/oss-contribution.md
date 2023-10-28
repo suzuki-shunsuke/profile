@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2023-10-29 | [xeol-io/xeol](https://github.com/xeol-io/xeol) | markdown | [docs: fix the SLSA provenance file name](https://github.com/xeol-io/xeol/pull/209)
 2023-10-26 | [notaryproject/notation](https://github.com/notaryproject/notation) | markdown | [docs: fix broken links](https://github.com/notaryproject/notation/pull/787)
 2023-10-03 | [k1LoW/stubin](https://github.com/k1LoW/stubin) | markdown | [docs: fix the wrong link to GitHub Releases](https://github.com/k1LoW/stubin/pull/7)
 2023-08-25 | [renovatebot/renovate](https://github.com/renovatebot/renovate) | TypeScript | [fix(renovate-config-validator): support .renovaterc](https://github.com/renovatebot/renovate/pull/22991)
