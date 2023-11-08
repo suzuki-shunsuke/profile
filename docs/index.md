@@ -10,7 +10,7 @@ sidebar_position: 100
 - [Resume](https://github.com/suzuki-shunsuke/resume)
 - [GitHub Profile](https://github.com/suzuki-shunsuke)
 - [Speaking](speaking.md)
-- [Blog](blog.md)
+- [Document, Blog](blog.md)
 - [OSS Collaboration and Contribution](oss-contribution.md)
 - [OSS Development](oss-development.md)
 

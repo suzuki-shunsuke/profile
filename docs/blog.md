@@ -6,12 +6,19 @@ sidebar_position: 300
 
 Note that blog is mainly written in Japanese.
 
-* English
-  * [dev.to](https://dev.to/suzukishunsuke)
-  * [Medium](https://medium.com/@suzuki.shunsuke.1989)
-* Japanese
-  * https://zenn.dev/shunsuke_suzuki
-  * https://techblog.szksh.cloud
+- English
+  - [dev.to](https://dev.to/suzukishunsuke)
+  - [Medium](https://medium.com/@suzuki.shunsuke.1989)
+- Japanese
+  - https://zenn.dev/shunsuke_suzuki
+  - https://techblog.szksh.cloud
+
+## Documents
+
+name | description
+--- | ---
+[oss-contribution-guide](https://github.com/suzuki-shunsuke/oss-contribution-guide) | OSS Contribution Guide
+[guide-github-action-renovate](https://suzuki-shunsuke.github.io/guide-github-action-renovate/) | Guide for building nice GitHub Actions Workflows with Renovate
 
 ## Company blog posts
 
