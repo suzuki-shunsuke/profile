@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2023-11-10 | [ikanago/omekasy](https://github.com/ikanago/omekasy) | YAML (GitHub Actions) | [ci: fix a bug that prebuilt binaries aren't published to GitHub Releases](https://github.com/ikanago/omekasy/pull/48)
 2023-11-05 | [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) | markdown | [Add tfprovidercheck](https://github.com/shuaibiyy/awesome-terraform/pull/233)
 2023-10-29 | [mmarkdown/mmark](https://github.com/mmarkdown/mmark) | YAML (GitHub Actions) | [ci: set up GoReleaser](https://github.com/mmarkdown/mmark/pull/208)
 2023-10-29 | [xeol-io/xeol](https://github.com/xeol-io/xeol) | YAML (GitHub Actions) | [ci: run the Release workflow by the push tag event](https://github.com/xeol-io/xeol/pull/211)
