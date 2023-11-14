@@ -19,6 +19,8 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2023-11-15 | [boz/kail](https://github.com/boz/kail) | YAML (GoReleaser) | [ci: fix deprecation warnings](https://github.com/boz/kail/pull/143)
+2023-11-10 | [boz/kail](https://github.com/boz/kail) | YAML (GitHub Actions) | [ci: add the permission `packages: write` to push images to ghcr.io](https://github.com/boz/kail/pull/144)
 2023-11-10 | [ikanago/omekasy](https://github.com/ikanago/omekasy) | YAML (GitHub Actions) | [ci: fix a bug that prebuilt binaries aren't published to GitHub Releases](https://github.com/ikanago/omekasy/pull/48)
 2023-11-05 | [shuaibiyy/awesome-terraform](https://github.com/shuaibiyy/awesome-terraform) | markdown | [Add tfprovidercheck](https://github.com/shuaibiyy/awesome-terraform/pull/233)
 2023-10-29 | [mmarkdown/mmark](https://github.com/mmarkdown/mmark) | YAML (GitHub Actions) | [ci: set up GoReleaser](https://github.com/mmarkdown/mmark/pull/208)
