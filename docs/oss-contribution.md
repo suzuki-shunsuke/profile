@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2023-11-17 | [particledecay/kconf](https://github.com/particledecay/kconf) | YAML (GoReleaser) | [chore: remove a double quote from asset names](https://github.com/particledecay/kconf/pull/61)
 2023-11-15 | [boz/kail](https://github.com/boz/kail) | YAML (GoReleaser) | [ci: fix deprecation warnings](https://github.com/boz/kail/pull/143)
 2023-11-10 | [boz/kail](https://github.com/boz/kail) | YAML (GitHub Actions) | [ci: add the permission `packages: write` to push images to ghcr.io](https://github.com/boz/kail/pull/144)
 2023-11-10 | [ikanago/omekasy](https://github.com/ikanago/omekasy) | YAML (GitHub Actions) | [ci: fix a bug that prebuilt binaries aren't published to GitHub Releases](https://github.com/ikanago/omekasy/pull/48)
