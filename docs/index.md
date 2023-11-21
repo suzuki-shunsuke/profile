@@ -28,3 +28,7 @@ I am passionate about solving the problem of software development by software en
 - Renovate
 - Conftest
 - etc
+
+## Who uses my OSS?
+
+https://github.com/suzuki-shunsuke/profile/discussions/57
