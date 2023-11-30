@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2023-11-30 | [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) | YAML (GitHub Actions) | [ci: fix the format of release assets](https://github.com/cocogitto/cocogitto/pull/347)
 2023-11-17 | [particledecay/kconf](https://github.com/particledecay/kconf) | YAML (GoReleaser) | [chore: remove a double quote from asset names](https://github.com/particledecay/kconf/pull/61)
 2023-11-15 | [boz/kail](https://github.com/boz/kail) | YAML (GoReleaser) | [ci: fix deprecation warnings](https://github.com/boz/kail/pull/143)
 2023-11-10 | [boz/kail](https://github.com/boz/kail) | YAML (GitHub Actions) | [ci: add the permission `packages: write` to push images to ghcr.io](https://github.com/boz/kail/pull/144)
