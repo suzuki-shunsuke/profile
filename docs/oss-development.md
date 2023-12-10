@@ -6,6 +6,7 @@ sidebar_position: 500
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2023-12-10 | [aws-secrets-manager-get-action](https://github.com/suzuki-shunsuke/aws-secrets-manager-get-action) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/aws-secrets-manager-get-action.svg)](https://github.com/suzuki-shunsuke/aws-secrets-manager-get-action) | TypeScript | GitHub Actions | GitHub Actions to get secrets from AWS Secrets Manager
 2023-11-21 | [nllint](https://github.com/suzuki-shunsuke/nllint) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/nllint.svg)](https://github.com/suzuki-shunsuke/nllint) | Go | CLI | Linter to check newlines at the end of files
 2023-11-05 | [tfprovidercheck](https://github.com/suzuki-shunsuke/tfprovidercheck) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/tfprovidercheck.svg)](https://github.com/suzuki-shunsuke/tfprovidercheck) | Go | CLI | Censor Terraform Providers
 2023-10-08 | [mkghtag](https://github.com/suzuki-shunsuke/mkghtag) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/mkghtag.svg)](https://github.com/suzuki-shunsuke/mkghtag) | Go | CLI | Create GitHub Tags via API
