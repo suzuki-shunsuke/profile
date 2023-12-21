@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2023-12-21 | [makew0rld/didder](https://github.com/makew0rld/didder) | YAML (GoReleaser) | [chore: update GoReleaser to release assets for darwin/arm64 and windows/arm64](https://github.com/makew0rld/didder/pull/17)
 2023-12-19 | [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | markdown | [docs: fix a broken link](https://github.com/so-dang-cool/dt/pull/67)
 2023-12-04 | [tkuchiki/slp](https://github.com/tkuchiki/slp) | Shell Script | [ci: add checksums of \*.tar.gz to checksum files](https://github.com/tkuchiki/slp/pull/13)
 2023-11-30 | [cocogitto/cocogitto](https://github.com/cocogitto/cocogitto) | YAML (GitHub Actions) | [ci: fix the format of release assets](https://github.com/cocogitto/cocogitto/pull/347)
