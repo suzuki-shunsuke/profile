@@ -19,6 +19,9 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2024-01-08 | [gojuno/minimock](https://github.com/gojuno/minimock) | YAML (GitHub Actions) | [ci: restrict the job permission for security](https://github.com/gojuno/minimock/pull/84)
+2024-01-08 | [gojuno/minimock](https://github.com/gojuno/minimock) | YAML (GitHub Actions) | [ci: set up a GitHub Actions workflow to release minimock](https://github.com/gojuno/minimock/pull/83)
+2024-01-04 | [gojuno/minimock](https://github.com/gojuno/minimock) | YAML (GitHub Actions) | [ci: run lint and test for pull requests on GitHub Actions](https://github.com/gojuno/minimock/pull/82)
 2023-12-21 | [makew0rld/didder](https://github.com/makew0rld/didder) | YAML (GoReleaser) | [ci: replace --rm-dist with --clean](https://github.com/makew0rld/didder/pull/18)
 2023-12-21 | [makew0rld/didder](https://github.com/makew0rld/didder) | YAML (GoReleaser) | [chore: update GoReleaser to release assets for darwin/arm64 and windows/arm64](https://github.com/makew0rld/didder/pull/17)
 2023-12-19 | [so-dang-cool/dt](https://github.com/so-dang-cool/dt) | markdown | [docs: fix a broken link](https://github.com/so-dang-cool/dt/pull/67)
