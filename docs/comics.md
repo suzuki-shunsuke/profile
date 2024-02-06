@@ -1,5 +1,8 @@
 # Comics
 
+沢山挙げすぎても切りがないので、各カテゴリにつき 5 つまでに絞っています。
+恋愛もの、特に百合が好きですが、せっかくなのでそれ以外も取り上げます。
+
 ## 百合
 
 - [おとなになっても](https://kisscomic.com/c/otonaninattemo/) (完結)
@@ -22,7 +25,7 @@
 - [僕の心のヤバイやつ](https://mangacross.jp/comics/yabai), アニメ化
 - [ゆゆ式](https://www.yuyushiki.net/), アニメ化
 - [疑似ハーレム](https://gekkansunday.net/work/391/) (完結), アニメ化
-- [ヒマチの嬢王](https://urasunday.com/title/570) (完結)
+- [腐女子交流記 〜アラサー×JK〜](https://web-ace.jp/youngaceup/contents/1000066/) (完結)
 
 ## 知識
 
