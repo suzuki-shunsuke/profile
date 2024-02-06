@@ -32,13 +32,13 @@
 
 - [バチバチ](https://www.akitashoten.co.jp/series/2473) (完結)
 
-## 雑学
+## 知識
 
 - [そこをなんとか](https://www.hakusensha.co.jp/comicslist/44793/) (完結)
+- [３７．５℃の涙](https://shogakukan-comic.jp/book?isbn=9784098712571) (完結)
 
 ## その他
 
 - [その着せ替え人形は恋をする](https://magazine.jp.square-enix.com/yg/introduction/sonobisque/)
 - [私の少年](https://yanmaga.jp/comics/%E7%A7%81%E3%81%AE%E5%B0%91%E5%B9%B4) (完結)
-- [３７．５℃の涙](https://shogakukan-comic.jp/book?isbn=9784098712571) (完結)
 - [虫籠のカガステル](https://comic-ryu.jp/_cagaster/) (完結)
