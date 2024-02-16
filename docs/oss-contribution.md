@@ -19,6 +19,8 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2024-02-16 | [robscott/kube-capacity](https://github.com/robscott/kube-capacity) | YAML (GitHub Actions, GoReleaser) | [chore(goreleaser): fix deprecation warnings](https://github.com/robscott/kube-capacity/pull/124)
+2024-02-16 | [robscott/kube-capacity](https://github.com/robscott/kube-capacity) | YAML (GoReleaser) | [chore(goreleaser): fix name_template](https://github.com/robscott/kube-capacity/pull/123)
 2024-02-13 | [gruntwork-io/boilerplate](https://github.com/gruntwork-io/boilerplate) | markdown | [docs: update the table of contents](https://github.com/gruntwork-io/boilerplate/pull/161)
 2024-02-10 | [gruntwork-io/boilerplate](https://github.com/gruntwork-io/boilerplate) | markdown | [docs: fix the broken link to the release page](https://github.com/gruntwork-io/boilerplate/pull/159)
 2024-01-25 | [tofuutils/tenv](https://github.com/tofuutils/tenv) | | [chore: remove a space from CHANGELOG.md](https://github.com/tofuutils/tenv/pull/32)
