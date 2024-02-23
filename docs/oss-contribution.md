@@ -19,6 +19,8 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2024-02-23 | [pen-lang/pen](https://github.com/pen-lang/pen) | YAML (GitHub Actions) | [ci: skip pushing docker images if pull requests are sent from fork repositories](https://github.com/pen-lang/pen/pull/2328)
+2024-02-23 | [pen-lang/pen](https://github.com/pen-lang/pen) | YAML (GitHub Actions) | [ci: release assets for darwin/amd64](https://github.com/pen-lang/pen/pull/2326)
 2024-02-16 | [robscott/kube-capacity](https://github.com/robscott/kube-capacity) | YAML (GitHub Actions, GoReleaser) | [chore(goreleaser): fix deprecation warnings](https://github.com/robscott/kube-capacity/pull/124)
 2024-02-16 | [robscott/kube-capacity](https://github.com/robscott/kube-capacity) | YAML (GoReleaser) | [chore(goreleaser): fix name_template](https://github.com/robscott/kube-capacity/pull/123)
 2024-02-13 | [gruntwork-io/boilerplate](https://github.com/gruntwork-io/boilerplate) | markdown | [docs: update the table of contents](https://github.com/gruntwork-io/boilerplate/pull/161)
