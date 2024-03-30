@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2024-03-30 | [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) | YAML (GitHub Actions) | [chore(deps): upgrade Cosign to v2.2.3](https://github.com/argoproj/argo-workflows/pull/12850)
 2024-03-09 | [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) | Makefile | [fix: fix the asset name of the checksum file for windows/amd64](https://github.com/kubeshark/kubeshark/pull/1509)
 2024-02-23 | [pen-lang/pen](https://github.com/pen-lang/pen) | YAML (GitHub Actions) | [ci: skip pushing docker images if pull requests are sent from fork repositories](https://github.com/pen-lang/pen/pull/2328)
 2024-02-23 | [pen-lang/pen](https://github.com/pen-lang/pen) | YAML (GitHub Actions) | [ci: release assets for darwin/amd64](https://github.com/pen-lang/pen/pull/2326)
