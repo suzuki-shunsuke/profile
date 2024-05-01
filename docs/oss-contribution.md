@@ -19,6 +19,8 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2024-05-01 | [sachaos/toggl](https://github.com/sachaos/toggl) | YAML (GoReleaser) | [chore(goreleaser): Fix goreleaser's deprecation warning](https://github.com/sachaos/toggl/pull/11)
+2024-05-01 | [sachaos/toggl](https://github.com/sachaos/toggl) | YAML (GoReleaser) | [chore(goreleaser): fix the failure of goreleaser](https://github.com/sachaos/toggl/pull/10)
 2024-04-27 | [open-policy-agent/opa](https://github.com/open-policy-agent/opa) | YAML (GitHub Actions) | [ci: pin GitHub Actions macos runner version and build for darwin/amd64](https://github.com/open-policy-agent/opa/pull/6721)
 2024-04-26 | [mercari/hcledit](https://github.com/mercari/hcledit) | YAML (Goreleaser) | [chore(goreleaser): fix deprecation warning](https://github.com/mercari/hcledit/pull/110)
 2024-03-30 | [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) | YAML (GitHub Actions) | [chore(deps): upgrade Cosign to v2.2.3](https://github.com/argoproj/argo-workflows/pull/12850)
