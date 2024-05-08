@@ -19,6 +19,8 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2024-05-08 | [awslabs/dynein](https://github.com/awslabs/dynein) | YAML (GitHub Actions) | [chore: release pre-built binaries for macOS ARM](https://github.com/awslabs/dynein/pull/223)
+2024-05-08 | [renovatebot/renovate](https://github.com/renovatebot/renovate) | TypeScript | [fix(manager/devcontainer): parse with JSONC parser](https://github.com/renovatebot/renovate/pull/28914)
 2024-05-08 | [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator) | YAML (GitHub Actions) | [chore(setup-go): update actions/setup-go to resolve the warning](https://github.com/slsa-framework/slsa-github-generator/pull/3604)
 2024-05-07 | [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator) | Markdown (document) | [docs: fix broken links](https://github.com/slsa-framework/slsa-github-generator/pull/3605)
 2024-05-01 | [sachaos/toggl](https://github.com/sachaos/toggl) | YAML (GoReleaser) | [chore(goreleaser): Fix goreleaser's deprecation warning](https://github.com/sachaos/toggl/pull/11)
