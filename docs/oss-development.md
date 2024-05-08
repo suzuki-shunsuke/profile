@@ -6,8 +6,9 @@ sidebar_position: 500
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
-2024-02-04 | [simple-sync-action](https://github.com/suzuki-shunsuke/simple-sync-action) |  | GitHub Action (Composite Action) | GitHub Actions to synchronize specific files with the specific branch to prevent tamper
-2023-12-29 | [slog-error](https://github.com/lintnet/slog-error) | Go | library | Go library to embed Attr into error for slog
+2024-05-08 | [aquaproj/devcontainer-features](https://github.com/aquaproj/devcontainer-features) |  | JSON, Shell Script |  Dev Container Features | Dev Container Features for aqua
+2024-02-04 | [simple-sync-action](https://github.com/suzuki-shunsuke/simple-sync-action) |  | YAML | GitHub Action (Composite Action) | GitHub Actions to synchronize specific files with the specific branch to prevent tamper
+2023-12-29 | [slog-error](https://github.com/lintnet/slog-error) | | Go | library | Go library to embed Attr into error for slog
 2023-12-15 | [go-jsonnet-native-functions](https://github.com/suzuki-shunsuke/go-jsonnet-native-functions) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/go-jsonnet-native-functions.svg)](https://github.com/suzuki-shunsuke/go-jsonnet-native-functions) | Go | library | Go package porting several Go's standard libraries functions to go-jsonnet's native functions
 2023-12-10 | [aws-secrets-manager-get-action](https://github.com/suzuki-shunsuke/aws-secrets-manager-get-action) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/aws-secrets-manager-get-action.svg)](https://github.com/suzuki-shunsuke/aws-secrets-manager-get-action) | TypeScript | GitHub Actions | GitHub Actions to get secrets from AWS Secrets Manager
 2023-11-21 | [nllint](https://github.com/suzuki-shunsuke/nllint) | [![GitHub last commit](https://img.shields.io/github/last-commit/suzuki-shunsuke/nllint.svg)](https://github.com/suzuki-shunsuke/nllint) | Go | CLI | Linter to check newlines at the end of files
