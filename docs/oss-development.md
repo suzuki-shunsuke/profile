@@ -6,6 +6,7 @@ sidebar_position: 500
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2024-05-30 | [lintnet/lintnet](https://github.com/lintnet/lintnet) |  | Go, Jsonnet | CLI | General purpose linter powered by Jsonnet
 2024-05-08 | [aquaproj/devcontainer-features](https://github.com/aquaproj/devcontainer-features) |  | JSON, Shell Script |  Dev Container Features | Dev Container Features for aqua
 2024-02-04 | [simple-sync-action](https://github.com/suzuki-shunsuke/simple-sync-action) |  | YAML | GitHub Action (Composite Action) | GitHub Actions to synchronize specific files with the specific branch to prevent tamper
 2023-12-29 | [slog-error](https://github.com/lintnet/slog-error) | | Go | library | Go library to embed Attr into error for slog
