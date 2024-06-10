@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2024-06-10 | [fujiwara/lamux](https://github.com/fujiwara/lamux) | Go | [fix: fix build error](https://github.com/fujiwara/lamux/pull/14)
 2024-06-10 | [google/go-jsonnet](https://github.com/google/go-jsonnet) | Go | [fix: fix conversion from int to float64](https://github.com/google/go-jsonnet/pull/753)
 2024-05-30 | [gojuno/minimock](https://github.com/gojuno/minimock) | Makefile | [chore: remove the Make task "release"](https://github.com/gojuno/minimock/pull/105)
 2024-05-15 | [slsa-framework/slsa-github-generator](https://github.com/slsa-framework/slsa-github-generator) | YAML (GitHub Actions) | [fix: update softprops/action-gh-release to v2.0.5](https://github.com/slsa-framework/slsa-github-generator/pull/3619)
