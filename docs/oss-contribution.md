@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2024-06-17 | [container-tools/spectrum](https://github.com/container-tools/spectrum) | YAML (GoReleaser, GitHub Actions) | [chore: update GoReleaser to v2](https://github.com/container-tools/spectrum/pull/96)
 2024-06-15 | [int128/ghcp](https://github.com/int128/ghcp) | JSON (Renovate) | [Fix a broken Renovate configugration](https://github.com/int128/ghcp/pull/316)
 2024-06-15 | [hashicorp/terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws) | Go | [lambda_permission's imported function_name shouldn't be the function ARN but the function name](https://github.com/hashicorp/terraform-provider-aws/pull/16436)
 2024-06-10 | [fujiwara/lamux](https://github.com/fujiwara/lamux) | Go | [fix: fix build error](https://github.com/fujiwara/lamux/pull/14)
