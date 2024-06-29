@@ -19,6 +19,8 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2024-06-30 | [urfave/cli](https://github.com/urfave/cli) | Go | [fix: disable shell completion if double dash is included in arguments (v2)](https://github.com/urfave/cli/pull/1938)
+2024-06-30 | [urfave/cli](https://github.com/urfave/cli) | Go | [fix: disable shell completion if double dash is included in arguments (v3)](https://github.com/urfave/cli/pull/1933)
 2024-06-19 | [mercari/hcledit](https://github.com/mercari/hcledit) | YAML (GoReleaser) | [chore: set CGO_ENABLED=0](https://github.com/mercari/hcledit/pull/117)
 2024-06-17 | [container-tools/spectrum](https://github.com/container-tools/spectrum) | YAML (GoReleaser, GitHub Actions) | [chore: update GoReleaser to v2](https://github.com/container-tools/spectrum/pull/96)
 2024-06-15 | [int128/ghcp](https://github.com/int128/ghcp) | JSON (Renovate) | [Fix a broken Renovate configugration](https://github.com/int128/ghcp/pull/316)
