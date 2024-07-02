@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2024-07-02 | [lindell/multi-gitter](https://github.com/lindell/multi-gitter) | YAML (GoReleaser) | [chore: fix goreleaser config](https://github.com/lindell/multi-gitter/pull/490)
 2024-06-30 | [urfave/cli](https://github.com/urfave/cli) | document | [docs: fix broken links](https://github.com/urfave/cli/pull/1940)
 2024-06-30 | [urfave/cli](https://github.com/urfave/cli) | Go | [fix: disable shell completion if double dash is included in arguments (v2)](https://github.com/urfave/cli/pull/1938)
 2024-06-30 | [urfave/cli](https://github.com/urfave/cli) | Go | [fix: disable shell completion if double dash is included in arguments (v3)](https://github.com/urfave/cli/pull/1933)
