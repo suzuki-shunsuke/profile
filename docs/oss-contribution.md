@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2024-08-13 | [bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) | YAML (GoReleaser) | [CI: fix the failure of goreleaser](https://github.com/bufbuild/protoc-gen-validate/pull/1146)
 2024-07-21 | [ikanago/omekasy](https://github.com/ikanago/omekasy) | YAML (GitHub Actions) | [ci: fix the package format for Windows](https://github.com/ikanago/omekasy/pull/53)
 2024-07-18 | [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) | YAML (GoReleaser) | [chore: fix goreleaser config and command line options for goreleaser v2](https://github.com/trufflesecurity/trufflehog/pull/3073)
 2024-07-16 | [authzed/zed](https://github.com/authzed/zed) | YAML (GoReleaser) | [chore: fix the release error](https://github.com/authzed/zed/pull/397)
