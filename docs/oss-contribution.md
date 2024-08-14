@@ -22,6 +22,7 @@ merged date | repository | lang | PR's short description
 2024-08-14 | [owenrumney/squealer](https://github.com/owenrumney/squealer) | YAML (GoReleaser) | [chore: fix goreleaser option and config to support goreleaser v2](https://github.com/owenrumney/squealer/pull/118)
 2024-08-13 | [Boeing/config-file-validator](https://github.com/Boeing/config-file-validator) | YAML (GitHub Actions) | [ci: add the permission to release assets](https://github.com/Boeing/config-file-validator/pull/160)
 2024-08-13 | [bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) | YAML (GoReleaser) | [CI: fix the failure of goreleaser](https://github.com/bufbuild/protoc-gen-validate/pull/1146)
+2024-08-13 | [abiosoft/colima](https://github.com/abiosoft/colima) | Makefile | [chore: generate checksum files after signing assets by codesign](https://github.com/abiosoft/colima/pull/1105)
 2024-07-21 | [ikanago/omekasy](https://github.com/ikanago/omekasy) | YAML (GitHub Actions) | [ci: fix the package format for Windows](https://github.com/ikanago/omekasy/pull/53)
 2024-07-18 | [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) | YAML (GoReleaser) | [chore: fix goreleaser config and command line options for goreleaser v2](https://github.com/trufflesecurity/trufflehog/pull/3073)
 2024-07-16 | [authzed/zed](https://github.com/authzed/zed) | YAML (GoReleaser) | [chore: fix the release error](https://github.com/authzed/zed/pull/397)
