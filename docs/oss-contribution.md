@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2024-10-02 | [mvisonneau/s5](https://github.com/mvisonneau/s5) | YAML (GoReleaser) | [ci: install Goreleaser to fix the release workflow](https://github.com/mvisonneau/s5/pull/711)
 2024-08-25 | [ddddddO/gtree](https://github.com/ddddddO/gtree) | YAML (GoReleaser) | [chore: fix GoReleaser config and option for GoReleaser v2](https://github.com/ddddddO/gtree/pull/290)
 2024-08-14 | [owenrumney/squealer](https://github.com/owenrumney/squealer) | YAML (GoReleaser) | [chore: fix goreleaser option and config to support goreleaser v2](https://github.com/owenrumney/squealer/pull/118)
 2024-08-13 | [Boeing/config-file-validator](https://github.com/Boeing/config-file-validator) | YAML (GitHub Actions) | [ci: add the permission to release assets](https://github.com/Boeing/config-file-validator/pull/160)
