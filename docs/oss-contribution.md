@@ -19,6 +19,8 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2024-10-14 | [cloudposse/atmos](https://github.com/cloudposse/atmos) | YAML (GitHub Actions) | [ci: install Terraform to fix CI failure that Terraform is not found](https://github.com/cloudposse/atmos/pull/717)
+2024-10-13 | [terraform-docs/website](https://github.com/terraform-docs/website) | HTML (document) | [fix a broken link to GitHub Action](https://github.com/terraform-docs/website/pull/50)
 2024-10-12 | [ivaaaan/smug](https://github.com/ivaaaan/smug) | YAML (GoReleaser) | [chore(goreleaser): fix asset names](https://github.com/ivaaaan/smug/pull/128)
 2024-10-02 | [mvisonneau/s5](https://github.com/mvisonneau/s5) | YAML (GoReleaser) | [ci: install Goreleaser to fix the release workflow](https://github.com/mvisonneau/s5/pull/711)
 2024-08-25 | [ddddddO/gtree](https://github.com/ddddddO/gtree) | YAML (GoReleaser) | [chore: fix GoReleaser config and option for GoReleaser v2](https://github.com/ddddddO/gtree/pull/290)
