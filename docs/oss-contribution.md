@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2024-10-14 | [cloudposse/atmos](https://github.com/cloudposse/atmos) | YAML (GitHub Actions) | [Fix a reference to an undefined output in GitHub Actions](https://github.com/cloudposse/atmos/pull/718)
 2024-10-14 | [cloudposse/atmos](https://github.com/cloudposse/atmos) | YAML (GitHub Actions) | [ci: install Terraform to fix CI failure that Terraform is not found](https://github.com/cloudposse/atmos/pull/717)
 2024-10-13 | [terraform-docs/website](https://github.com/terraform-docs/website) | HTML (document) | [fix a broken link to GitHub Action](https://github.com/terraform-docs/website/pull/50)
 2024-10-12 | [ivaaaan/smug](https://github.com/ivaaaan/smug) | YAML (GoReleaser) | [chore(goreleaser): fix asset names](https://github.com/ivaaaan/smug/pull/128)
