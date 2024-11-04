@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2024-11-03 | [Byron/dua-cli](https://github.com/Byron/dua-cli) | YAML (GitHub Actions) | [ci: fix the failure of the release workflow by updating actions/upload-artifact to v4](https://github.com/Byron/dua-cli/pull/267)
 2024-10-30 | [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu) | GoReleaser | [ci(goreleaser): Fix the failure of release workflow](https://github.com/projectdiscovery/naabu/pull/1263)
 2024-10-14 | [cloudposse/atmos](https://github.com/cloudposse/atmos) | YAML (GitHub Actions) | [Fix a reference to an undefined output in GitHub Actions](https://github.com/cloudposse/atmos/pull/718)
 2024-10-14 | [cloudposse/atmos](https://github.com/cloudposse/atmos) | YAML (GitHub Actions) | [ci: install Terraform to fix CI failure that Terraform is not found](https://github.com/cloudposse/atmos/pull/717)
