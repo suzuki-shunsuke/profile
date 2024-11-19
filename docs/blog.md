@@ -24,6 +24,7 @@ name | description
 
 date | title
 --- | ---
+2024-11-19 | [Terraform Monorepo の CI の実行時間を可視化し 2 分以上高速化](https://developers.freee.co.jp/entry/2024/11/19/100000)
 2022-03-30 | [Terraform Modules を Monorepo で versioning して管理](https://blog.studysapuri.jp/entry/2022/03/30/080000)
 2022-03-29 | [Automate handling a number of Pull Requests by Renovate in Terraform Monorepo](https://devs.quipper.com/2022/03/29/automate-handling-a-number-of-pull-requests-by-renovate-in-terraform-monorepo.html)
 2022-02-25 | [Migrate Terraform CI from AWS CodeBuild to GitHub Actions](https://devs.quipper.com/2022/02/25/terraform-github-actions.html)
