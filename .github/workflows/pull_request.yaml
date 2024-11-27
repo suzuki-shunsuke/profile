@@ -35,7 +35,8 @@ jobs:
 
   build:
     uses: ./.github/workflows/wc-deploy.yaml
-    permissions: {}
+    permissions:
+      contents: write
     with:
       is_deploy: false
 
