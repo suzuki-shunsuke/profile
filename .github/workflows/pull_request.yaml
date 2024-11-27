@@ -1,0 +1,48 @@
+name: pull request
+
+on: pull_request
+
+jobs:
+  path-filter:
+    # Get changed files to filter jobs
+    timeout-minutes: 10
+    outputs:
+      renovate-config-validator: ${{steps.changes.outputs.renovate-config-validator}}
+    runs-on: ubuntu-latest
+    permissions: {}
+    steps:
+      - uses: dorny/paths-filter@de90cc6fb38fc0963ad72b210f1f284cd68cea36 # v3.0.2
+        id: changes
+        with:
+          filters: |
+            renovate-config-validator:
+              - renovate.json5
+              - .github/workflows/pull_request.yaml
+              - .github/workflows/wc-renovate-config-validator.yaml
+
+  status-check:
+    # This job is used for main branch's branch protection rule's status check.
+    # If all dependent jobs succeed or are skipped this job succeeds.
+    timeout-minutes: 10
+    runs-on: ubuntu-latest
+    needs:
+      - renovate-config-validator
+      - build
+    permissions: {}
+    if: failure()
+    steps:
+      - run: exit 1
+
+  build:
+    uses: ./.github/workflows/wc-deploy.yaml
+    permissions: {}
+    with:
+      is_deploy: false
+
+  renovate-config-validator:
+    uses: ./.github/workflows/wc-renovate-config-validator.yaml
+    needs: path-filter
+    if: needs.path-filter.outputs.renovate-config-validator == 'true'
+    permissions:
+      contents: read
+
