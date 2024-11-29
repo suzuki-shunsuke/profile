@@ -6,6 +6,7 @@ sidebar_position: 500
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2024-11-29 | [tfrstate](https://github.com/suzuki-shunsuke/tfrstate) |  | Go | CLI | Find directories where changed terraform_remote_state data source is used
 2024-11-17 | [release-js-action](https://github.com/suzuki-shunsuke/release-js-action) |  | YAML, Shell script | GitHub Actions | GitHub Action to release JavaScript Actions
 2024-10-29 | [lock-action](https://github.com/suzuki-shunsuke/lock-action) |  | TypeScript | GitHub Actions | GitHub Action for lock mechanism using GitHub branches
 2024-08-06 | [ghomfc](https://github.com/suzuki-shunsuke/ghomfc) |  | Go | CLI | Output GitHub Organization Members ordered by GitHub Followers
