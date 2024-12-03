@@ -6,6 +6,7 @@ sidebar_position: 500
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2024-12-03 | [ghd2i](https://github.com/suzuki-shunsuke/ghd2i) |  | Go | CLI | Create GitHub Issues from GitHub Discussions
 2024-12-01 | [close-discussion-action](https://github.com/suzuki-shunsuke/close-discussion-action) |  | YAML | GitHub Action (Composite Action) | GitHub Action to close and lock GitHub Discussions
 2024-11-29 | [tfrstate](https://github.com/suzuki-shunsuke/tfrstate) |  | Go | CLI | Find directories where changed terraform_remote_state data source is used
 2024-11-17 | [release-js-action](https://github.com/suzuki-shunsuke/release-js-action) |  | YAML, Shell script | GitHub Actions | GitHub Action to release JavaScript Actions
