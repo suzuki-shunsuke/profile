@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2024-12-05 | [vectordotdev/vector](https://github.com/vectordotdev/vector) | YAML (aqua) | [chore(dev): replace the aqua local registry with the standard registry](https://github.com/vectordotdev/vector/pull/21959)
 2024-11-27 | [mattn/bsky](https://github.com/mattn/bsky) | YAML (GitHub Actions) | [ci: use macos-13 to fix the release asset name](https://github.com/mattn/bsky/pull/34)
 2024-11-03 | [Byron/dua-cli](https://github.com/Byron/dua-cli) | YAML (GitHub Actions) | [ci: fix the failure of the release workflow by updating actions/upload-artifact to v4](https://github.com/Byron/dua-cli/pull/267)
 2024-10-30 | [projectdiscovery/naabu](https://github.com/projectdiscovery/naabu) | GoReleaser | [ci(goreleaser): Fix the failure of release workflow](https://github.com/projectdiscovery/naabu/pull/1263)
