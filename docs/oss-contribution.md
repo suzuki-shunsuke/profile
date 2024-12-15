@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2024-12-15 | [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) | YAML (GitHub Actions, Dependabot) | [Revert "chore: bump softprops/action-gh-release from 2.1.0 to 2.2.0"](https://github.com/JanDeDobbeleer/oh-my-posh/pull/6017)
 2024-12-05 | [goccy/go-yaml](https://github.com/goccy/go-yaml) | Go | [Fix a bug ast.Merge removes comments from SequenceNode](https://github.com/goccy/go-yaml/pull/570)
 2024-12-05 | [vectordotdev/vector](https://github.com/vectordotdev/vector) | YAML (aqua) | [chore(dev): replace the aqua local registry with the standard registry](https://github.com/vectordotdev/vector/pull/21959)
 2024-11-27 | [mattn/bsky](https://github.com/mattn/bsky) | YAML (GitHub Actions) | [ci: use macos-13 to fix the release asset name](https://github.com/mattn/bsky/pull/34)
