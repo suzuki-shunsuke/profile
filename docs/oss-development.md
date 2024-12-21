@@ -6,6 +6,7 @@ sidebar_position: 500
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2024-12-21 | [tfmv](https://github.com/suzuki-shunsuke/tfmv) |  | Go | CLI | Rename Terraform resources and modules and generate moved blocks
 2024-12-10 | [sort-issue-template](https://github.com/suzuki-shunsuke/sort-issue-template) |  | Go | CLI | Change the order of GitHub Issue Templates using a text editor
 2024-12-03 | [ghd2i](https://github.com/suzuki-shunsuke/ghd2i) |  | Go | CLI | Create GitHub Issues from GitHub Discussions
 2024-12-01 | [close-discussion-action](https://github.com/suzuki-shunsuke/close-discussion-action) |  | YAML | GitHub Action (Composite Action) | GitHub Action to close and lock GitHub Discussions
