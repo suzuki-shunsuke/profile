@@ -6,6 +6,8 @@ sidebar_position: 500
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2025-01-14 | [deny-self-approve](https://github.com/suzuki-shunsuke/deny-self-approve) |  | Go | CLI | Deny self-approved GitHub Pull Requests
+2025-01-02 | [monitor-gh-follower-action](https://github.com/suzuki-shunsuke/monitor-gh-follower-action) |  | TypeScript | GitHub Action | Monitor GitHub Followers
 2024-12-21 | [tfmv](https://github.com/suzuki-shunsuke/tfmv) |  | Go | CLI | Rename Terraform resources and modules and generate moved blocks
 2024-12-10 | [sort-issue-template](https://github.com/suzuki-shunsuke/sort-issue-template) |  | Go | CLI | Change the order of GitHub Issue Templates using a text editor
 2024-12-03 | [ghd2i](https://github.com/suzuki-shunsuke/ghd2i) |  | Go | CLI | Create GitHub Issues from GitHub Discussions

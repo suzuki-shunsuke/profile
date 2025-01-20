@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2025-01-20 | [neilotoole/sq](https://github.com/neilotoole/sq) | YAML (GoReleaser) | [chore: fix asset names](https://github.com/neilotoole/sq/pull/442)
 2024-12-21 | [zix99/rare](https://github.com/zix99/rare) | YAML (GitHub Actions, GoReleaser) | [chore: update GoReleaser and goreleaser-action and fix deprecation warning](https://github.com/zix99/rare/pull/112)
 2024-12-15 | [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) | YAML (GitHub Actions, Dependabot) | [Revert "chore: bump softprops/action-gh-release from 2.1.0 to 2.2.0"](https://github.com/JanDeDobbeleer/oh-my-posh/pull/6017)
 2024-12-05 | [goccy/go-yaml](https://github.com/goccy/go-yaml) | Go | [Fix a bug ast.Merge removes comments from SequenceNode](https://github.com/goccy/go-yaml/pull/570)
