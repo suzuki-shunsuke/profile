@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2025-01-31 | [cloudposse/atmos](https://github.com/cloudposse/atmos) | YAML (GitHub Actions) | [ci: format Go code by autofix.ci](https://github.com/cloudposse/atmos/pull/991)
 2025-01-31 | [cloudposse/atmos](https://github.com/cloudposse/atmos) | Makefile | [chore: disable CGO in Makefile](https://github.com/cloudposse/atmos/pull/985)
 2025-01-20 | [neilotoole/sq](https://github.com/neilotoole/sq) | YAML (GoReleaser) | [chore: fix asset names](https://github.com/neilotoole/sq/pull/442)
 2024-12-21 | [zix99/rare](https://github.com/zix99/rare) | YAML (GitHub Actions, GoReleaser) | [chore: update GoReleaser and goreleaser-action and fix deprecation warning](https://github.com/zix99/rare/pull/112)
