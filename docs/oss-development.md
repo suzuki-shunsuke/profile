@@ -6,6 +6,7 @@ sidebar_position: 500
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2025-02-03 | [urfave-cli-help-all](https://github.com/suzuki-shunsuke/urfave-cli-help-all) |  | Go | library | show the help of all commands of CLIs built with urfave/cli/v2
 2025-01-14 | [deny-self-approve](https://github.com/suzuki-shunsuke/deny-self-approve) |  | Go | CLI | Deny self-approved GitHub Pull Requests
 2025-01-02 | [monitor-gh-follower-action](https://github.com/suzuki-shunsuke/monitor-gh-follower-action) |  | TypeScript | GitHub Action | Monitor GitHub Followers
 2024-12-21 | [tfmv](https://github.com/suzuki-shunsuke/tfmv) |  | Go | CLI | Rename Terraform resources and modules and generate moved blocks
