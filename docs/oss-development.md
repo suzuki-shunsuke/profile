@@ -6,6 +6,10 @@ sidebar_position: 500
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2025-03-05 | [required-status-check-action](https://github.com/suzuki-shunsuke/required-status-check-action) |  | TypeScript | GitHub Actions | GitHub Action to allow you to configure GitHub Branch Rulesets' Require status checks to pass easily and securely
+2025-03-04 | [gh-pages-action](https://github.com/suzuki-shunsuke/gh-pages-action) |  | YAML (Shell Script) | GitHub Actions | GitHub Action to publish GitHub Pages
+2025-02-15 | [deny-self-approve-action](https://github.com/suzuki-shunsuke/deny-self-approve-action) |  | YAML (Shell Script) | GitHub Actions | GitHub Action to deny self approval
+2025-02-05 | [commit-action](https://github.com/suzuki-shunsuke/commit-action) |  | YAML (Shell Script) | GitHub Actions | GitHub Action to push changes to remote branches by GitHub API. You can create verified commits using GitHub App
 2025-02-03 | [urfave-cli-help-all](https://github.com/suzuki-shunsuke/urfave-cli-help-all) |  | Go | library | show the help of all commands of CLIs built with urfave/cli/v2
 2025-01-14 | [deny-self-approve](https://github.com/suzuki-shunsuke/deny-self-approve) |  | Go | CLI | Deny self-approved GitHub Pull Requests
 2025-01-02 | [monitor-gh-follower-action](https://github.com/suzuki-shunsuke/monitor-gh-follower-action) |  | TypeScript | GitHub Action | Monitor GitHub Followers
