@@ -18,19 +18,6 @@ jobs:
               - .github/workflows/pull_request.yaml
               - .github/workflows/wc-renovate-config-validator.yaml
 
-  status-check:
-    # This job is used for main branch's branch protection rule's status check.
-    # If all dependent jobs succeed or are skipped this job succeeds.
-    timeout-minutes: 10
-    runs-on: ubuntu-latest
-    needs:
-      - renovate-config-validator
-      - build
-    permissions: {}
-    if: failure()
-    steps:
-      - run: exit 1
-
   build:
     uses: ./.github/workflows/wc-deploy.yaml
     permissions:
