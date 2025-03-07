@@ -19,6 +19,7 @@ date | repository
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2025-03-08 | [fe3dback/go-arch-lint](https://github.com/fe3dback/go-arch-lint) | YAML (GitHub Actions) | [chore: update Go to 1.24 to resolve the build error](https://github.com/fe3dback/go-arch-lint/pull/73)
 2025-03-05 | [cloudspannerecosystem/yo](https://github.com/cloudspannerecosystem/yo) | YAML (GitHub Actions, GoReleaser) | [Fix the release error](https://github.com/cloudspannerecosystem/yo/pull/157)
 2025-01-31 | [cloudposse/atmos](https://github.com/cloudposse/atmos) | YAML (GitHub Actions) | [ci: format Go code by autofix.ci](https://github.com/cloudposse/atmos/pull/991)
 2025-01-31 | [cloudposse/atmos](https://github.com/cloudposse/atmos) | Makefile | [chore: disable CGO in Makefile](https://github.com/cloudposse/atmos/pull/985)
