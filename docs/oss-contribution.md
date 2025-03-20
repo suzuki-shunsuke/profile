@@ -4,13 +4,6 @@ sidebar_position: 400
 
 # OSS Collaboration and Contribution
 
-## Collaboration
-
-date | repository
---- | ---
-2020-11-29 / now | [kreuzwerker/terraform-provider-docker](https://github.com/kreuzwerker/terraform-provider-docker)
-2018-07-12 / 2019-06-25 | [line/line-bot-sdk-go](https://github.com/line/line-bot-sdk-go)
-
 ## Contribution (Pull Request)
 
 [merged](https://github.com/pulls?q=is%3Apr+author%3Asuzuki-shunsuke+-user%3Asuzuki-shunsuke+is%3Apublic+is%3Amerged)

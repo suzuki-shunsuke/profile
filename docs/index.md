@@ -21,14 +21,7 @@ I am passionate about solving the problem of software development by software en
 
 - Go, Shell Script
 - AWS, Google Cloud
-- GitHub Actions, CircleCI, AWS CodeBuild, Cloud Build, Drone
-- k8s
+- GitHub Actions
 - Terraform
-- Ansible
 - Renovate
-- Conftest
 - etc
-
-## Who uses my OSS?
-
-https://github.com/suzuki-shunsuke/profile/discussions/57
