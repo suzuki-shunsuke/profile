@@ -6,6 +6,8 @@ sidebar_position: 500
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2025-03-14 | [securefix-action](https://github.com/securefix-action/action) |  | YAML (Shell Script) | GitHub Actions | GitHub Action to fix code securely
+2025-03-06 | [status-check-workflow-run-action](https://github.com/suzuki-shunsuke/status-check-workflow-run-action) |  | YAML (Shell Script) | GitHub Actions | GitHub Action To Update GitHub's Required Status Check
 2025-03-05 | [required-status-check-action](https://github.com/suzuki-shunsuke/required-status-check-action) |  | TypeScript | GitHub Actions | GitHub Action to allow you to configure GitHub Branch Rulesets' Require status checks to pass easily and securely
 2025-03-04 | [gh-pages-action](https://github.com/suzuki-shunsuke/gh-pages-action) |  | YAML (Shell Script) | GitHub Actions | GitHub Action to publish GitHub Pages
 2025-02-15 | [deny-self-approve-action](https://github.com/suzuki-shunsuke/deny-self-approve-action) |  | YAML (Shell Script) | GitHub Actions | GitHub Action to deny self approval
