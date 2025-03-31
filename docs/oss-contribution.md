@@ -6,12 +6,15 @@ sidebar_position: 400
 
 ## Contribution (Pull Request)
 
-[merged](https://github.com/pulls?q=is%3Apr+author%3Asuzuki-shunsuke+-user%3Asuzuki-shunsuke+is%3Apublic+is%3Amerged)
-[open](https://github.com/pulls?q=is%3Apr+author%3Asuzuki-shunsuke+-user%3Asuzuki-shunsuke+is%3Apublic+is%3Aopen)
-[rejected](https://github.com/pulls?q=is%3Apr+author%3Asuzuki-shunsuke+-user%3Asuzuki-shunsuke+is%3Apublic+is%3Aunmerged+is%3Aclosed)
+[merged](https://github.com/pulls?q=is%3Apr+author%3Asuzuki-shunsuke+-user%3Asuzuki-shunsuke+is%3Apublic+is%3Amerged+-org%3Aaquaproj+-org%3Alintnet+-org%3Alintnet-modules+-org%3Aszksh-lab+-org%3Aszksh-lab-2+-org%3Asecurefix-action)
+[open](https://github.com/pulls?q=is%3Apr+author%3Asuzuki-shunsuke+-user%3Asuzuki-shunsuke+is%3Apublic+is%3Aopen+-org%3Aaquaproj+-org%3Alintnet+-org%3Alintnet-modules+-org%3Aszksh-lab+-org%3Aszksh-lab-2+-org%3Asecurefix-action+)
+[rejected](https://github.com/pulls?q=is%3Apr+author%3Asuzuki-shunsuke+-user%3Asuzuki-shunsuke+is%3Aclosed+is%3Apublic+is%3Aunmerged+-org%3Aaquaproj+-org%3Alintnet+-org%3Alintnet-modules+-org%3Aszksh-lab+-org%3Aszksh-lab-2+-org%3Asecurefix-action+)
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2025-03-31 | [sirwart/ripsecrets](https://github.com/sirwart/ripsecrets) | YAML (GitHub Actions) | [chore: update upload-artifact to v4](https://github.com/sirwart/ripsecrets/pull/96)
+2025-03-31 | [sirwart/ripsecrets](https://github.com/sirwart/ripsecrets) | YAML (GitHub Actions) | [ci: checkout the repository before running install-nix-action](https://github.com/sirwart/ripsecrets/pull/97)
+2025-03-30 | [tmccombs/hcl2json](https://github.com/tmccombs/hcl2json) | YAML (GoReleaser) | [chore(goreleaser): add binary to formats on Windows](https://github.com/tmccombs/hcl2json/pull/121)
 2025-03-08 | [fe3dback/go-arch-lint](https://github.com/fe3dback/go-arch-lint) | YAML (GitHub Actions) | [chore: update Go to 1.24 to resolve the build error](https://github.com/fe3dback/go-arch-lint/pull/73)
 2025-03-05 | [cloudspannerecosystem/yo](https://github.com/cloudspannerecosystem/yo) | YAML (GitHub Actions, GoReleaser) | [Fix the release error](https://github.com/cloudspannerecosystem/yo/pull/157)
 2025-01-31 | [cloudposse/atmos](https://github.com/cloudposse/atmos) | YAML (GitHub Actions) | [ci: format Go code by autofix.ci](https://github.com/cloudposse/atmos/pull/991)
