@@ -21,9 +21,9 @@ jobs:
           cache: 'npm'
       - run: npm install
       - run: npm run build
-      - uses: peaceiris/actions-gh-pages@4f9cc6602d3f66b9c108549d475ec49e8ef4d45e # v4.0.0
+      - name: Push changes to the remote branch
         if: inputs.is_deploy
+        uses: suzuki-shunsuke/gh-pages-action@6229a3f8d89389da5c234aab3b37ba51a7fee3f6 # v0.0.1
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./build
-          destination_dir: ./docs
+          publish_dir: build
+          destination_dir: docs
