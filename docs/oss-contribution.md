@@ -12,6 +12,7 @@ sidebar_position: 400
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2025-04-22 | [in-toto/witness](https://github.com/in-toto/witness) | Markdown | [docs: fix markdown](https://github.com/in-toto/witness/pull/590)
 2025-04-08 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | YAML (GitHub Actions) | [Generate GitHub Artifact Attestations](https://github.com/github/github-mcp-server/pull/174)
 2025-03-31 | [sirwart/ripsecrets](https://github.com/sirwart/ripsecrets) | YAML (GitHub Actions) | [chore: update upload-artifact to v4](https://github.com/sirwart/ripsecrets/pull/96)
 2025-03-31 | [sirwart/ripsecrets](https://github.com/sirwart/ripsecrets) | YAML (GitHub Actions) | [ci: checkout the repository before running install-nix-action](https://github.com/sirwart/ripsecrets/pull/97)
