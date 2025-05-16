@@ -6,9 +6,7 @@ sidebar_position: 400
 
 ## Contribution (Pull Request)
 
-[merged](https://github.com/pulls?q=is%3Apr+author%3Asuzuki-shunsuke+-user%3Asuzuki-shunsuke+is%3Apublic+is%3Amerged+-org%3Aaquaproj+-org%3Alintnet+-org%3Alintnet-modules+-org%3Aszksh-lab+-org%3Aszksh-lab-2+-org%3Asecurefix-action)
-[open](https://github.com/pulls?q=is%3Apr+author%3Asuzuki-shunsuke+-user%3Asuzuki-shunsuke+is%3Apublic+is%3Aopen+-org%3Aaquaproj+-org%3Alintnet+-org%3Alintnet-modules+-org%3Aszksh-lab+-org%3Aszksh-lab-2+-org%3Asecurefix-action+)
-[rejected](https://github.com/pulls?q=is%3Apr+author%3Asuzuki-shunsuke+-user%3Asuzuki-shunsuke+is%3Aclosed+is%3Apublic+is%3Aunmerged+-org%3Aaquaproj+-org%3Alintnet+-org%3Alintnet-modules+-org%3Aszksh-lab+-org%3Aszksh-lab-2+-org%3Asecurefix-action+)
+[merged](https://github.com/pulls?q=is%3Apr+author%3Asuzuki-shunsuke+-user%3Asuzuki-shunsuke+is%3Apublic+is%3Amerged+-org%3Aaquaproj+-org%3Alintnet+-org%3Alintnet-modules+-org%3Aszksh-lab+-org%3Aszksh-lab-2+-org%3Asecurefix-action+-org%3Acsm-actions+) | [open](https://github.com/pulls?q=is%3Apr+author%3Asuzuki-shunsuke+-user%3Asuzuki-shunsuke+is%3Apublic+is%3Aopen+-org%3Aaquaproj+-org%3Alintnet+-org%3Alintnet-modules+-org%3Aszksh-lab+-org%3Aszksh-lab-2+-org%3Asecurefix-action+-org%3Acsm-actions) | [rejected](https://github.com/pulls?q=is%3Apr+author%3Asuzuki-shunsuke+-user%3Asuzuki-shunsuke+is%3Aclosed+is%3Apublic+is%3Aunmerged+-org%3Aaquaproj+-org%3Alintnet+-org%3Alintnet-modules+-org%3Aszksh-lab+-org%3Aszksh-lab-2+-org%3Asecurefix-action+-org%3Acsm-actions)
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---

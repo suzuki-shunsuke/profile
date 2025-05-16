@@ -6,6 +6,11 @@ sidebar_position: 500
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2025-05-11 | [validate-pr-review-action](https://github.com/suzuki-shunsuke/validate-pr-review-action) |  | TypeScript | GitHub Actions | GitHub Action to validate pull request reviews
+2025-05-04 | [approve-pr-action](https://github.com/csm-actions/approve-pr-action) |  | YAML (Shell Script) | GitHub Action to approve pull requests securely
+2025-05-04 | [update-branch-action](https://github.com/csm-actions/update-branch-action) |  | YAML (Shell Script) | GitHub Actions | GitHub Action to update pull request branches securely
+2025-05-04 | [label-action](https://github.com/csm-actions/label-action) |  | TypeScript | GitHub Actions | GitHub Action to create GitHub Issue labels to trigger GitHub Actions Workflows. This is useful to build Client / Server Model by GitHub Actions
+2025-05-03 | [csm-actions/docs](https://github.com/csm-actions/docs) |  | Markdown | Document | Client / Server Model for GitHub Actions
 2025-03-14 | [securefix-action](https://github.com/securefix-action/action) |  | YAML (Shell Script) | GitHub Actions | GitHub Action to fix code securely
 2025-03-06 | [status-check-workflow-run-action](https://github.com/suzuki-shunsuke/status-check-workflow-run-action) |  | YAML (Shell Script) | GitHub Actions | GitHub Action To Update GitHub's Required Status Check
 2025-03-05 | [required-status-check-action](https://github.com/suzuki-shunsuke/required-status-check-action) |  | TypeScript | GitHub Actions | GitHub Action to allow you to configure GitHub Branch Rulesets' Require status checks to pass easily and securely
