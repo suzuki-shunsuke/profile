@@ -6,10 +6,12 @@ sidebar_position: 400
 
 ## Contribution (Pull Request)
 
-[merged](https://github.com/pulls?q=is%3Apr+author%3Asuzuki-shunsuke+-user%3Asuzuki-shunsuke+is%3Apublic+is%3Amerged+-org%3Aaquaproj+-org%3Alintnet+-org%3Alintnet-modules+-org%3Aszksh-lab+-org%3Aszksh-lab-2+-org%3Asecurefix-action+-org%3Acsm-actions+) | [open](https://github.com/pulls?q=is%3Apr+author%3Asuzuki-shunsuke+-user%3Asuzuki-shunsuke+is%3Apublic+is%3Aopen+-org%3Aaquaproj+-org%3Alintnet+-org%3Alintnet-modules+-org%3Aszksh-lab+-org%3Aszksh-lab-2+-org%3Asecurefix-action+-org%3Acsm-actions) | [rejected](https://github.com/pulls?q=is%3Apr+author%3Asuzuki-shunsuke+-user%3Asuzuki-shunsuke+is%3Aclosed+is%3Apublic+is%3Aunmerged+-org%3Aaquaproj+-org%3Alintnet+-org%3Alintnet-modules+-org%3Aszksh-lab+-org%3Aszksh-lab-2+-org%3Asecurefix-action+-org%3Acsm-actions)
+[merged](https://github.com/pulls?q=is%3Apr+author%3Asuzuki-shunsuke+-user%3Asuzuki-shunsuke+is%3Apublic+is%3Amerged+-org%3Aaquaproj+-org%3Alintnet+-org%3Alintnet-modules+-org%3Aszksh-lab+-org%3Aszksh-lab-2+-org%3Asecurefix-action+-org%3Acsm-actions+-repo%3Amicrosoft%2Fwinget-pkgs) | [open](https://github.com/pulls?q=is%3Apr+author%3Asuzuki-shunsuke+-user%3Asuzuki-shunsuke+is%3Apublic+is%3Aopen+-org%3Aaquaproj+-org%3Alintnet+-org%3Alintnet-modules+-org%3Aszksh-lab+-org%3Aszksh-lab-2+-org%3Asecurefix-action+-org%3Acsm-actions) | [rejected](https://github.com/pulls?q=is%3Apr+author%3Asuzuki-shunsuke+-user%3Asuzuki-shunsuke+is%3Aclosed+is%3Apublic+is%3Aunmerged+-org%3Aaquaproj+-org%3Alintnet+-org%3Alintnet-modules+-org%3Aszksh-lab+-org%3Aszksh-lab-2+-org%3Asecurefix-action+-org%3Acsm-actions)
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2025-07-31 | [direnv/direnv](https://github.com/direnv/direnv) | Makefile | [chore: add the file extension .exe to windows binaries](https://github.com/direnv/direnv/pull/1460)
+2025-07-19 | [google/go-github](https://github.com/google/go-github) | Go | [feat: Add the Digest field to ReleaseAsset](https://github.com/google/go-github/pull/3628)
 2025-04-22 | [in-toto/witness](https://github.com/in-toto/witness) | Markdown | [docs: fix markdown](https://github.com/in-toto/witness/pull/590)
 2025-04-08 | [github/github-mcp-server](https://github.com/github/github-mcp-server) | YAML (GitHub Actions) | [Generate GitHub Artifact Attestations](https://github.com/github/github-mcp-server/pull/174)
 2025-03-31 | [sirwart/ripsecrets](https://github.com/sirwart/ripsecrets) | YAML (GitHub Actions) | [chore: update upload-artifact to v4](https://github.com/sirwart/ripsecrets/pull/96)
