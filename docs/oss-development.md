@@ -6,6 +6,7 @@ sidebar_position: 500
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2025-08-31 | [ghtkn](https://github.com/suzuki-shunsuke/ghtkn) |  | Go | CLI | Create GitHub App User Access Token for secure local development
 2025-05-11 | [validate-pr-review-action](https://github.com/suzuki-shunsuke/validate-pr-review-action) |  | TypeScript | GitHub Actions | GitHub Action to validate pull request reviews
 2025-05-04 | [approve-pr-action](https://github.com/csm-actions/approve-pr-action) |  | YAML (Shell Script) | GitHub Action to approve pull requests securely
 2025-05-04 | [update-branch-action](https://github.com/csm-actions/update-branch-action) |  | YAML (Shell Script) | GitHub Actions | GitHub Action to update pull request branches securely
