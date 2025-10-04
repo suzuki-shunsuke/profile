@@ -6,6 +6,8 @@ sidebar_position: 500
 
 first release date | name | badges | lang | type | short description
 --- | --- | --- | --- | --- | ---
+2025-10-04 | [ghir](https://github.com/suzuki-shunsuke/ghir) |  | Go | CLI | ghir is a CLI making past GitHub Releases immutable
+2025-09-27 | [validate-pr-review-app](https://github.com/suzuki-shunsuke/validate-pr-review-app) |  | Go | GitHub App | Self-hosted GitHub App that validates Pull Request reviews. It helps organizations improve governance and security by ensuring PRs cannot be merged without proper approvals while keeping developer experience
 2025-08-31 | [ghtkn](https://github.com/suzuki-shunsuke/ghtkn) |  | Go | CLI | Create GitHub App User Access Token for secure local development
 2025-05-11 | [validate-pr-review-action](https://github.com/suzuki-shunsuke/validate-pr-review-action) |  | TypeScript | GitHub Actions | GitHub Action to validate pull request reviews
 2025-05-04 | [approve-pr-action](https://github.com/csm-actions/approve-pr-action) |  | YAML (Shell Script) | GitHub Action to approve pull requests securely
