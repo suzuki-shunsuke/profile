@@ -10,6 +10,7 @@ sidebar_position: 400
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2025-10-13 | [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) | Go | [fix: update connectrpc/connect-go to resolve the compile error](https://github.com/grafana/mcp-grafana/pull/316)
 2025-07-31 | [direnv/direnv](https://github.com/direnv/direnv) | Makefile | [chore: add the file extension .exe to windows binaries](https://github.com/direnv/direnv/pull/1460)
 2025-07-19 | [google/go-github](https://github.com/google/go-github) | Go | [feat: Add the Digest field to ReleaseAsset](https://github.com/google/go-github/pull/3628)
 2025-04-22 | [in-toto/witness](https://github.com/in-toto/witness) | Markdown | [docs: fix markdown](https://github.com/in-toto/witness/pull/590)
