@@ -10,6 +10,7 @@ sidebar_position: 400
 
 merged date | repository | lang | PR's short description
 --- | --- | --- | ---
+2025-10-24 | [yaml/go-yaml](https://github.com/yaml/go-yaml) | YAML (GitHub Actions) | [ci: Disable actions/checkout's persist-credentials](https://github.com/yaml/go-yaml/pull/126)
 2025-10-14 | [zarf-dev/zarf](https://github.com/zarf-dev/zarf) | Document (Go) | [docs: fix typos](https://github.com/zarf-dev/zarf/pull/4261)
 2025-10-13 | [grafana/mcp-grafana](https://github.com/grafana/mcp-grafana) | Go | [fix: update connectrpc/connect-go to resolve the compile error](https://github.com/grafana/mcp-grafana/pull/316)
 2025-07-31 | [direnv/direnv](https://github.com/direnv/direnv) | Makefile | [chore: add the file extension .exe to windows binaries](https://github.com/direnv/direnv/pull/1460)
