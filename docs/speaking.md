@@ -6,6 +6,7 @@ sidebar_position: 200
 
 date | event | style | presentation title
 --- | --- | --- | ---
+2025-07-28 | [『GopherのためのCLIツール開発』最新事情 LT](https://findy.connpass.com/event/362163/) | LT (5 min) | [Go で CLI を開発する Tips 2025](https://suzuki-shunsuke.github.io/slides/go-cli-2025-ja)
 2025-03-11 | [俺たちのGitHub Actions活用術-なんとなくから脱却する選抜グッドプラクティス](https://findy.connpass.com/event/346633/) | Talk (20 min) | [GitHub Actions Best Practice 2025](https://suzuki-shunsuke.github.io/slides/github-actions-best-practice-2025)
 2025-02-27 | [Data Engineering Study #28 データ基盤のCI/CD](https://forkwell.connpass.com/event/339761/) ([youtube](https://www.youtube.com/watch?v=Bkhazm0CmFk)) | Talk (40 min) | [データ基盤のための Terraform Workflow を tfaction で構築しよう](https://speakerdeck.com/szksh/tetaji-pan-notameno-terraform-workflow-wo-tfaction-tegou-zhu-siyou) ([youtube](https://www.youtube.com/watch?v=Bkhazm0CmFk&t=460s))
 2024-06-07 | [Lint Night #3](https://lintnight.connpass.com/event/319202/) | Talk (15 min) | [lintnet - General purpose linter powered by Jsonnet](https://speakerdeck.com/szksh/lintnet-general-purpose-linter-powered-by-jsonnet)
