@@ -15,7 +15,7 @@ jobs:
       - uses: actions/checkout@de0fac2e4500dabe0009e67214ff5f5447ce83dd # v6.0.2
         with:
           persist-credentials: false
-      - uses: actions/setup-node@6044e13b5dc448c55e2357c09f80417699197238 # v6.2.0
+      - uses: actions/setup-node@48b55a011bda9f5d6aeb4c2d9c7362e8dae4041e # v6.4.0
         with:
           node-version: '22'
           cache: 'npm'
@@ -23,7 +23,7 @@ jobs:
       - run: npm run build
       - name: Push changes to the remote branch
         if: inputs.is_deploy
-        uses: suzuki-shunsuke/gh-pages-action@5df123b4f8ae31edbe71bcc9a28a9598c29b1011 # v0.0.6
+        uses: suzuki-shunsuke/gh-pages-action@ce95bfca768d3d1a0454f8efb6f81a557a18bc68 # v0.1.0
         with:
           publish_dir: build
           destination_dir: docs
