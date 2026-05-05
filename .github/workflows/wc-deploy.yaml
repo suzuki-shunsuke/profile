@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: '22'
           cache: 'npm'
-      - run: npm install
+      - run: npm ci
       - run: npm run build
       - name: Push changes to the remote branch
         if: inputs.is_deploy
