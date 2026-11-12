@@ -1,12 +1,22 @@
 name: test (workflow_call)
-on: workflow_call
+on:
+  workflow_call:
+    secrets:
+      TAKUMI_GUARD_BOT_ID:
+        required: false
 jobs:
-  build:
-    uses: ./.github/workflows/wc-deploy.yaml
-    permissions:
-      contents: write
+  test-doc:
+    uses: suzuki-shunsuke/release-doc-action/.github/workflows/test.yaml@1cb15eb99aa8f0ae05ae28174430e49579e878fa # v0.2.0
     with:
-      is_deploy: false
+      working_directory: .
+      node-version-file: .node-version
+      paths: "" # Always build the document
+    secrets:
+      TAKUMI_GUARD_BOT_ID: ${{secrets.TAKUMI_GUARD_BOT_ID}}
+    permissions:
+      pull-requests: read
+      contents: read
+      id-token: write
 
   test-workflow:
     uses: suzuki-shunsuke/test-workflow/.github/workflows/test.yaml@0b89b9b4314282810bc944364380568708208eaa # v0.0.2

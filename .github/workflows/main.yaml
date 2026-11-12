@@ -3,10 +3,17 @@ on:
   push:
     branches:
       - main
+permissions: {}
 jobs:
-  deploy:
-    uses: ./.github/workflows/wc-deploy.yaml
+  release-doc:
+    uses: suzuki-shunsuke/release-doc-action/.github/workflows/release.yaml@1cb15eb99aa8f0ae05ae28174430e49579e878fa # v0.2.0
+    with:
+      working_directory: .
+      node-version-file: .node-version
+      build_dir: build
+    secrets:
+      TAKUMI_GUARD_BOT_ID: ${{secrets.TAKUMI_GUARD_BOT_ID}}
     permissions:
       contents: write
-    with:
-      is_deploy: true
+      issues: write
+      id-token: write
